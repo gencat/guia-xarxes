@@ -23,8 +23,7 @@ Les pàgines oficials permeten a institucions, empreses o altres entitats de crea
 Els crea un usuari (creador) i les persones que s'hi afegeixen poden tenir rols diferents: administrador, vocal i membre. Els grups poden ser públics, privats o secrets i serveixen per formar xarxa al voltant d'un tema o un interès específic.
 
 ## Pàgines com a solució corporativa 
-La pàgina és la solució corporativa escollida per als diferents departaments de la Generalitat. De fet, és l’opció més adient per a les institucions i per als òrgans que les constitueixen, ja que Facebook atribueix un caràcter diferencial a les
-organitzacions de tot tipus per distingir-les dels perfils personals.
+La pàgina és la solució corporativa escollida per als diferents departaments de la Generalitat. De fet, és l’opció més adient per a les institucions i per als òrgans que les constitueixen, ja que Facebook atribueix un caràcter diferencial a les organitzacions de tot tipus per distingir-les dels perfils personals.
  
 La creació d'un perfil per a un departament o servei està fora de tot plantejament, ja que incompleix les normes d'ús de Facebook.
 
