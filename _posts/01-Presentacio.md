@@ -65,7 +65,6 @@ Tant els blocs com els altres espais a les diferents plataformes del web social 
 La Generalitat només es responsabilitza dels continguts que emet a través dels seus canals. Els responsables dels perfils de la Generalitat es reserven el dret de no publicar qualsevol aportació que no observi aquestes indicacions mínimes.
 
 ## Privacitat a les xarxes socials
-
 Les xarxes socials estan cada vegada més presents en la nostra vida quotidiana. Però fins ara les mesures d’autoregulació s’han mostrat insuficients per preservar la privacitat de la ciutadania i fomentar alhora el potencial d’innovació i de creixement econòmic que representen la Internet actual i les xarxes socials. En aquest sentit, resultarà útil tenir clares unes pautes d’actuació en aquestes plataformes pel que fa a la privacitat:
 
 - **Formació**. Cal aprendre a gestionar contactes i a publicar tota mena de continguts a les xarxes. Saber què hi podem publicar, el temps que hi romandrà (sempre?) i disposar de l’autorització de terceres persones que apareguin a les imatges, per exemple. I, a més, hem de conèixer que algunes xarxes són especialment instrusives amb els drets d’explotació de tot el que s’hi publica.
@@ -73,7 +72,6 @@ Les xarxes socials estan cada vegada més presents en la nostra vida quotidiana. 
 - **Identificació**. Cal tendir a la identificació dels usuaris per evitar l’anonimat a les xarxes socials (identitat cívica).
 
 ## El cas de departaments o institucions amb centres prestadors de serveis
-
 Hi ha departaments, serveis i marques que, per la pròpia estructura interna, disposen de centres prestadors de serveis (CPS), repartits pel territori. Els CPS poden demanar l’obertura d’un compte de xarxa social que segueixi les pautes comunes per a tota la Generalitat i obtenir l’avatar oficial d’acord amb el Programa d’identificació visual (PIV) de les xarxes socials de la Generalitat.
 
 El procediment d’obertura que cal seguir es coordinarà entre el CPS i l’organisme responsable de l’obertura de xarxes socials en aquell departament o institució, seguint el protocol que ha establert prèviament la DGACD.
