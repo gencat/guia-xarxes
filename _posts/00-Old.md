@@ -5,51 +5,6 @@
 ### Personalització dels comptes
 
 
-## Continguts
-
-### Usos lingüístics
-Els tuits es redacten majoritàriament en català, la llengua comuna i pròpia. També se'n poden redactar en castellà i en anglès, segons el tipus de continguts de què es tracti.
-
-Pel que fa als retuits, es respectarà la llengua en què han estat escrits originàriament.
-
-### Estructura del tuit
-Els tuits es componen d’un text (a mode de titular), preferentment d’un enllaç escurçat i a més, sempre que es pugui, d’una etiqueta (hashtag) introduïda pel símbol #.
-
-**Text + enllaç escurçat + #etiqueta**
-Anàlisi de comptes Twitter del Parlament de Catalunya bit.ly/cLcOR4 #ogov
-
-Pel que fa al text, cal que la informació sigui sintètica, rigorosa i concisa. Per això, és important adjuntar-hi un enllaç si escau, ja que, d’aquesta manera, s’ofereix als usuaris la possibilitat d’ampliar el contingut.
-
-En el cas de retransmissió d’actes en directe (live blogging) a través de Twitter no és necessari que hi hagi associat cap enllaç, però és important sempre acompanyar el tuit de l’etiqueta que faci referència a l’acte.
-
-<img src='{{ "/img/3_twitter_2.jpg" | prepend: site.baseurl }}' />
-
-**Autor + Cita + #etiqueta**
-Boris Mir: Les competències transversals són importants en el nou sistema educatiu #sessioweb
-
-Si s’ha de retransmetre un esdeveniment en directe amb regularitat, es recomana crear un canal especial (per exemple, @sessionsweb) des d’on publicar tuits.D’aquesta manera evitarem col·lapsar el timeline dels seguidors. Des del Twitter principal (per exemple, @gencat) s’anunciarà aquest nou canal, i s’hi faran retuits d’alguns dels missatges més interessants.
-
-#### Abreviatures dels dies de la setmana i de les dates
-Atesa la limitació de 140 caràcters, si s’han de reflectir dies de la setmana i dates es recomana fer servir el format abreujat.
-
-- Dies de la setmana: dl., dt., dc., dj., dv., ds. i dg.
-- Dates: dia (en número) - mes (en número)
-
-Es proposa aquesta estructura de tuit:
-
-**Abreviatura + text + enllaç escurçat + etiqueta**
-
-Exemple: Dj. 01-12 tindrà lloc la 6a reunió de la comunitat de professionals.
-
-Per raons d’economia d’espai es poden escriure les abreviatures sense punt.
-
-#### Optimització dels tuits per a la cerca
-En el cas que s’hagi de respondre alguna pregunta, s’ha d’escriure la resposta tenint sempre presents les paraules clau; així, la informació que pugui ser d’utilitat per a altres persones usuàries estarà més ben posicionada a Internet i costarà menys de trobar quan es faci una cerca.
-
-Exemple:
-
-- @gencat Quan sortirà la convocatòria per a ajudes universitàries?
-- @nomusuari La convocatòria per a ajudes universitàries sortirà el juny de 2013.
 
 ## Tipologia de comptes
 
@@ -73,75 +28,6 @@ Emergències: **@emergenciescat**
 
 Per garantir l'administració òptima d'aquests comptes, l'adequada protecció de dades i la transferència de responsabilitat i de control, el model de presència de la Generalitat a les xarxes socials evita treballar directament amb l'identificador i la contrasenya de les diferents aplicacions de xarxa social.
 
-### Enllaços
-Els enllaços aporten valor afegit al tuit. S’han d’escurçar mitjançant l’aplicació bit.ly, incorporada a Tweetdeck, que permet comptabilitzar la mètrica del perfil de manera fàcil i àgil. Cal llegir bé els textos que s’enllacen i assegurar-se que la font és fiable.
-
-Si es tracta de llocs web, cal buscar-ne les persones que l’han creat i veure si se’ls pot donar crèdit. En general, cal evitar enllaçar blocs personals, tret d’aquelles informacions que són rellevants pel contingut (seleccionat amb l’objectiu del perfil de Twitter de la Generalitat) i no pas per l’opinió de la persona blocaire.
-
-(### Consultes i altres aportacions dels usuaris
-Les mencions o al·lusions que ho requereixin s'han de respondre com més aviat millor.
-
-N'hi ha de dues menes:
-
-- Formulació de preguntes, dubtes i sol·licituds. Les que siguin d'un àmbit més particular poden ser respostes amb un missatge directe.
-- Crítiques: en el cas de situacions de crítica oberta positiva, l’opció més adequada és contestar públicament amb la finalitat de mostrar que es dóna resposta a les opinions dels usuaris. Si la crítica és negativa, caldrà estudiar amb profunditat la queixa i donar-hi resposta de forma constructiva.
-
-En els casos en què calgui donar més informació, es pot remetre l'interlocutor a una bústia de correu electrònic.
-
-Totes les consultes i queixes dels diferents departaments, serveis i marques es podran repositar al portal d'Atenció Ciutadana i Difusió, grup Internet, de la plataforma e-Catalunya, perquè puguin servir per a altres ocasions a tota la comunitat que gestiona la presència de la Generalitat a les xarxes socials.)
-
-### Etiquetes (hashtags)
-L’etiqueta anuncia la temàtica del tuit i s’han d’usar les que ja es fan servir a Twitter. La manera de saber si una etiqueta està en ús és escriure-la al buscador de Twitter [search.twitter.com](http://search.twitter.com) (ex: administracio) i així es pot esbrinar si està en ús o no.
-
-L’etiqueta ha de ser curta. L’ús d’etiquetes permet classificar la informació d’una manera àgil; així, els usuaris poden cercar i filtrar contingut a partir de les etiquetes. A més a més, són un indicador dels temes de més actualitat a Twitter.
-
-### Retuits (RT)
-Els retuits són tuits d’altres persones usuàries que tornen a publicar per col·laborar a la conversa. Perquè els altres usuaris puguin retuitejar-los, els tuits han de tenir uns 125-130 caràcters com a màxim (segons la llargada del nom del perfil).
-
-(Per norma general, s’han d’escriure amb el format següent:
-
-RT + @nomdelperfilretuitejat + text + enllaç escurçat + #etiqueta
-RT @tecnimap2010. Tota l’actualitat de l’esdeveniment a Facebook  bit.ly/9SBfzF #tecnimap)
-
-(És important que l’enllaç del primer tuit s’obri i es torni a escurçar amb l’aplicació de gestió de tuits adoptada perquè el tingui en compte a l’hora de comptabilitzar la mètrica del perfil.)
-
-### Continguts d’interès per retuitejar:
-- Que provinguin de fonts de confiança (poden ser institucions o individus experts en l’eix temàtic del compte de Twitter).
-- Provinents d’usuaris que tinguin reconegut prestigi.
-- Informacions oficials.
-
-No és recomanable retuitejar automàticament a través d’una paraula clau. El volum de retuits no ha de superar el de tuits de producció pròpia. Inicialment, es pot considerar acceptable un equilibri entre les dues modalitats de publicació, sobretot per l’objectiu inicial de construir xarxa. Si el text supera els 140 caràcters, cal escurçar-lo de manera que sigui intel·ligible; fins i tot, si hi ha més d’una etiqueta, se’n pot esborrar alguna. En el cas que el text sigui poc entenedor o amb errades lingüístiques, o bé hi vulguem afegir contingut, es pot modificar per millorar-lo sempre que al final s’afegeixi la fórmula:
-
-Text + enllaç + #etiqueta + /via @nomdelperfilretuitejat
-Tota l’actualitat de l’esdeveniment a Facebook bit.ly/9SBfzF #tecnimap /via @tecnimap2010
-
-### Fonts 
-És important establir uns canals interns de provisió de continguts i informar les unitats directives que hi ha aquesta eina per comunicar de forma immediata esdeveniments, novetats, consultes, emergències, etc. Això no obstant, les persones encarregades de gestionar el perfil de Twitter s’han de responsabilitzar dels continguts que publiquen al perfil, de les converses que se’n derivin i de retuitejar els continguts que es considerin rellevants.
-
-Per mantenir la xarxa social de Twitter, hi ha d’haver activitat de manera continuada sense fer-ne un ús abusiu. En circumstàncies normals es considera que es poden fer d’1 a 10 tuits diaris, excepte quan es retransmeti un acte en directe, en què pot interessar de publicar-ne més perquè els usuaris puguin seguir les idees substantives de l’esdeveniment o s’informi sobre emergències, etc.
-
-És recomanable gestionar els continguts, els comentaris i les respostes de manera manual. A més, permet depurar possibles usuaris o contingut brossa (spam). Tweetdeck permet programar tuits, que pot ser útil quan necessitem publicar el tuit
-de manera diferida. Tot i això es recomana no abusar d’aquesta utilitat.
-
-Informacions d’altres fonts
-- Nous apunts (posts) al bloc corporatiu.
-- Retransmissions en directe d’actes.
-- Publicació de nous vídeos, fotos, presentacions, etc. als repositoris d’Internet.
-- Convocatòries públiques de processos de selecció.
-- Novetats del web, noves seccions, publicacions.
-- Notes de premsa publicades al web. Quan es tuitegi una nota de premsa, cal redactar de nou el titular per a aquest mitjà i afegir-hi l’enllaç cap al web.
-
-Continguts generats a Twitter
-- Anunci i invitacions a actes.
-- Incidents, emergències i comunicacions de crisi.
-- Continguts elaborats exclusivament per a Twitter a partir d’informacions contrastades de la Xarxa que afegeixin valor al perfil de la Generalitat.
-- Això afavoreix que el perfil es posicioni com a filtre de confiança de continguts d’alta qualitat.
-
-Un cop consolidada l’activitat a Twitter, es pot automatitzar la publicació d’alguns tuits mitjançant una assignació RSS pel que fa a certs continguts (convocatòries públiques, subvencions, diaris oficials, etc. i sempre que no generin un volum excessiu).
-
-
-
-## Integració
 
 
 
@@ -188,17 +74,8 @@ Trol és un missatge que un internauta envia a la bústia electrònica d’un al
 - Eliminació. Seguint les recomanacions de les pautes de participació. Si són ofensius o contenen insults, s’eliminen.
 - Esdeveniments ofensius. Cal denunciar l’esdeveniment i esperar que Facebook actui d’ofici si ho creu convenient.
 
-## Creació de xarxa
-Una de les característiques principals de les pàgines de Facebook és que no tenen un llistat d’amics, com els perfils, sinó de simpatitzants amb la qual cosa, en comptes de demanar als usuaris de fer-se’n amics, l’administrador haurà d’idear altres estratègies per aconseguir que el nombre d’adherits a la pàgina augmenti.
- 
-Les pàgines poden disposar d'una URL pròpia (ex: [facebook.com/gencat](http://facebook.com/gencat)) a partir dels 25 membres. Per tal d'arribar a aquesta xifra en poc temps es recomana dur a terme algunes accions:
-- Enviar un correu electrònic a llistes de contactes del departament en qüestió
-- Comunicar mitjançant una nota de premsa la creació d’una pàgina
-- Contractar, amb el cost que això suposa, un espai de la barra lateral de Facebook per anunciar-s’hi.
-- Incloure la URL a la signatura del correu.
-- Enllaçar a la pàgina des del web corresponent.
 
-## Integració
+
 
 
 
@@ -243,3 +120,56 @@ Tant els blocs com els altres espais a les diferents plataformes del web social 
 - Que no continguin dades de caràcter personal ni informació publicitària.  
 
 La Generalitat només es responsabilitza dels continguts que emet a través dels seus canals. Els responsables dels perfils de la Generalitat es reserven el dret de no publicar qualsevol aportació que no observi aquestes indicacions mínimes.
+
+## 04.3- Blog
+# Blog
+
+
+
+### Usos lingüístics
+Els blogs de la Generalitat es redacten en llengua catalana. La plataforma de blogs corporatius està preparada per contenir altres versions idiomàtiques, com per exemple el gencat blog, que disposa de versions en català, castellà i anglès.
+
+## Gestió de comentaris
+Es recomana que els comentaris del blog siguin moderats. Convé fer públiques les directrius bàsiques de publicació de comentaris, com les que fa el gencat blog [blocs.gencat.cat](blocs.gencat.cat), basades en la pertinència (comentaris adequats al fil de la conversa), el respecte (ús d’un llenguatge no ofensiu) i el tipus d’informació (respecte a la protecció de dades i privacitat de les persones). Sobretot s’han d’evitar les informacions publicitàries.
+
+Si els comentaris no compleixen aquests requisits, no es poden publicar i es pot sol·licitar als seus autors si volen reformular-los. Els responsables de l’edició del blog poden garantir una mínima qualitat lingüística dels comentaris quan   calgui (correcció ortogràfica) atenent el caràcter de model que tenen els blogs de l’Administració.
+
+El termini adient per respondre els comentaris ha de ser com a màxim de 24 hores.
+
+### 4.4.1- Youtube
+
+A l’apartat *Descriu-te* de la Configuració del perfil s’especificarà:
+
+Nom del servei, marca. Nom del departament. Generalitat de Catalunya / Nom del servei, marca (en anglès). Nom del departament (en anglès). Government of Catalonia.
+
+Si no és possible especificar tota la informació per manca d’espai, s’hi posarà només la denominació en català.
+
+
+
+
+## Recomanacions per als vídeos
+- A l’hora d’editar un vídeo, afegirem al principi i al final de les imatges una caràtula amb el títol, la data i l’organisme responsable i, tot seguit, la llicència de propietat intel·lectual que s’hi aplica.
+- Si es fan servir músiques, convé que siguin lliures de drets.
+- Cal tenir controlats, així mateix, tots els drets de les imatges i citar-ne la font si cal.
+- Etiquetar els vídeos amb les paraules clau corresponents per optimitzar-ne la cerca.
+
+### 04.4.1- Flickr
+# Flickr
+
+
+ 
+## Recomanacions per a les imatges
+Caldrà etiquetar amb paraules clau totes les imatges que s’afegeixin al compte de Flickr per optimitzar-ne la cerca. Es recomana classificar les fotografies en àlbums.
+
+- Caldrà etiquetar amb paraules clau totes les imatges que s’afegeixin al compte de Flickr per optimitzar-ne la cerca.
+- Es recomana classificar les fotografies en àlbums.
+- Cal tenir controlats, així mateix, tots els drets de les imatges i citar-ne la font si cal.
+
+
+### 4.4.3 Slideshare
+
+### Recomanacions per a les presentacions
+
+- Indicar al principi i al final (si es vol, també a cada diapositiva o pàgina de document) la llicència en què es vol presentar.
+- Etiquetar les presentacions i documents amb les paraules clau corresponents per optimitzar-ne la cerca.
+- Cal tenir controlats, així mateix, tots els drets de les imatges, i citar-ne la font si cal.

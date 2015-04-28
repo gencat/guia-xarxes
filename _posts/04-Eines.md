@@ -35,6 +35,42 @@ Per implementar les pautes d’identitat corporativa als comptes de Twitter de l
 
 ### Continguts
 
+#### Usos lingüístics
+Els tuits es redacten majoritàriament en català, la llengua comuna i pròpia. També se'n poden redactar en castellà i en anglès, segons el tipus de continguts de què es tracti.
+
+Pel que fa als retuits, es respectarà la llengua en què han estat escrits originàriament.
+
+#### Estructura del tuit
+Els tuits es componen d’un text (a mode de titular), preferentment d’un enllaç escurçat i a més, sempre que es pugui, d’una etiqueta (hashtag) introduïda pel símbol #.
+
+**Text + enllaç escurçat + #etiqueta**
+Anàlisi de comptes Twitter del Parlament de Catalunya bit.ly/cLcOR4 #ogov
+
+Pel que fa al text, cal que la informació sigui sintètica, rigorosa i concisa. Per això, és important adjuntar-hi un enllaç si escau, ja que, d’aquesta manera, s’ofereix als usuaris la possibilitat d’ampliar el contingut.
+
+En el cas de retransmissió d’actes en directe (live blogging) a través de Twitter no és necessari que hi hagi associat cap enllaç, però és important sempre acompanyar el tuit de l’etiqueta que faci referència a l’acte.
+
+<img src='{{ "/img/3_twitter_2.jpg" | prepend: site.baseurl }}' />
+
+**Autor + Cita + #etiqueta**
+Boris Mir: Les competències transversals són importants en el nou sistema educatiu #sessioweb
+
+Si s’ha de retransmetre un esdeveniment en directe amb regularitat, es recomana crear un canal especial (per exemple, @sessionsweb) des d’on publicar tuits.D’aquesta manera evitarem col·lapsar el timeline dels seguidors. Des del Twitter principal (per exemple, @gencat) s’anunciarà aquest nou canal, i s’hi faran retuits d’alguns dels missatges més interessants.
+
+#### Abreviatures dels dies de la setmana i de les dates
+Atesa la limitació de 140 caràcters, si s’han de reflectir dies de la setmana i dates es recomana fer servir el format abreujat.
+
+- Dies de la setmana: dl., dt., dc., dj., dv., ds. i dg.
+- Dates: dia (en número) - mes (en número)
+
+Es proposa aquesta estructura de tuit:
+
+**Abreviatura + text + enllaç escurçat + etiqueta**
+
+Exemple: Dj. 01-12 tindrà lloc la 6a reunió de la comunitat de professionals.
+
+Per raons d’economia d’espai es poden escriure les abreviatures sense punt.
+
 #### Fonts 
 És important establir uns canals interns de provisió de continguts i informar les unitats directives que hi ha aquesta eina per comunicar de forma immediata esdeveniments, novetats, consultes, emergències, etc. Això no obstant, les persones encarregades de gestionar el perfil de Twitter s’han de responsabilitzar dels continguts que publiquen al perfil, de les converses que se’n derivin i de retuitejar els continguts que es considerin rellevants.
 
@@ -43,7 +79,12 @@ Per mantenir la xarxa social de Twitter, hi ha d’haver activitat de manera con
 És recomanable gestionar els continguts, els comentaris i les respostes de manera manual. A més, permet depurar possibles usuaris o contingut brossa (spam). Tweetdeck permet programar tuits, que pot ser útil quan necessitem publicar el tuit
 de manera diferida. Tot i això es recomana no abusar d’aquesta utilitat.
 
-Informacions d’altres fonts
+**Fonts principals**
+- De confiança (poden ser institucions o individus experts en l’eix temàtic del compte de Twitter).
+- Usuaris que tinguin reconegut prestigi.
+- Informacions oficials.
+
+**Altres fonts**
 - Nous apunts (posts) al bloc corporatiu.
 - Retransmissions en directe d’actes.
 - Publicació de nous vídeos, fotos, presentacions, etc. als repositoris d’Internet.
@@ -51,11 +92,16 @@ Informacions d’altres fonts
 - Novetats del web, noves seccions, publicacions.
 - Notes de premsa publicades al web. Quan es tuitegi una nota de premsa, cal redactar de nou el titular per a aquest mitjà i afegir-hi l’enllaç cap al web.
 
-Continguts generats a Twitter
+**Continguts generats a Twitter**
 - Anunci i invitacions a actes.
 - Incidents, emergències i comunicacions de crisi.
 - Continguts elaborats exclusivament per a Twitter a partir d’informacions contrastades de la Xarxa que afegeixin valor al perfil de la Generalitat.
 - Això afavoreix que el perfil es posicioni com a filtre de confiança de continguts d’alta qualitat.
+
+No és recomanable retuitejar automàticament a través d’una paraula clau. El volum de retuits no ha de superar el de tuits de producció pròpia. Inicialment, es pot considerar acceptable un equilibri entre les dues modalitats de publicació, sobretot per l’objectiu inicial de construir xarxa. Si el text supera els 140 caràcters, cal escurçar-lo de manera que sigui intel·ligible; fins i tot, si hi ha més d’una etiqueta, se’n pot esborrar alguna. En el cas que el text sigui poc entenedor o amb errades lingüístiques, o bé hi vulguem afegir contingut, es pot modificar per millorar-lo sempre que al final s’afegeixi la fórmula:
+
+Text + enllaç + #etiqueta + /via @nomdelperfilretuitejat
+Tota l’actualitat de l’esdeveniment a Facebook bit.ly/9SBfzF #tecnimap /via @tecnimap2010
 
 Un cop consolidada l’activitat a Twitter, es pot automatitzar la publicació d’alguns tuits mitjançant una assignació RSS pel que fa a certs continguts (convocatòries públiques, subvencions, diaris oficials, etc. i sempre que no generin un volum excessiu).
 
