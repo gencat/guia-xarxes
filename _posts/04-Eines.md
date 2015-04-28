@@ -26,7 +26,7 @@ Per implementar les pautes d’identitat corporativa als comptes de Twitter de l
 
 - El nom del compte, amb l’estructura nom del departament, servei o marca.Generalitat.  
 - La imatge de l’avatar del perfil d’acord amb el Programa d’identifcació visual [gen.cat/pivxarxes](http://gen.cat/pivxarxes).  
-- El bloc o web de referència, que ha de ser la URL pròpia del departament, servei o marca.
+- El blog o web de referència, que ha de ser la URL pròpia del departament, servei o marca.
 - La localització, que és Catalunya.  
 - Una descripció breu per a l’apartat Bio, que ha de constar de [nom del departament, servei o marca. Generalitat de Catalunya] i no ha de tenir més de 160 caràcters. Si no s’ha arribat al límit total de caràcters, cal posar el nom del departament, servei o marca també en anglès.  
 - Colors de disseny. Fons #ffffff, enllaços #ac2215.  
@@ -85,7 +85,7 @@ de manera diferida. Tot i això es recomana no abusar d’aquesta utilitat.
 - Informacions oficials.
 
 **Altres fonts**
-- Nous apunts (posts) al bloc corporatiu.
+- Nous apunts (posts) al blog corporatiu.
 - Retransmissions en directe d’actes.
 - Publicació de nous vídeos, fotos, presentacions, etc. als repositoris d’Internet.
 - Convocatòries públiques de processos de selecció.
@@ -109,9 +109,9 @@ Un cop consolidada l’activitat a Twitter, es pot automatitzar la publicació d
 
 Els comptes de Twitter, pel seu caràcter públic, es poden integrar a altres espais mitjançant ginys (*widgets*), petites aplicacions que permeten integrar en una pàgina web informació externa, per fer-ne promoció. Es poden integrar a:
 
-- Espais propis: blocs corporatius, web de gencat.cat, webs de departaments o webs especials. En aquest cas s’haurà d’utilitzar el giny oficial de la Generalitat.  
+- Espais propis: blogs corporatius, web de gencat.cat, webs de departaments o webs especials. En aquest cas s’haurà d’utilitzar el giny oficial de la Generalitat.  
 - Espais propis externs: pàgina de Facebook de gencat, pàgines de Facebook d’altres departaments, etc. a través d’una pestanya, un giny lateral.  
-- Espais aliens: oferint la possibilitat d’integrar el giny perquè qualsevol persona el pugui afegir a la seva pàgina, bloc, etc.  
+- Espais aliens: oferint la possibilitat d’integrar el giny perquè qualsevol persona el pugui afegir a la seva pàgina, blog, etc.  
 
 ## 5.2 Facebook
 
@@ -268,7 +268,7 @@ Quan es publica un vídeo, cal posar-li un títol i una descripció. A més, tam
 
 #### Integració web
 
-La forma més habitual d'integrar aquest servei en altres llocs serà a partir de la incrustació d'algun dels continguts en altres mitjans com per exemple els blocs. Això permet als lectors del bloc poder gaudir del recurs sense haver d'anar a un altre web, així evitem que el lector es perdi i optimitzem el nombre de clics.
+La forma més habitual d'integrar aquest servei en altres llocs serà a partir de la incrustació d'algun dels continguts en altres mitjans com per exemple els blogs. Això permet als lectors del blog poder gaudir del recurs sense haver d'anar a un altre web, així evitem que el lector es perdi i optimitzem el nombre de clics.
 
 ### 4.4.2 Flickr
 #### Descripció
