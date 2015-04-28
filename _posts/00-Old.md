@@ -53,34 +53,6 @@ Nom del servei, marca. Nom del departament. Generalitat de Catalunya / Nom del s
 
 Si no és possible especificar tota la informació per manca d’espai, s’hi posarà només la denominació en català
 
-## Gestió de comentaris
-Els comentaris s'han de respondre com més aviat millor dins el mateix espai on ha tingut lloc la pregunta o consulta. S’han de donar les gràcies a l’usuari per la seva participació i cal afegir els continguts necessaris per complementar-ho. Si el
-comentari és inapropiat o impertinent, caldrà buscar la manera adient de respondre l’usuari educadament, enllaçant informació o redireccionant-lo a altres webs que puguin oferir una resposta, si escau. És important respondre corporativament, és a dir, en nom de la pàgina i no del perfil d’administrador (s’ha de vigilar perquè és fàcil confondre’s a Facebook). Podríem classificar els comentaris de la manera següent:
-
-- Formulació de preguntes, dubtes i sol·licituds.
-- Crítiques: en el cas de situacions de crítica oberta positiva.
-- Propostes i suggeriments.
-- Agraïments pel contingut
-- Debat sobre la pregunta
-
-A Facebook s’ha de respondre sempre públicament a l'apartat de comentaris. Si la crítica és negativa, caldrà estudiar amb profunditat la queixa i donar-hi resposta de forma constructiva.
- 
-En tots els casos, la resposta s’ha de coordinar amb la unitat responsable de la informació en qüestió i, si escau, es pot comunicar de manera privada amb un correu electrònic per si l’usuari necessita més informació. Es recomana guardar en un arxiu totes les consultes i queixes perquè poden servir per a altres ocasions. L’opció d’activar un espai de debat obert (fòrum) s’haurà de consensuar amb la DGACD.
-
-Gestió de trols
-Trol és un missatge que un internauta envia a la bústia electrònica d’un altre internauta, a una tertúlia o a un grup de discussió amb la finalitat de suscitar una resposta irada o de desencadenar una baralla. Algunes recomanacions si es dóna el cas:
-
-- Respondre. Sempre s’ha d’analitzar si és convenient. Si hi ha algun error o es pot donar informació objectiva per rebatre-ho de forma adequada, és convenient fer-ho.
-- Eliminació. Seguint les recomanacions de les pautes de participació. Si són ofensius o contenen insults, s’eliminen.
-- Esdeveniments ofensius. Cal denunciar l’esdeveniment i esperar que Facebook actui d’ofici si ho creu convenient.
-
-
-
-
-
-
-
-
 
 ## El cas de departaments o institucions amb centres prestadors de serveis
 Hi ha departaments, serveis i marques que, per la pròpia estructura interna, disposen de centres prestadors de serveis (CPS), repartits pel territori. Els CPS poden demanar l’obertura d’un compte de xarxa social que segueixi les pautes comunes per a tota la Generalitat i obtenir l’avatar oficial d’acord amb el Programa d’identificació visual (PIV) de les xarxes socials de la Generalitat.
