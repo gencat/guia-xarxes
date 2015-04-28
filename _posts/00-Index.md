@@ -5,7 +5,7 @@
 [ ] 02- La Generalitat de Catalunya a les xarxes socials (teòria)
 [ ] 03- Primeres passes. Començar a gestionar perfil  (pràctica)
 [ ] 04- Eines
-	[?] 04.1- Twitter
+	[ ] 04.1- Twitter
 	[ ] 04.2- Facebook
 	[ ] 04.3- Blog
 	[ ] 04.4- Repositoris
