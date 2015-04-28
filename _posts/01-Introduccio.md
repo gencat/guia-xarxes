@@ -14,3 +14,7 @@ La *Guia de xarxes socials de la Generalitat de Catalunya* estableix unes pautes
 
 La Guia conté el procediment que cal seguir per obrir perfils en aquests espais de relació i participació. Així mateix, enumera les diferents eines de xarxa social, els diversos usos i objectius de presència en cadascuna, les recomanacions per a una presència adequada i reexida i també els criteris d'estil comunicatiu més adequats per a cada eina.  
 
+
+## Com actualitzar la guia
+
+- PR i issues a github https://github.com/18F/18f.gsa.gov/pulls?q=is%3Aopen+is%3Apr

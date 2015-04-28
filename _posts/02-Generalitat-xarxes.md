@@ -17,7 +17,8 @@
 - procediment de tancament pas a pas d'un perfil.
 - anelles solució corporativa i drets, deures i serveis per a cada una.
 - Definir molt clarament les funcions de la dgacdacs i dels usuaris. Tant en els perfils "normals" com en els casos dels CPS..
-
+- cop vé tothom? enlloc de convidar 1x1 obrir inscripcions i que es vagin apuntant els que els interessi, llavors ja enviarem mail amb continguts
+- directori http://ajuntament.barcelona.cat/xarxessocials/ca/ (concurs genera directori a partir d'un json).
 
 
 

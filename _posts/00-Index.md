@@ -37,50 +37,8 @@
 ---
 
 ## 1 intro
-- PR i issues a github https://github.com/18F/18f.gsa.gov/pulls?q=is%3Aopen+is%3Apr
-
-
 ## 2 generalitat
-- Explicar solució corporativa
-- Organització anelles (1a, 2a, cps)
-	- Responasble del departament.
-	- Qui obra configura perfils
-- Drets i deures
-	- Drets: cop (+ cas pràctic públic), formació interna, mètriques, 
-	- Deures: Informar canvis personal, no alterar configuració perfil, acceptar les normes gràfiques, entendre forma part d'un conjunt 
-
-
-- gravar CoPs o almenys casos pràctics.
-- més formació cps, què fer quan
-
-- procediment de tancament pas a pas d'un perfil.
-- anelles solució corporativa i drets, deures i serveis per a cada una.
-- Definir molt clarament les funcions de la dgacdacs i dels usuaris. Tant en els perfils "normals" com en els casos dels CPS..
-- cop vé tothom? enlloc de convidar 1x1 obrir inscripcions i que es vagin apuntant els que els interessi, llavors ja enviarem mail amb continguts
-- directori http://ajuntament.barcelona.cat/xarxessocials/ca/ (concurs genera directori a partir d'un json).
-
-
 ## 3 primeres passes
-(Anàlisi previ, objectius pq es pot obrir un perfil, procés d'obertura, 
-	com contactar suport tècnic, hootsuite?, integració amb el web (giny, 
-	consells bàsics. I si ets un cps? com demanar suport tècnic)
-	 ) 
-	 
-- Criteris per l'obertura d'un perfil (ajuda pels departametns que fan de filtre)
-- kit de benvinguda
-- newsletter: mensual?, novetats? proxim events?, interessants? resum cop (novetats internet, nvoetats dgacd, cas pràctic)
-- Com informar d'una incidència (com contactar amb suport). Formar a l'usuari. Exemples + timings de resposta (48h). No telèfon.
-Hola Sergi,
-
-	Tenim problemes per gestionar els vídeos del canal Youtube de Bombers. ës un tema una mica urgent, ja uqe hi ha un vídeo penjat que hem de modificar.
-
-	T'eh estat trucatn però no he pogut parlar directament amb tu. Si pots fes-me un truc al 616 48 41 42
-
-	Gracies
-
-	Simon Saura
-
-
 
 ## 4 eines
 + blau corporatiu govern #0B66AC + vermell corporatiu #AC2115
