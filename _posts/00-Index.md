@@ -110,6 +110,7 @@
 
 FAQ:
 	- diferència entre flickr i big
+	- registrar url facebook https://www.facebook.com/username 
 
 
 - guies que s'han inspirat:
@@ -147,6 +148,7 @@ https://github.com/CartoDB/odyssey.js/blob/gh-pages/documentation.md
 https://playbook.cio.gov/
 https://github.com/WhiteHouse/playbook
 
+http://ben.balter.com/open-source-for-government/
 
 https://github.com/blog/1939-how-github-uses-github-to-document-github
 
