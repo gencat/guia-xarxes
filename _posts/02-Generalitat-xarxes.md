@@ -2,6 +2,10 @@
 
 ## Solució corporativa
 
+La Generalitat de Catalunya té una presència activa a les xarxes socials des de 2009. Durant aquest temps s'ha  consolidat com una administració pública referent en la relació amb la ciutadania a través dels canals digitals.
+
+ 
+
 - Explicar solució corporativa
 - Organització anelles (1a, 2a, cps)
 	- Responasble del departament.
@@ -30,8 +34,8 @@ El procediment d'obertura, gestió i tancament dels comptes el coordina la Direc
 A l'hora d'interaccionar amb la ciutadania, cal fer-ho sempre amb un to d'acord amb els valors compartits de la Generalitat i tots els seus professionals:
  
 - **Col·laboració (participació en accions ciutadanes)**: promoure i participar en espais de col·laboració és la clau per crear comunitats que aportin un valor a la Xarxa. Participar en accions ciutadanes com si fossin pròpies, a més de fomentar la participació de la resta de la ciutadania.  
-- **Obertura i transparència**: cal mostrar tal com és l’organització, amb naturalitat i amb voluntat de servei.  
-- **Interdependència (coresponsabilitat)**: saber qui es representa i cap a qui, com i on ens relacionem. S’han de tenir en compte les normes de netiqueta pròpia de cada un dels espais.  
+- **Obertura i transparència**: cal mostrar tal com és l’organització, amb naturalitat i amb voluntat de servei.    
+- **Interdependència (coresponsabilitat)**: saber qui es representa i cap a qui, com i on ens relacionem. S’han de tenir en compte les normes de netiqueta pròpia de cada un dels espais.   
 - **Compartir (coneixement obert)**: amb un nou enfocament de la propietat intel·lectual, que permeti crear les condicions necessàries perquè ciutadania, empreses i altres organitzacions generin riquesa amb les dades i els continguts elaborats per l’Administració.  
 - **Integritat (servei públic)**: la comunicació i atenció a través de les xarxes socials ha de ser tan eficaç o més del que ho és la presencial. Al mateix temps, ha de ser més eficient i donar més resultats procurant no créixer en recursos. Convé mostrar en tot moment una predisposició a escoltar i ajudar el ciutadà en tot el que sigui possible, i oferir solucions a tots el seus dubtes i consultes.  
 

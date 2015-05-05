@@ -1,3 +1,13 @@
++ blau corporatiu govern #0B66AC + vermell corporatiu #AC2115
+- tw: missatges directes per tothom http://wwwhatsnew.com/2015/04/20/twitter-ya-permite-opcionalmente-recibir-mensajes-directos-de-usuarios-a-los-que-no-se-siguen/
+- nou retuit de twitter
+- soundcloud com a altres repositoris de veu?
+- admins fb des de perfils personals
+- no bit.ly pq twitter ja escurça i dona dat dels clicks.
+- flickr cc0 i domini públic http://blog.flickr.net/en/2015/03/30/flickr-now-offers-public-domain-and-cc0-designations/
+- fb integració http://www.trecebits.com/2015/04/20/facebook-retirara-la-caja-de-me-gusta-el-proximo-23-de-junio/ 
+
+
 # 4 Eines
 
 ## 4.1 Twitter

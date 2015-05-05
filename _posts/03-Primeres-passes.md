@@ -9,6 +9,7 @@
 	consells bàsics. I si ets un cps? com demanar suport tècnic)
 	 ) 
 	 
+- objectius per a l'obertura d'un perfil
 - Criteris per l'obertura d'un perfil (ajuda pels departametns que fan de filtre)
 - kit de benvinguda
 - newsletter: mensual?, novetats? proxim events?, interessants? resum cop (novetats internet, nvoetats dgacd, cas pràctic)

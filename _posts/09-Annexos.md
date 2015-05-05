@@ -1,4 +1,9 @@
 ## 09.1- Preguntes Freqüents
+
+FAQ:
+	- diferència entre flickr i big
+	- registrar url facebook https://www.facebook.com/username 
+	
 ## 09.2- Drets d'autoria
 # Drets d'autoria
 

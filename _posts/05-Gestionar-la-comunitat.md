@@ -1,3 +1,13 @@
+(normes participació, gestió comentaris, 
+	crear xarxa,  ....)
+
+- no donar gràcies als nous seguidors ni retuitejar totes les mencions o critiques positives de nosaltres.
+- pautes de conducte com a pàgina especial.
+	- Quan bloquejar
+	- Normes de participació
+	- Com respondre
+	- Following i Followers
+	
 ### Creació de xarxa
 
 ## A Twitter

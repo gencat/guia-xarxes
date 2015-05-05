@@ -1,3 +1,6 @@
+- calendari d'enviament de dades estadístiques.
+- explicar cada un dels productes de mètriques
+
 # Avaluació de la presència a les xarxes socials
 
 ## Analítica a les xarxes socials
