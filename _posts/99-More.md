@@ -16,16 +16,12 @@ Departament de la Presidència
 Direcció General d’Atenció Ciutadana i Difusió
 gencat.cat
 gencat.cat/xarxessocials
-Guia de xarxes socials
-de la Generalitat de Catalunya
+Guia de xarxes socials de la Generalitat de Catalunya
 
 
 ## Avís legal
 Aquesta obra està subjecta a una llicència Reconeixement 3.0 de Creative Commons.
-Se’n permet la reproducció, la distribució, la comunicació pública i la transformació per
-generar una obra derivada, sense cap restricció sempre que se’n citi el titular dels drets
-(Generalitat de Catalunya.Departament de la Presidència). La llicència completa es pot
-consultar a creativecommons.org/licenses/by/3.0/es/legalcode.ca  
+Se’n permet la reproducció, la distribució, la comunicació pública i la transformació per generar una obra derivada, sense cap restricció sempre que se’n citi el titular dels drets Generalitat de Catalunya. Departament de la Presidència). La llicència completa es pot consultar a creativecommons.org/licenses/by/3.0/es/legalcode.ca  
 
 ISBN: 978-84-393-8387-1  
 

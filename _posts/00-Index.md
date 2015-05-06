@@ -4,15 +4,15 @@
 [X] 01- Introducció
 [ ] 02- La Generalitat de Catalunya a les xarxes socials (teòria)
 [ ] 03- Primeres passes. Començar a gestionar perfil  (pràctica)
-[ ] 04- Eines
-	[D] 04.1- Twitter
-	[ ] 04.2- Facebook
-	[ ] 04.3- Blog
-	[ ] 04.4- Repositoris
-		[ ] 04.4.1- Youtube
-		[ ] 04.4.1- Flickr
-		[ ] 04.4.1- Slideshare
-		[ ] 04.4.1- Altres repositoris
+[-] 04- Eines
+	[X] 04.1- Twitter
+	[X] 04.2- Facebook
+	[-] 04.3- Blog
+	[-] 04.4- Repositoris
+		[-] 04.4.1- Youtube
+		[-] 04.4.1- Flickr
+		[-] 04.4.1- Slideshare
+		[-] 04.4.1- Altres repositoris
 [ ] 05- Com gestionar la comunitat 
 [ ] 06- Generar continguts rellevants
 [ ] 07- Publicitat a les xarxes socials
@@ -36,33 +36,13 @@
 
 ---
 
-## 1 intro
-## 2 generalitat
-## 3 primeres passes
-## 4 eines
-## 5 comunitat
-## 6 consells
-## 7 publicitat
-## 8 seguiment
-## 9 annexos
-
----
-
 - guies que s'han inspirat:
 - canarias http://www.gobcan.es/identidadgrafica/manual_identidad_grafica/manual_desglosado/redes_sociales_guia_estilo.pdf
 http://www.gobiernodecanarias.org/identidadgrafica/redessociales/redes_sociales_procedimiento_apertura_cuentas.pdf
 - euskadi
 - ...
 
-	
-
-------------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------------
-
-
-
-------------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------------
+---
 
 http://www.bbc.co.uk/academy/journalism/skills/social-media
 http://www.bbc.co.uk/academy/journalism/skills/social-media/article/art20141104135026547

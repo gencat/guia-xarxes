@@ -1,4 +1,4 @@
-# La Generalitat de Catalunya a les xarxes socials
+# 2. La Generalitat de Catalunya a les xarxes socials
 
 ## Solució corporativa
 
