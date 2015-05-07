@@ -10,9 +10,11 @@
 	[-] 04.3- Blog
 	[-] 04.4- Repositoris
 		[-] 04.4.1- Youtube
-		[-] 04.4.1- Flickr
-		[-] 04.4.1- Slideshare
-		[-] 04.4.1- Altres repositoris
+		[-] 04.4.2- Flickr
+		[-] 04.4.3- Slideshare
+		[-] 04.4.4- Instagram
+		[-] 04.4.5- Wikiloc
+		[-] 04.4.- Altres repositoris
 [ ] 05- Com gestionar la comunitat 
 [ ] 06- Generar continguts rellevants
 [ ] 07- Publicitat a les xarxes socials
