@@ -8,7 +8,7 @@
 / fb integració http://www.trecebits.com/2015/04/20/facebook-retirara-la-caja-de-me-gusta-el-proximo-23-de-junio/ 
 
 
-# 4 Eines
+# 4. Eines
 
 Les xarxes socials i els repositoris són a eines dinàmiques que ens permeten oferir un servei més proper i directa amb la ciutadania. Aquestes eines són gestionades per empreses privades que apliquen unes normes que canvien amb el temps.
 
@@ -26,7 +26,7 @@ Twitter és una plataforma de micromissatgeria que permet publicar missatges de 
 
 És una eina idònia per comunicar nous serveis, per referenciar informacions diverses (d’agenda, emergències, noves publicacions...) i per retransmetre esdeveniments, però també és una eina per dialogar i col·laborar. En aquest sentit, els perfils de Twitter de la Generalitat de Catalunya han d’afavorir la conversa i interaccionar amb els usuaris.  
 
-<img src='{{ "/img/3_twitter.jpg" | prepend: site.baseurl }}' />
+<img src={{ "/img/3_twitter.jpg" | prepend: site.baseurl }} />
 
 ### Gestió dels comptes
 
@@ -48,7 +48,7 @@ Per implementar les pautes d’identitat corporativa als comptes de Twitter de l
 
 - Una descripció breu per a l’apartat Bio, que ha de constar de [nom del departament, servei o marca. Generalitat de Catalunya] i no ha de tenir més de 160 caràcters. Si no s’ha arribat al límit total de caràcters, cal posar el nom del departament, servei o marca també en anglès.  
 
-- Colors de disseny. El fons ha de ser blanc (#FFF) per a tots els perfils. El color de marca és el vermell corporatiu (#AC2115) a excepció dels perfils de Govern que utilitzen el blau corporatiu (#0B66AC).    
+- Colors de disseny. El fons ha de ser blanc (#FFF) per a tots els perfils. El color de marca és el vermell corporatiu (#AC2115) a excepció dels perfils de Govern que utilitzen el blau corporatiu (#0B66AC).   
   
 - Imatge de capçalera. Twitter permet personalitzar el perfil amb una capçalera de 1500 x 500 px visible des del perfil. Cada departament, servei o marca pot triar la imatge de capçalera per al seu perfil d’acord amb la seva normativa gràfica. Es recomana que aquesta imatge sigui conceptual, relacionada amb l’àmbit d’actuació i sense missatges publicitaris. Quan es vol canviar la imatge cal enviarla per correu a la DGACD (xarxes@gencat.cat), especificant el nom del compte de Twittter a l’assumpte. Es recomana provar la imatge en un perfil personal abans d’enviar-la per estar segurs de quina es vol escollir.  
 
@@ -73,7 +73,7 @@ Pel que fa al text, cal que la informació sigui sintètica, rigorosa i concisa.
 
 En el cas de retransmissió d’actes en directe (live blogging) a través de Twitter no és necessari que hi hagi associat cap enllaç, però és important sempre acompanyar el tuit de l’etiqueta que faci referència a l’acte.
 
-	<img src='{{ "/img/3_twitter_2.jpg" | prepend: site.baseurl }}' />
+	<img src={{ "/img/3_twitter_2.jpg" | prepend: site.baseurl }} />
 
 	**Autor + Cita + #etiqueta**
 	<img src=""> Captura tuit amb imatge
@@ -165,7 +165,7 @@ Facebook és una plataforma social que permet comunicar-nos i compartir, entre u
 
 Facebook és una de les xarxes socials més conegudes arreu del món i amb més usuaris actius. En aquest sentit, és una plataforma adient per adreçar informació a una audiència àmplia.  
  
-<img src='{{ "/img/4_facebook.jpg" | prepend: site.baseurl }}' />
+<img src={{ "/img/4_facebook.jpg" | prepend: site.baseurl }} />
 
 La pàgina és la solució corporativa escollida per als diferents departaments de la Generalitat. De fet, és l’opció més adient per a les institucions i per als òrgans que les constitueixen, ja que Facebook atribueix un caràcter diferencial a les organitzacions de tot tipus per distingir-les dels perfils personals.  
  
@@ -239,7 +239,7 @@ La Generalitat de Catalunya disposa d’una plataforma de blogs corporativa que 
 
 El blog funciona com a nexe d’unió de totes les xarxes socials dels departaments de la Generalitat. Això significa que la resta d’eines complementen el blog i s’usen per fomentar-ne la difusió. Per acabar de complir aquesta funció de retroalimentació, inclourem ginys (widgets) al blog que dirigeixin cap a les xarxes socials del departament en qüestió; d’aquesta manera, aconseguim arribar a un nombre més ampli d’usuaris i crear una xarxa encara més gran. Es tracta d’integrar-ho tot perquè els usuaris coneguin els diferents perfils del departament a la xarxa i puguin escollir des de quins entorns prefereixen establir-hi relació.
 
-<img src='{{ "/img/5_blog.jpg" | prepend: site.baseurl }}' />
+<img src={{ "/img/5_blog.jpg" | prepend: site.baseurl }} />
 
 Cal tenir clar que el blog és una eina corporativa al servei del departament, per això, el perfil de redacció és corporatiu (és a dir, que l'usuari que genera els continguts ho fa des d'un perfil genèric). Amb tot, hi poden haver blogs en què els apunts vagin signats per nom i cognoms de persones (blogs de servei, de marca, etc.).
 
@@ -313,7 +313,7 @@ Complementa la plataforma multimèdia corporativa BIG (Banc iconogràfic de la G
 
 Els canals de Youtube dels diferents departaments de la Generalitat són corporatius i els autoritza i configura la Direcció General d’Atenció Ciutadana i Difusió (DGACD). Els responsables dels departaments s’hi han de posar en contacte per obtenir un canal corporatiu amb l’avatar corresponent i les indicacions pel que fa al canal i a la imatge corporativa. El nom d’usuari està limitat a 20 caràcters. 
 
-<img src='{{ "/img/6_youtube.jpg" | prepend: site.baseurl }}' />
+<img src={{ "/img/6_youtube.jpg" | prepend: site.baseurl }} />
 
 Els comptes de Youtube de la Generalitat de Catalunya es creen des de correus electrònics de gencat. Per gestionar-los, es deixarà una sessió oberta del perfil de Youtube corresponent en una versió del Firefox portable. Caldrà, però, parar atenció per no tancar mai la sessió quan se surti del Firefox i així evitar perdre les claus d’accés.  
 
@@ -345,7 +345,7 @@ Flickr és un repositori d'imatges que complementa, igual com Youtube, la plataf
   
 A Flickr es poden publicar fotografies d'actes institucionals, rodes de premsa, presentacions, etc. dels departaments distribuïdes en diferents àlbums segons la temàtica. Pel que fa al límit de càrregues, és d’un terabyte i es poden pujar fotos de fins a 200 MB. Respecte a a la imatge de capçalera, cada departament, organisme o marca pot escollir-la i publicar-la individualment.  
 
-<img src='{{ "/img/6_flickr.jpg" | prepend: site.baseurl }}' />
+<img src={{ "/img/6_flickr.jpg" | prepend: site.baseurl }} />
 
 #### Gestió dels comptes
 
@@ -375,7 +375,7 @@ Aquesta eina permet publicar presentacions, documents de text i PDF. Serveix per
 
 Els comptes d’Slideshare de la Generalitat de Catalunya es creen des de correus electrònics de gencat. Per gestionar-los es deixarà una sessió oberta del perfil d’Slideshare corresponent en una versió de Firefox portable. Aquesta aplicació permet accedir als continguts d’Slideshare del nostre compte sense haver d’accedir al lloc web d’Slideshare; funciona d’una manera molt semblant a la lògica d’un client FTP. Permet pujar presentacions i afegir el títol, descripció i etiquetes, que després seran visibles des del web d’Slideshare.  
 
-<img src='{{ "/img/6_slideshare.jpg" | prepend: site.baseurl }}' />
+<img src={{ "/img/6_slideshare.jpg" | prepend: site.baseurl }} />
 
 #### Aspectes de presentació
 
@@ -406,14 +406,17 @@ D'aquesta manera, s’evita que el lector es perdi i s’optimitza el nombre de
 
 Per necessitats tècniques relatives al desenvolupament de les tasques habituals, alguns departaments, serveis o marques fan servir altres xarxes socials a més de les que recull a la Guia. Els responsables dels comptes de la Generalitat en aquestes plataformes han de demanar a la DGACD l’avatar oficial que els correspon i que ha d’il·lustrar el seu perfil. Són les següents:
 
-#### Linkedin
+#### Wikiloc
 
-Plataforma d’interacció de professionals que intercanvien experiències per millorar la seva praxi laboral. La Generalitat hi té una pàgina: [gen.cat/gencatlinkedin](http://gen.cat/gencatlinkedin).  
+Wikiloc és una aplicació web i mòbil on es poden emmagatzar i compartir rutes georeferencides (especialment en gps) i punts d'interès de tot el món.  
 
 #### Instagram
 
 Aplicació mòbil de captura, retoc i publicació d'imatges. Molt popular entre el públic jove per la seva senzillesa i fàcil actualització.  
- 
+
+#### Linkedin
+
+Plataforma d’interacció de professionals que intercanvien experiències per millorar la seva praxi laboral. La Generalitat hi té una pàgina: [gen.cat/gencatlinkedin](http://gen.cat/gencatlinkedin).  
 
 #### Diigo
 
