@@ -145,3 +145,20 @@ Caldrà etiquetar amb paraules clau totes les imatges que s’afegeixin al compt
 - Indicar al principi i al final (si es vol, també a cada diapositiva o pàgina de document) la llicència en què es vol presentar.
 - Etiquetar les presentacions i documents amb les paraules clau corresponents per optimitzar-ne la cerca.
 - Cal tenir controlats, així mateix, tots els drets de les imatges, i citar-ne la font si cal.
+
+
+## Informes periòdics i anuals
+
+Amb les dades de tots els comptes oficials, la Generalitat les pot contextualitzar, comparar els comptes (sempre tenint present les diferències) i detectar tendències comunes.  
+
+Un cop en disposició d’aquestes dades, la DGACD envia regularment un informe d’activitat individual per a cada una de les unitats gestores de comptes de xarxes socials corporatives de la Generalitat. Aquests informes ajuden les unitats a valorar l’efectivitat de la seva activitat a les xarxes socials i a considerar si s’estan aconseguint els objectius definits prèviament. A més dels informes individuals d’activitat, la DGACD també prepara de manera anual un informe complet de l’activitat a les xarxes socials del conjunt de perfils de la Generalitat de Catalunya.  
+
+Per fer un seguiment de l’activitat dels comptes a les xarxes socials, s’opta per un conjunt d’indicadors que serviran per poder tenir una idea bàsica en conjunt. Aquests camps no deixen de ser un conjunt d’indicadors concrets que poden ajudar a millorar la comunicació de la Generalitat a les plataformes socials, però s’ha de ser conscient, al mateix temps, que és complicat de simplificar en una sola xifra la mesura de com ser present òptimament a les xarxes socials. Caldrà doncs contextualitzar sempre aquests indicadors, sabent també, al capdavall, que no s’han d’interpretar de manera absoluta.  
+
+Per facilitar-ne la interpretació, la DGACD elabora un informe que mostra de manera gràfica l’evolució d’aquests indicadors i el fa arribar a cada una de les unitats responsables de comptes de xarxes socials corporatius. Aquest informe d’activitat personalitzat es refereix a cada una de les xarxes socials on la Generalitat de Catalunya té presència de manera activa i bidireccional, com són Twitter i Facebook. La informació que obtinguem ha de permetre dissenyar i optimitzar la comunicació que es du a terme a cada plataforma de manera individual i adaptada a les possibilitats de què es disposa.  
+
+En una primera fase es recull l’**interès** de les informacions que publica la Generalitat i el **compromís** de les persones subscrites a cada un dels comptes de xarxa social.  
+
+Per exemple, quan es vulgui mesurar l’interès a Facebook, es divideix la suma ponderada de les interaccions (els comentaris, els M’agrada i les comparticions) entre les entrades publicades al mur.  
+
+Un altre exemple seria el grau de compromís des del punt de vista de les interaccions a Twitter. Es tracta del tant per cent dels seguidors del compte que han interaccionat amb el compte mateix (mencionant-lo o fent retuit d’algun dels tuits) durant un període de temps determinat.  

@@ -24,5 +24,8 @@ Hola Sergi,
 
 	Simon Saura
 
+### Qüestionari de sol·licitud d’obertura de compte
 
+Abans d’obrir un compte oficial a les xarxes socials hi ha d’haver un treball previ de reflexió sobre què es vol aconseguir. És per això que qualsevol departament, servei o marca que es vulgui incorporar a la solució corporativa ha d’emplenar un qüestionari. S’hi demana per què es vol obrir el compte, què es vol comunicar i per
+què a través de les xarxes socials, a qui es vol comunicar, etc. Aquestes preguntes són les que ens permeten definir uns indicadors bàsics de rendiment (KPI, en anglès) que quantifiquen els objectius fixats i amb els quals podríem monitorar-ne el grau d’assoliment. 
 

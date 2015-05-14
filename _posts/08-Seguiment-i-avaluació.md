@@ -4,31 +4,41 @@
 
 Mesurar l’activitat que es duu a terme a la Xarxa és sempre important per conèixer l’evolució dels esforços dedicats a aquesta tasca. En el món de les xarxes, que és tan canviant, les mètriques són necessàries per poder fer un seguiment del que s’hi fa i avaluar i mesurar quin impacte té, en aquest cas, la presència de l’Administració en aquest entorn i quins beneficis aporta a la ciutadania.  
 
-### Qüestionari de sol·licitud d’obertura de compte
+## Recollida de dades
 
-Abans d’obrir un compte oficial a les xarxes socials hi ha d’haver un treball previ de reflexió sobre què es vol aconseguir. És per això que qualsevol departament, servei o marca que es vulgui incorporar a la solució corporativa ha d’emplenar un qüestionari. S’hi demana per què es vol obrir el compte, què es vol comunicar i per
-què a través de les xarxes socials, a qui es vol comunicar, etc. Aquestes preguntes són les que ens permeten definir uns indicadors bàsics de rendiment (KPI, en anglès) que quantifiquen els objectius fixats i amb els quals podríem monitorar-ne el grau d’assoliment.  
+La  DGACD és l’òrgan encarregat de recollir de forma centralitzada les mètriques de tots els comptes oficials de la Generalitat de Catalunya. Totes aquestes dades s’obtenen directament des de les diferents plataformes socials.  
 
-### Recollida de dades
+Aquesta recollida centralitzada serveix per estandaritzar els valors i assegurar que siguin comuns a tots els comptes. Es procura, sempre que sigui possible, fer-ho de manera automatitzada mitjançant les interfícies de programació d’aplicacions (application programming interface, API) i els agregadors (feeds) de les diferents xarxes socials.  
 
-La  DGACD és l’òrgan encarregat de recollir de forma centralitzada les mètriques de tots els comptes oficials de la Generalitat de Catalunya. Totes aquestes dades s’obtenen directament des de les diferents plataformes socials.
-Aquesta recollida centralitzada serveix per estandarditzar els valors i assegurar que siguin comuns a tots els comptes. Es procura, sempre que sigui possible, fer-ho de manera automatitzada mitjançant les interfícies de programació d’aplicacions (application programming interface, API) i els agregadors (feeds) de les diferents xarxes socials.  
+## Informes
 
-## Informes periòdics i anuals
+La DGACD facilita regularment informes de seguiment a la persona responsable de cada un dels perfils corporatius. Aquests informes personalitzats s'envien a través d'una carpeta compartida a Dropbox. La persona responsable de cada perfil és l'encarregada de fer arribar l'informe a la resta d'editors del perfil, perquè serveixin per millor l'activitat del perfil.  
 
-Amb les dades de tots els comptes oficials, la Generalitat les pot contextualitzar, comparar els comptes (sempre tenint present les diferències) i detectar tendències comunes.  
+La voluntat dels informes és recollir aquestes dades i presentar-les en diferents informes per tal de que sigui facil d'explicar i ensenyar l'activitat a persones que no participen diariament a la gestió dels perfils. Evidentment els editors de cada perfil tenen un coneixment més ampli i detallat, quin missatges funcionen millor, a quina hora és millor publicar, quins són els principals usuaris que interactuen amb el perfil, etc.  
 
-Un cop en disposició d’aquestes dades, la DGACD envia regularment un informe d’activitat individual per a cada una de les unitats gestores de comptes de xarxes socials corporatives de la Generalitat. Aquests informes ajuden les unitats a valorar l’efectivitat de la seva activitat a les xarxes socials i a considerar si s’estan aconseguint els objectius definits prèviament. A més dels informes individuals d’activitat, la DGACD també prepara de manera anual un informe complet de l’activitat a les xarxes socials del conjunt de perfils de la Generalitat de Catalunya.  
+A més d'aquests informes, mensualment, també es faciliten les dades en cru, perquè tota unitat que ho desitgi pugui el·laborar els seus propis indicadors i informes.  
 
-Per fer un seguiment de l’activitat dels comptes a les xarxes socials, s’opta per un conjunt d’indicadors que serviran per poder tenir una idea bàsica en conjunt. Aquests camps no deixen de ser un conjunt d’indicadors concrets que poden ajudar a millorar la comunicació de la Generalitat a les plataformes socials, però s’ha de ser conscient, al mateix temps, que és complicat de simplificar en una sola xifra la mesura de com ser present òptimament a les xarxes socials. Caldrà doncs contextualitzar sempre aquests indicadors, sabent també, al capdavall, que no s’han d’interpretar de manera absoluta.  
+### Fitxa mensual
 
-Per facilitar-ne la interpretació, la DGACD elabora un informe que mostra de manera gràfica l’evolució d’aquests indicadors i el fa arribar a cada una de les unitats responsables de comptes de xarxes socials corporatius. Aquest informe d’activitat personalitzat es refereix a cada una de les xarxes socials on la Generalitat de Catalunya té presència de manera activa i bidireccional, com són Twitter i Facebook. La informació que obtinguem ha de permetre dissenyar i optimitzar la comunicació que es du a terme a cada plataforma de manera individual i adaptada a les possibilitats de què es disposa.  
+Mensualment s'envia una fitxa resum de l'activitat a Twitter i una altra per Facebook. En aquesta fitxa hi podem trobar un resum de l'activitat durant el mes anterior i una evolució dels principals indicadors per cada una de les xarxes socials.
 
-En una primera fase es recull l’**interès** de les informacions que publica la Generalitat i el **compromís** de les persones subscrites a cada un dels comptes de xarxa social.  
+A nivell de continguts trobem quins són els que més s'han compartit durant els darrers mesos. Això ens ajuda a veure en perspectiva quin tipus de continguts funcionen millor per a cada una de les xarxes. 
 
-Per exemple, quan es vulgui mesurar l’interès a Facebook, es divideix la suma ponderada de les interaccions (els comentaris, els M’agrada i les comparticions) entre les entrades publicades al mur.  
+<img exemples mètriques />  
 
-Un altre exemple seria el grau de compromís des del punt de vista de les interaccions a Twitter. Es tracta del tant per cent dels seguidors del compte que han interaccionat amb el compte mateix (mencionant-lo o fent retuit d’algun dels tuits) durant un període de temps determinat.  
+Com que les dades d'un mateix sense poder contextualitzar-les donen poca informació, també capturem dades de perfils similars a cada un dels perfils de la solució coporativa. Aquests perfils els facilita el responsable de cada perfil a la DGACD en el moment de l'obertura del perfil.
+
+El fet de poder comparar les nostres dades amb la de perfils similars al nostre ens ajuda a valorar les nostres dades d'activitat. A l'hora el fet de buscar perfils similars ens obliga a mirar l'activitat d'altres perfils, cosa que ens hauria de permetre aprendre dels encerts d'aquests perfils. 
+
+### Informe audiència detallat
+
+<img exemples mètriques />  
+
+### Informe resum etiqueta
+
+
+<img exemples mètriques />  
+
 
 ## Control i seguiment
 
@@ -43,35 +53,5 @@ Quan la DGACD creu que l’activitat i qualitat del servei d’un compte és mil
 Un cop recollides totes aquestes dades i extrets els indicadors que interessin, caldrà relacionar-les amb les dades d’altres canals (web, telèfon, correu electrònic...) per poder comparar l’impacte que tenen unes i altres. Per últim, seria interessant poder relacionar el conjunt de dades amb els objectius de treball de l’organització i així veure si s’han complert. A més, la informació obtinguda ajudaria, per exemple, a fer previsions d’actuacions i a planificar campanyes futures.  
 
 Al capdavall, l’avaluació a l’Administració ha de servir per identificar les polítiques públiques que funcionen, conèixer-ne l’impacte i saber en quina mesura l’impacte és atribuïble al problema mateix o a la intervenció de l’Administració pública. Per posar un exemple conegut, si hi ha menys incendis, pot ser per la bona actuació dels bombers o per altres raons (condicions meteorològiques, etc.). A més de la intervenció pública, hi intervenen altres variables que compliquen l’avaluació (evolució de l’economia i la societat, l’alfabetització digital de la ciutadania, programes i lleis vigents, etc.). Per això, en moltes ocasions, per avaluar adequadament, estarem posant en relació els resultats de la intervenció pública amb la situació del que hauria ocorregut si no hagués tingut lloc l’esmentada intervenció.  
-
-<img exemples mètriques />  
-
-## Informes
-
-La DGACD facilita regularment informes de seguiment a la persona responsable de cada un dels perfils corporatius. Aquests informes individualitzats s'envien a través d'una carpeta compartida a Dropbox. La persona responsable de cada perfil és l'encarregada de fer arribar l'informe a la resta d'editors del perfil, perquè serveixin per millor l'activitat dels perfils.
-
-Evidentment els editors de cada perfil tenen un coneixment molt ampli i detallat del perfil, quin missatges funcionen millor, a quina hora és millor publicar, quins són els principals usuaris que interactuen amb el perfil, etc. La voluntat dels informes és recollir aquestes dades i presentar-les en diferents informes per tal de que sigui facil d'explicar i ensenyar l'activitat a persones que no participen diariament a la gestió dels perfils.  
-
-A més d'aquests informes, també es faciliten mensualment arxius amb les dades en cru, per tal de que la unitat que ho desitgi pugui el·laborar els seus propis informes de seguiment.  
-
-
-### Fitxa resum mensual
-
-Mensualment s'envia una fitxa resum de l'activitat a Twitter i una altra per Facebook. En aquesta fitxa hi podem trobar un resum de l'activitat durant el mes anterior i una evolució dels principals indicadors per cada una de les xarxes socials.
-
-A nivell de continguts  trobem quins són els que més s'han compartit durant els darrers mesos. Això ens pot ajudar a veure en perspectiva quin tipus de continguts funcionen millor per a cada una de les xarxes. 
-
-<img exemples mètriques />  
-
-Com que les dades d'un mateix sense poder contextualitzar-les donen poca informació, també capturem dades de perfils similars a cada un dels perfils de la solució coporativa. Aquests perfils els facilita el responsable de cada perfil a la DGACD en el moment de l'obertura del perfil.
-
-El fet de poder comparar les nostres dades amb la de perfils similars al nostre ens ajuda a valorar les nostres dades d'activitat. A l'hora el fet de buscar perfils similars ens obliga a mirar l'activitat d'altres perfils, cosa que ens hauria de permetre aprendre dels encerts d'aquests perfils. 
-
-### Informe audiència detallat
-
-<img exemples mètriques />  
-
-### Informe resum etiqueta
-
 
 <img exemples mètriques />  
