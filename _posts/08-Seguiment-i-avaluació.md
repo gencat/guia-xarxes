@@ -16,17 +16,17 @@ La DGACD facilita regularment informes de seguiment a la persona responsable de 
 
 La voluntat dels informes és recollir aquestes dades i presentar-les en diferents informes per tal de que sigui facil d'explicar i ensenyar l'activitat a persones que no participen diariament a la gestió dels perfils. Evidentment els editors de cada perfil tenen un coneixment més ampli i detallat, quin missatges funcionen millor, a quina hora és millor publicar, quins són els principals usuaris que interactuen amb el perfil, etc.  
 
-A més d'aquests informes, mensualment, també es faciliten les dades en cru, perquè tota unitat que ho desitgi pugui el·laborar els seus propis indicadors i informes.  
+A més d'aquests informes, cada mes, també es faciliten les dades en cru, perquè tota unitat que ho desitgi pugui el·laborar els seus propis indicadors i informes.  
 
 ### Fitxa mensual
 
-Mensualment s'envia una fitxa resum de l'activitat a Twitter i una altra per Facebook. En aquesta fitxa hi podem trobar un resum de l'activitat durant el mes anterior i una evolució dels principals indicadors per cada una de les xarxes socials.
+La fitxa resum de l'activitat a Twitter i una altra per Facebook s'envia mensualment. En aquesta fitxa hi podem trobar un resum de l'activitat durant el mes anterior i una evolució dels principals indicadors per cada una de les xarxes socials.
 
 A nivell de continguts trobem quins són els que més s'han compartit durant els darrers mesos. Això ens ajuda a veure en perspectiva quin tipus de continguts funcionen millor per a cada una de les xarxes. 
 
 <img exemples mètriques />  
 
-Com que les dades d'un mateix sense poder contextualitzar-les donen poca informació, també capturem dades de perfils similars a cada un dels perfils de la solució coporativa. Aquests perfils els facilita el responsable de cada perfil a la DGACD en el moment de l'obertura del perfil.
+Com que les dades d'un mateix per elles mateixes a vegades donen poca informació, també capturem dades de perfils similars a cada un dels que formen part de la solució coporativa, per tal de poder contextualitzar els indicadors. Aquests perfils els facilita el responsable de cada perfil a la DGACD en el moment de l'obertura del perfil.
 
 El fet de poder comparar les nostres dades amb la de perfils similars al nostre ens ajuda a valorar les nostres dades d'activitat. A l'hora el fet de buscar perfils similars ens obliga a mirar l'activitat d'altres perfils, cosa que ens hauria de permetre aprendre dels encerts d'aquests perfils. 
 
