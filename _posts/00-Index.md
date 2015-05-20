@@ -20,7 +20,7 @@
 [ ] 09- Annexos  
 	[ ] 09.1- Preguntes Freqüents
 	[ ] 09.2- Drets d'autoria
-	[ ] 09.3- Criteris lingüístics
+	[ ] 09.3- Criteris lingüístics 
 	[ ] 09.4- Convencions gràfiques
 	[ ] 09.5- Imatge gràfica
 	[ ] 09.6- Glossari Termcat

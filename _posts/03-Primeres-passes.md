@@ -15,6 +15,7 @@
 - newsletter: mensual?, novetats? proxim events?, interessants? resum cop (novetats internet, nvoetats dgacd, cas pràctic)
 - Com informar d'una incidència (com contactar amb suport). Formar a l'usuari. Exemples + timings de resposta (48h). No telèfon.
 Hola Sergi,
+- Open hours? (hores amb les que xatejar, venir a configurar mòbils)
 
 	Tenim problemes per gestionar els vídeos del canal Youtube de Bombers. ës un tema una mica urgent, ja uqe hi ha un vídeo penjat que hem de modificar.
 
