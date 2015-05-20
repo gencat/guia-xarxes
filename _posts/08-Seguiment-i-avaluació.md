@@ -32,12 +32,24 @@ El fet de poder comparar les nostres dades amb la de perfils similars al nostre 
 
 ### Informe audiència detallat
 
+
+
+
 <img exemples mètriques />  
 
 ### Informe resum etiqueta
 
+Aquest informe ofereix informació detallada relacionada amb una o un conjunt d'etiquetes de Twitter. És especialment útil quan ha passat un acte i volem analitzar la conversa generada a Twitter.  
+
+La generació d'aquests informes és de caire excepcional i és la DGACD la que en decideix la necessitat. Aquest informe pot ser útil en: campanyes de comunicació, rodes de premsa, o per casos d'emergències.  
+
+Les dades que es capturen per l'el·laboració de l'informe són les que es poden obtenir públicament des de l'api de Twitter. En cap cas es relacionaran amb dades personals dels emisors dels missatges.  
 
 <img exemples mètriques />  
+
+L'informe ajuda a millorar la comunicació per a futures ocasions, ja que és una eina que permet analitzar a posteriori algunes dades que passen desaparcebudes a la boragina del temps real. Entre altres aspectes mostra l'evolució temporal en la publicació de missatges, els tuits més retuitejats, les persones que més missatges han enviat amb l'etiqueta.  
+
+També ens pot servir per comparar el volum de missatges en diferents situacions comparables, per exemple el nombre de missatges que s'han publicat amb l'etiqueta #SantJordi en els darrers anys.
 
 
 ## Control i seguiment
