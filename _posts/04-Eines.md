@@ -1,13 +1,3 @@
-- blau corporatiu govern #0B66AC + vermell corporatiu #AC2115
-- tw: missatges directes per tothom http://wwwhatsnew.com/2015/04/20/twitter-ya-permite-opcionalmente-recibir-mensajes-directos-de-usuarios-a-los-que-no-se-siguen/
-- nou retuit de twitter
-- soundcloud com a altres repositoris de veu?
-- admins fb des de perfils personals
-- no bit.ly pq twitter ja escurça i dona dat dels clicks.
-- flickr cc0 i domini públic http://blog.flickr.net/en/2015/03/30/flickr-now-offers-public-domain-and-cc0-designations/
-- fb integració http://www.trecebits.com/2015/04/20/facebook-retirara-la-caja-de-me-gusta-el-proximo-23-de-junio/ 
-
-
 # 4. Eines
 
 Les xarxes socials i els repositoris són eines dinàmiques que ens permeten oferir un servei més proper i directe amb la ciutadania. Com administració podem aprofitar-nos d'aquestes eines amb la voluntat de millorar el servei que oferim a la ciutadania. En cap cas s'obriran nous canals en aquests entorns si aquestes eienes no ajuden a millorar el servei. Cada departament, servei o marca, té uns objectius i un públic destinatari diferent. Això fa que no totes les eines siguin igual d'idonies per a cada una de les necessitats.     
@@ -313,18 +303,14 @@ No és recomanable vincular el compte de Youtube amb el de Facebook o Twitter. �
 
 #### Aspectes de presentació
 
-Per implementar les pautes d’identitat corporativa als comptes de Youtube de la Generalitat, la DGACD defineix els camps següents:  
-
-//- Colors de disseny:General. Fons #CCCCCC, embolcall #999999, text de l’embolcall #000000, enllaç de l’embolcall #0000CC.  
-
 Pel que fa a la imatge de capçalera, cada departament, organisme o marca la pot escollir i publicar individualment. Les mides recomanades són 2.560 px x 1.440 px.  
 
 #### Continguts
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-El web de Youtube permet classificar els vídeos per llistes de reproducció i es pot escollir quina llista es vol que es reprodueixi o quin vídeo volem que aparegui com a destacat dins l'apartat "Vídeos y listas de reproducción".  
+El web de Youtube permet classificar els vídeos per llistes de reproducció i es pot escollir quina llista es vol que es reprodueixi o quin vídeo volem que aparegui com a destacat dins l'apartat "Vídeos i llistes de reproducció".  
  
 Quan es publica un vídeo, cal posar-li un títol i una descripció. A més, també s'ha d'emplenar el camp Etiquetas amb paraules clau que facin referència al vídeo en qüestió per facilitar-ne la cerca. És molt important no oblidar-nos de completar adequadament tots aquests camps, ja que aquestes dades són les que utilitzen els cercadors per classificar els continguts. Una bona optimització per cercadors és molt important per a la visibilitat dels continguts. 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+També és important fixar-se amb la imatge en miniatura que queda com a presentació del vídeo. En cas de que no ens agradi Youtube permet editar-la i fins i tot canviar-la. L'imatge de presentació dels vídeos és molt rellevant, i un factor important per augmentar la visibilitat dels vídeos.  
 
 #### Integració web
 
@@ -351,18 +337,16 @@ Això permet pujar fotos i afegir el títol, descripció, etiquetes i ordenar-le
 La imatge de capçalera ha de ser 2048 x 492 px. Cada departament, servei o marca pot canviar-la segons la seva necessitat. 
 
 #### Continguts
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-Les fotografies poden ser d'actes institucionals, rodes de premsa, presentacions, etc. dels departaments distribuïdes en diferents àlbums segons la temàtica. Pel que fa al límit de càrregues, és d’un terabyte i es poden pujar fotos de fins a 200 MB. 
+Les fotografies poden ser d'actes institucionals, rodes de premsa, presentacions, etc. dels departaments distribuïdes en diferents àlbums segons la temàtica. 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Es recomana publicar les imatges en una bona resolució. Ja que el límit de Flickr és d'un *terabyte*, i això ens permet compartir les imatges en alta resolució i així poden ser re-utilitzades per qualsevol canal.
 
+La llicència de domini públic, serà la llicència per defecte de les imatges dels canals corporatius de la Generalitat.  
 
 #### Integració web
 
-La forma més habitual d'integrar Flickr en altres llocs és a partir de la incrustació d'algun dels continguts en els blocs corporatius. Es pot incrustar com una part del contingut d'un apunt del bloc, però també es poden activar ginys a la barra lateral que permeten accedir a la galeria de Flickr des del bloc del departament, servei o marca.  
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!link com integrar slideshow d'un àlbum  
+La forma més habitual d'integrar Flickr en altres llocs és a partir de la incrustació d'algun dels continguts en els blogs corporatius. Es pot incrustar com una part del contingut d'un apunt del blog, però també es poden activar ginys a la barra lateral que permeten accedir a la galeria de Flickr des del bloc del departament, servei o marca.  
 
 ### 4.4.3 Slideshare
 
@@ -384,12 +368,10 @@ Actualment Slideshare no permet cap tipus de personalització del perfil, més e
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!! consells bàsics sobre ppt (lletra gran, contingut visual, minimalista, síntesi, ...)
 
-La difusió dels materials publicats a Slideshare té lloc a altres xarxes socials, com Twitter i Facebook, amb la finalitat d'arribar a un nombre més gran d'usuaris. En el cas d'Slideshare no es pot evitar la possibilitat que es facin comentaris, però no es promourà. L'única part de xarxa de l'aplicació que es farà servir és la part de subscripcions.
-
-//Perquè Slideshare compleixi exclusivament la funció de repositori de presentacions, cal entrar a *Edit profile / Privacy settings* i seleccionar l'opció *No one* en les quatre opcions que ens apareixen.
  
 Tots els materials que es publiquen a Slideshare, ja siguin presentacions o documents, han d'estar en format PDF. S’hi defineix: títol del document, etiquetes, llicència CC corresponent, format de pàgina contínua, definició del fitxer amb el títol del document i visió a pàgina completa.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Moltes vegades les presentacions són exposades en auditoris grans, per fomentarl a comprensió de les presentacions es recomana que les presentacions tinguin idees sintetitzades, es complementin amb imatges, i el poc text que hi aparegui, sigui amb un cos tipogràfic alt, per facilitar-ne la lectura des de qualsevol distància.  
  
 #### Integració web
 
