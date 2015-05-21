@@ -12,28 +12,35 @@ Aquesta recollida centralitzada serveix per estandaritzar els valors i assegurar
 
 ## Informes
 
-La DGACD facilita regularment informes de seguiment a la persona responsable de cada un dels perfils corporatius. Aquests informes personalitzats s'envien a través d'una carpeta compartida a Dropbox. La persona responsable de cada perfil és l'encarregada de fer arribar l'informe a la resta d'editors del perfil, perquè serveixin per millor l'activitat del perfil.  
+La DGACD facilita regularment informes de seguiment a la persona responsable de cada perfil corporatiu. Aquests informes personalitzats s'envien a través d'una carpeta compartida a Dropbox. La persona responsable de cada perfil és l'encarregada de fer arribar l'informe a la resta d'editors del perfil, per millorar en l'activitat del perfil.  
 
-La voluntat dels informes és recollir aquestes dades i presentar-les en diferents informes per tal de que sigui facil d'explicar i ensenyar l'activitat a persones que no participen diariament a la gestió dels perfils. Evidentment els editors de cada perfil tenen un coneixment més ampli i detallat, quin missatges funcionen millor, a quina hora és millor publicar, quins són els principals usuaris que interactuen amb el perfil, etc.  
+La voluntat és agrupar les dades i presentar-les en diferents informes per tal de que sigui facil d'explicar i ensenyar l'activitat a persones que no participen diariament a la gestió dels perfils. Evidentment els editors de cada perfil tenen un coneixment més ampli i detallat del seu perfil: quins missatges funcionen millor, a quina hora és millor publicar, quins són els principals usuaris que interactuen amb el perfil, etc.  
 
 A més d'aquests informes, cada mes, també es faciliten les dades en cru, perquè tota unitat que ho desitgi pugui el·laborar els seus propis indicadors i informes.  
 
 ### Fitxa mensual
 
-La fitxa resum de l'activitat a Twitter i una altra per Facebook s'envia mensualment. En aquesta fitxa hi podem trobar un resum de l'activitat durant el mes anterior i una evolució dels principals indicadors per cada una de les xarxes socials.
+La fitxa resum de l'activitat a Twitter i una altra per Facebook s'envia mensualment. En aquesta fitxa hi podem trobar un resum de l'activitat durant el mes anterior i una evolució dels principals indicadors per cada una de les xarxes socials.  
 
-A nivell de continguts trobem quins són els que més s'han compartit durant els darrers mesos. Això ens ajuda a veure en perspectiva quin tipus de continguts funcionen millor per a cada una de les xarxes. 
+A nivell de continguts trobem quins són els que més s'han compartit durant els darrers mesos. Això ens ajuda a veure en perspectiva quin tipus de continguts funcionen millor per a cada una de les xarxes.  
 
 <img exemples mètriques />  
 
-Com que les dades d'un mateix per elles mateixes a vegades donen poca informació, també capturem dades de perfils similars a cada un dels que formen part de la solució coporativa, per tal de poder contextualitzar els indicadors. Aquests perfils els facilita el responsable de cada perfil a la DGACD en el moment de l'obertura del perfil.
+Com que les dades d'un mateix per elles mateixes a vegades donen poca informació, també capturem dades de perfils similars a cada un dels que formen part de la solució coporativa, per tal de poder contextualitzar els indicadors. Aquests perfils els facilita el responsable de cada perfil a la DGACD en el moment de l'obertura del perfil.  
 
-El fet de poder comparar les nostres dades amb la de perfils similars al nostre ens ajuda a valorar les nostres dades d'activitat. A l'hora el fet de buscar perfils similars ens obliga a mirar l'activitat d'altres perfils, cosa que ens hauria de permetre aprendre dels encerts d'aquests perfils. 
+El fet de poder comparar les nostres dades amb la de perfils similars al nostre ens ajuda a valorar les nostres dades d'activitat. A l'hora el fet de buscar perfils similars ens obliga a mirar l'activitat d'altres perfils, cosa que ens hauria de permetre aprendre dels encerts d'aquests perfils.  
 
 ### Informe audiència detallat
 
+Aquest document té l'objectiu de facilitar una perspectiva del perfil, a totes aquelles persones que participen a la gestió. Per tal d'oferir un resum de situació més àmpli, aquest informe s'envia cada tres mesos als responsables de cada perfil.  
 
+Es divideix en tres apartats:
 
+- **Continguts** (tuits, retuits i mencions). Aquí podem trobar quins continguts han tingut més acceptació. Podem veure un arxiu amb els principals continguts al llarg del temps, i com evoluciona la difusió dels continguts en funció del dia de la setmana, hora i fins i tot mes en què publiquem el missatge. Aquests gràfics ens ajuden el·laborar la planificació trimestral de continguts i revisar els dels darrers mesos.
+
+- **Audiència** (seguidors). Ens permet coneixer amb més detall informació de la gent que s'ha subscrit als nostres canals. Trobem els llistats de principals usuaris que s'han donat d'alta o baixa en un perfil durant l'últim període. L'evolució de la dimensió de l'audiència i algunes característiques d'aquesta, com per exemple el nombre d'usuaris actius, els que han publicat almenys cinc missatges, o la seva distribució de seguidors en percentils.
+
+- **Comunitat** (usuaris participatius). De la mateixa manera que no tots els usuaris que ens segueixen interactuen, tampoc ens segueixen tots els usuaris que interactuen amb nosaltres. És per això que també és interessant coneixer quins són els usuaris amb qui més conversem. A més de trobar els usuaris, ta´mbé els ordenem segons el nombre i tipus d'interaccions.
 
 <img exemples mètriques />  
 

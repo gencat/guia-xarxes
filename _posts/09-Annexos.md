@@ -3,6 +3,12 @@
 FAQ:
 	- diferència entre flickr i big
 	- registrar url facebook https://www.facebook.com/username 
+	-Si entro des de el meu compte (via web) i vaig a buscar @salutcat, no veig alguns twits a timeline. Només passa amb alguns. Potser hi ha hagut algun problema amb twitter o tweetdeck???
+
+	En el perfil s’amaguen els missatges que comencen per @. Per veure’ls cal anar a ‘Tweets & replies’. A més recordeu que els missatges que comencen per @username només són visibles als timilines de la gent que us segueix a vostres i a @username, per exemple a salutcat i a govern. Per evitar això, quan haguem de començar un tuit amb un nom d’usuari podem posar un punt a l’inici del tuit: ‘.@govern .....’.
+
+	- 
+
 	
 ## 09.2- Drets d'autoria
 # Drets d'autoria
