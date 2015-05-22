@@ -35,6 +35,7 @@ Tercera edició: abril 2011
 Quarta edició: juny 2011  
 Cinquena edició: febrer 2012  
 Sisena edició: octubre 2013  
+Setena edició: juliol 2015
 
 
 La Guia és un document obert. Millorem-la col·laborativament:
