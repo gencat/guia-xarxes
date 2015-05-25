@@ -14,7 +14,7 @@ Al mateix temps que el web de la Generalitat serveix per oferir informació detal
 
 La *Guia de xarxes socials de la Generalitat de Catalunya* estableix unes pautes comunes per a la presència homogènia de la Generalitat a les xarxes socials.   
 
-La Guia també conté el procediment que cal seguir per obrir perfils en aquests espais de relació i participació. Així mateix, enumera les diferents eines de xarxa social, els diversos usos i objectius de presència en cadascuna, les recomanacions per a una presència adequada i reexida i també els criteris d'estil comunicatiu més adequats per a cada eina.  
+La Guia també conté el procediment que cal seguir per obrir perfils en aquests espais de relació i participació. Així mateix, enumera les diferents eines de xarxa social, els diversos usos i objectius de presència en cada una, les recomanacions per a una presència adequada i reexida i també els criteris d'estil comunicatiu més adequats en cada eina.  
 
 ## Reutilització  
 
@@ -24,4 +24,4 @@ La [Generalitat de Catalunya](http://web.gencat.cat/ca/menu-ajuda/ajuda/avis_leg
 
 La Guia és un instrument dinàmic i obert en el que tothom hi pot participar des de la seva experiència. Actualment el projecte està publicat a [Github](https://github.com/generalitat/guia) i des d'aquest espai es poden fer totes les aportacions.  
 
-També ens podeu escriure a **xarxes@gencat.cat** i seguir-nos a [@gencat](http://twitter.com/gencat).  
+També es poden fer aportacions a **xarxes@gencat.cat** i seguir el perfil [@gencat](http://twitter.com/gencat).  
