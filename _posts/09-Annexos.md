@@ -448,6 +448,8 @@ Els signes de puntuació serveixen per comprendre i interpretar correctament el 
 
         XARXES SOCIALS. Conjunt de fotografies, generalment d'un mateix tema, que un usuari penja en una xarxa social per a compartir-les.
 
+        
+
         **amfitrió | amfitriona** _ n m, f_
 
         _es        _anfitrión | amfitriona_ n m, f_; organizador | organizadora_ n m, f_
@@ -578,6 +580,8 @@ Els signes de puntuació serveixen per comprendre i interpretar correctament el 
 
         XARXES SOCIALS. Canal de continguts específic del Facebook que recull informació sobre les actualitzacions més recents dels contactes d'un usuari i hi ofereix enllaços.
 
+        
+
         **canal web** _ n m_
 
         _es        _canal web_ n m_; push channel_ n m_
@@ -685,6 +689,8 @@ Els signes de puntuació serveixen per comprendre i interpretar correctament el 
         _en        _fake account
 
         XARXES SOCIALS. Compte d'una xarxa social el titular del qual no és real.
+
+       
 
         **compte verificat** _ n m_
 
@@ -838,6 +844,8 @@ Els signes de puntuació serveixen per comprendre i interpretar correctament el 
 
         XARXES SOCIALS. Difusió, per mitjà d'Internet, d'informació seleccionada prèviament per un servidor i distribuïda als internautes abonats a un canal web sense que l'hagin sol·licitada.
 
+       
+
         **eina** _ n f_
 
         _es        _herramienta_ n f_
@@ -889,6 +897,8 @@ Els signes de puntuació serveixen per comprendre i interpretar correctament el 
         _en        _netiquette; network etiquette
 
         XARXES SOCIALS. Conjunt de regles de convivència i de normes de conducta que han de seguir els usuaris d'Internet.
+
+       
 
         **etiqueta** _ n f_
 
@@ -995,6 +1005,8 @@ Els signes de puntuació serveixen per comprendre i interpretar correctament el 
         _en        _conference group; discussion forum; discussion group; forum; interest group; newsgroup
 
         XARXES SOCIALS. Plataforma en què un grup d'internautes intercanvien opinions i informació sobre un tema.
+
+      
 
         Nota: El fòrum com a plataforma es distingeix del fòrum entès com el grup d'internautes que intercanvien opinions i informació.
 
@@ -1352,6 +1364,8 @@ _        _
 
         XARXES SOCIALS. Xarxa de comunicació a través d'Internet que permet crear un microblog.
 
+       
+
         Nota: L'aplicació que gestiona la plataforma de microblogs més utilitzada actualment té el nom comercial _Twitter_.
 
 
@@ -1463,6 +1477,8 @@ _        _
 
         XARXES SOCIALS. Reenviar una piulada publicada anteriorment per un altre usuari.
 
+      
+
         Nota: El sinònim complementari _retuitejar _deriva del verb _tuitejar_.
 
 
@@ -1495,6 +1511,8 @@ _        _
 
         XARXES SOCIALS. Format de fitxer basat en el llenguatge XML i desenvolupat específicament per a la creació de canals de continguts.
 
+       
+
         Nota: Segons la documentació, la sigla anglesa original pot provenir de les denominacions _rich site summary_ (resum enriquit del lloc), _RDF site summary_ (resum RDF del lloc) o _really simple syndication_ (sindicació molt simple).
 
 
@@ -1516,6 +1534,8 @@ _        _
         _en        _follow, to
 
         XARXES SOCIALS. Rebre, un usuari del Twitter, totes les piulades d'un altre usuari mitjançant subscripció.
+
+      
 
         **seguit | seguida** _ n m, f_
 
