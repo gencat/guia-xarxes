@@ -14,8 +14,18 @@ Les consultes es respondran a través del canal on han estat realitzades formula
 
 En els casos en què calgui donar més informació, es pot remetre l'interlocutor a un perfil corporatiu més específic o a una bústia de correu electrònic.  
 
-Les respostes han de ser comprensibles. Calque sempre que es pugui la resposta contingui el subjecte de la pregunta. Per exemple, si ens pregunten: 'Quan s'obre el procés d'inscripcions universitàries' respondrem 'El procés d'inscripcions universitàries s'obre el 25 de març'. Amb aquest tipus de resposta incrementem la visibilitat del tuit i la contextualització en qualsevol espai.  
+Les **respostes** han de ser comprensibles. Calque sempre que es pugui la resposta contingui el subjecte de la pregunta. Per exemple, si ens pregunten: 'Quan s'obre el procés d'inscripcions universitàries' respondrem 'El procés d'inscripcions universitàries s'obre el 25 de març'. Amb aquest tipus de resposta incrementem la visibilitat del tuit i la contextualització en qualsevol espai.  
 
+Les **mencions** a Twitter només s’han d’utilitzar en casos justificats, com ara per respondre consultes de la ciutadania o per estalviar caràcters a l’hora de referir-se a algú en el cos del tuit, tant en perfils relacionats amb la Generalitat (consellers, treballadors públics...) com amb altres institucions. Cal evitar incloure sistemàticament mencions al tuit amb l’objectiu d’aconseguir retuit (RT) ja que es considera una mala pràctica i, en tot cas, els perfils que estiguin interessats en els continguts d'un perfil determinat, ja es preocuparan de seguir-lo. N’és una excepció la informació d’emergència (la Generalitat té perfils específics sobre aquesta temàtica) que, com en el cas d’un incendi, està justificada ja que necessita la màxima difusió.  
+
+Els **retuits** són tuits d’altres persones usuàries que tornen a publicar per col·laborar a la conversa. Perquè els altres usuaris puguin retuitejar-los, els tuits han de tenir uns 125-130 caràcters com a màxim (segons la llargada del nom del perfil).  
+
+Per norma general, s’han d’escriure amb el format següent:  
+
+	RT + @nomdelperfilretuitejat + text + enllaç escurçat + #etiqueta  
+	RT @tecnimap2010. Tota l’actualitat de l’esdeveniment a Facebook  bit.ly/9SBfzF #tecnimap)  
+
+És important que l’enllaç del primer tuit s’obri i es torni a escurçar amb l’aplicació de gestió de tuits adoptada perquè el tingui en compte a l’hora de comptabilitzar la mètrica del perfil.    
 
 ## Normes de participació
 
