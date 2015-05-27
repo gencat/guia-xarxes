@@ -1,77 +1,63 @@
-## 6 Generar continguts rellevants
-- incorporar imatges
-- netiqueta
-- Dimensions de les imatges de xarxes socials cheatsheet.
-- si t'equivoques en un tuit, enlloc d'esborar-lo intenta explicar la causa de l'error en un altre missatge.
-- no retuitegis alguna contingut sense haver-lo llegit abans.
-- enllaçar tuits fent una autoreply
-- youtube vídeos destacats
-- imatges optimitzades (tinypng)
-- youtube flickr: cura la captura de vídeo que queda a l'incii del vídeo/àlbum
-- aprovechar una tendencia para colocar contenido propio
-- calendari editorial compartit.
-- enllaçar tuits https://twitter.com/18F/status/578568401070792704
-- col·leccions de feedly compartides.
-- Freqüència.
-	L'atenció de la ciutadania és cada vegada un bé més preuat. La informació que ens arriba al llarg d'un dia creix any rere any, per això hem d'intentar racionalitzar els missatges que publiquem. 
+# 6. Generar continguts rellevants
 
-	Hem observat com un major espai entre missatges publicats repercuteix positivament a la visibilitat. Per tant recomanem espaiar els missatges a les diferents plataformes i publicar de manera pausada. La freqüència de publicació òptima per a cada xarxa depen dels tipus de contingut i evidentment en casos de directe i emergències està justificat publicar missatges en intervals temporals més estrets.
+Les xarxes socials exigeixen continguts especials de qualitat. Hem d'aportar un valor al ciutadà i no limitar-nos a publicar el titular i l'enllaç a les notes de premsa. Per tal de generar continguts rellevants per la ciutadania cal dedicar-hi temps i recuros.
 
-	Com a recomanació general aconsellem publicar mensualment uns 150 tuits, i unes 50 publicacions a Facebook. D'altra banda també es recomana una publicació mínima regular.
+El tipus de contingut rellevant és diferent per a cada departament, servei o marca, i fins i tot serà diferent segons la temàtica del contingut. És per això que és dificil extrapolar unes pautes generals que funcionin a tots els perfils de la Generalitat. És per això que es recomana provar diferents estratègies de continguts i mesurar-ne l'efectivitat.
 
-	- Temporalitat. Depen de cada usuari, estudiar les mètriques.
-	Quan hem de publicar els missatges?
+El mòbil és principal dispositiu des d'on la ciutdania consulta les nostres publicacions. ÉS per això que cal tenir en compte les singularitats del mitjà i adaptar tots els continguts que publiquem. 
 
-	- Com (missatges curts, *storytelling*, concursos).
-	- Veu i to.
-	- Repeticions (#taldiacomavui).
-	- Etiquetes.
-	- Mencions.
-	- Optimitzat per buscadores.
-	- Ús de continguts gràfics (embebir: imatges a flickr, vídeos a youtube)+
 
-### Tuits
-- Espaiar la publicació de tuits per deixar temps per als RT.
-- Ús mesurat de la publicació d’imatges. Les mides idònies perquè es vegin correctament a Twitter són 404 px x 220 px.
-- Publicar en hores que s'hagin detectat de màxim interès per al perfil en qüestió. 
+## Tipus de continguts
 
-### Mencions
-Les mencions a Twitter només s’han d’utilitzar en casos justificats, com ara per respondre consultes de la ciutadania o per estalviar caràcters a l’hora de referir-se a algú en el cos del tuit, tant en perfils relacionats amb la Generalitat (consellers, treballadors públics...) com amb altres institucions. Cal evitar incloure sistemàticament mencions al tuit amb l’objectiu d’aconseguir retuit (RT) ja que es considera una mala pràctica i, en tot cas, els perfils que estiguin interessats en els continguts d'un perfil determinat, ja es preocuparan de seguir-lo. N’és una excepció la informació d’emergència (la Generalitat té perfils específics sobre aquesta temàtica) que, com en el cas d’un incendi, està justificada ja que necessita la màxima difusió.
+- Incorporar dinàmiques comunicatives a determinats perfils que hi escaiguin més, com ara la foto del dia o la previsió del temps del dia, en perfils de caire més proactiu. Aquestes informacions poden anar acompanyades d’una etiqueta ideada per a l’ocasió, i que no faci més de 12 caràcters, que es pot anar repetint cada dia.  
 
-### Retuits (RT)
-Els retuits són tuits d’altres persones usuàries que tornen a publicar per col·laborar a la conversa. Perquè els altres usuaris puguin retuitejar-los, els tuits han de tenir uns 125-130 caràcters com a màxim (segons la llargada del nom del perfil).
+- Acompanyar les publicacions d'imatges d'impacte, cal que aquestes estiguin optimitzades a les dimensions de cada eina. A Twitter es recomanen imatges de 404 px x 220 px i per Facebook 403 px x 403 px.  
 
-Per norma general, s’han d’escriure amb el format següent:
+- A l’hora d’enllaçar material gràfic propi en les publicacions (vídeos, imatges, gràfics o presentacions), es recomana que s’hagin publicat prèviament en els repositoris corresponents (Youtube, Flickr, Slideshare).  
 
-RT + @nomdelperfilretuitejat + text + enllaç escurçat + #etiqueta
-RT @tecnimap2010. Tota l’actualitat de l’esdeveniment a Facebook  bit.ly/9SBfzF #tecnimap)
+- Utilitzar un lector d'rss per tal de centralitzar de manera més eficient la lectura de nous continguts que puguin ser compartits.  
 
-És important que l’enllaç del primer tuit s’obri i es torni a escurçar amb l’aplicació de gestió de tuits adoptada perquè el tingui en compte a l’hora de comptabilitzar la mètrica del perfil.
+- Els actes són una gran font de continguts, aprofita per el·laborar continguts de qualitat abans, durant i després. Si hi intervenen persones externes recorda de citar correctament els seus perfils a les xarxes socials, ja que són de gran ajuda per aconseguir més difusió.  
 
-### Enllaços
-Els enllaços aporten valor afegit al tuit. S’han d’escurçar mitjançant l’aplicació bit.ly, incorporada a Tweetdeck, que permet comptabilitzar la mètrica del perfil de manera fàcil i àgil. Cal llegir bé els textos que s’enllacen i assegurar-se que la font és fiable.
+- Sempre llegeix i valida el contingut abans de ser compartit als perfils oficials. Es poden publicar continguts generats per altres, sempre que s'hagi validat la seva vigència.  
 
-Si es tracta de llocs web, cal buscar-ne les persones que l’han creat i veure si se’ls pot donar crèdit. En general, cal evitar enllaçar blogs personals, tret d’aquelles informacions que són rellevants pel contingut (seleccionat amb l’objectiu del perfil de Twitter de la Generalitat) i no pas per l’opinió de la persona blogaire.
+- Aprofita les tendències per fer aflorir continguts propis d'arxiu. 
 
-### Etiquetes (*hashtags*)
-L’etiqueta anuncia la temàtica del tuit i s’han d’usar les que ja es fan servir a Twitter. La manera de saber si una etiqueta està en ús és escriure-la al buscador de Twitter [search.twitter.com](http://search.twitter.com) (ex: administracio) i així es pot esbrinar si està en ús o no.
+## Redacció
 
-L’etiqueta ha de ser curta. L’ús d’etiquetes permet classificar la informació d’una manera àgil; així, els usuaris poden cercar i filtrar contingut a partir de les etiquetes. A més a més, són un indicador dels temes de més actualitat a Twitter.
+- Evitar textos massa llargs. 
 
-Quan sigui imprescindible usar noves etiquetes, com les emprades per a jornades específiques de certa transcendència o algun tipus de primícia, han de tenir com a màxim 12 caràcters per fer més fàcil de recordar-la i d’encabir-la dins l’espai limitat d’un tuit. 
+- Presentar la informació com una seqüència d’accions: abans-després / problema-solució / informació d’interès-desig-acció / servei-història, benefici o raó-solució o acció.  
 
-### Posts a Facebook
-- Es recomana publicar imatges per acompanyar les informacions perquè atrauen més els usuaris. Les mides idònies perquè es vegin correctament a Facebook són 403 px x 403 px.
-- Evitar textos massa llargs. Es recomana que facin 250 caràcters com a màxim perquè siguin atractius.
-- Publicar en hores que s'hagin detectat de màxim interès per al compte en qüestió. 
+- Cal seguir l’ordre natural de la frase i en format actiu a l’hora d’escriure a les xarxes socials.   
 
-### Redacció
-- Presentar la informació com una seqüència d’accions: abans-després / problema-solució / informació d’interès-desig-acció / servei-història, benefici o raó-solució o acció
-- Cal seguir l’ordre natural de la frase i en format actiu a l’hora d’escriure a les xarxes socials.
-- Informació clara, concisa, persuasiva i creïble. També útil, urgent, única, ultraespecífica. 
-- Fer ús del relat de marca (*storytelling*) en les publicacions, és a dir, recrear històries que il·lustrin la informació o el missatge que es vol transmetre per aconseguir l’atenció dels usuaris. Aquest estil de redacció s’ha de correspondre amb un rol més actiu de la persona seguidora de la pàgina, tendint a fer que se’n senti partícip en tot moment. Aquest nivell d’implicació amb l’usuari varia segons la xarxa social de què es tracti.
-- Incorporar dinàmiques comunicatives a determinats perfils que hi escaiguin més, com ara la foto del dia o la previsió del temps del dia, en perfils de caire més proactiu. Aquestes informacions poden anar acompanyades d’una etiqueta ideada per a l’ocasió, i que no faci més de 12 caràcters, que es pot anar repetint cada dia. 
-- Evitar recomanar la lectura d’articles de mitjans. 
-- A l’hora d’enllaçar material gràfic propi en les publicacions (vídeos, imatges, gràfics o presentacions), cal que s’hagin publicat prèviament en es repositoris corresponents (Youtube, Flickr, Slideshare).
+- Informació clara, concisa, persuasiva i creïble. També útil, urgent, única, ultraespecífica.  
 
+- Fer ús del relat de marca (*storytelling*) en les publicacions, és a dir, recrear històries que il·lustrin la informació o el missatge que es vol transmetre per aconseguir l’atenció dels usuaris. Aquest estil de redacció s’ha de correspondre amb un rol més actiu de la persona seguidora de la pàgina, tendint a fer que se’n senti partícip en tot moment. Aquest nivell d’implicació amb l’usuari varia segons la xarxa social de què es tracti.   
+
+- Utilitzar etiquetes curtes i si és possible que ja estiguin siguent utilitzades. Quan sigui imprescindible usar noves etiquetes, com les emprades per a jornades específiques de certa transcendència o algun tipus de primícia, han de tenir com a màxim 12 caràcters per fer més fàcil de recordar-la i d’encabir-la dins l’espai limitat d’un tuit.  
+
+- Tingues molta cura a redactar sense faltes d'ortografia. És important que la Generalitat de Catalunya escrigui correctament els missatges que publica. En cas de cometre una errada ortogràfica no cal esborrar el missatge. Es pot publicar un nou missatge amb la redacció correcte i si és adient explicar la causa de l'error.  
+
+- Utilitza l'opció de Twitter que permet enllaçar missatges a través de la resposta. És una tècnica molt útil si pretenem publicar missatges de més de 140 caràcters o volem fer referència a continguts que hem publicat prèviament. El nou missatge sortirà al *timeline* sota el missatge al que l'hem enllaçat en ordre cronològic.   
+
+## Calendari editorial
+
+- Planificació a un mes vista dels continguts que publicarem als diferents canals. en aquesta palnificació hi han de participar totes aquelles persones que gestionaran els perfils.  
+
+- Canals interns d'informació, perquè qualsevol persona de la unitat pugui suggerir continguts de publicació, sense importar l'ordre jeràrquic. Els gestors del perfil seran els encarregats de validar i publicar els continguts si ho troben convenient.  
+
+- Crear un arxiu amb continguts atemporals per publicar quan no hi hagi continguts d'actualitat.  
+
+- Utilitzar els informes de seguiment que facilita la DGACD per coneixer els millors dies i hores per publicar. És important identificar les franges de màxim interès en la temàtica del perfil, ja que és diferent per cada unitat. També es ssabut que hi ha franges de més interès per cada tipus de contingut. Per exemple els continguts recurrents és important que sempre es publiquin a la mateixa hora.  
+
+- La publicació programada és uan bona eina, però s'ha de tenir un control del que es publicarà i sempre tenir la possibilitat d'accedir a modifcar-ne la publicació. Cal anar amb compte, perquè un missatge programat en segons quin context pot ser l'origen d'una crisi.  
+
+## Freqüència de publicació
+
+L'atenció de la ciutadania és cada vegada un bé més preuat. La informació que ens arriba al llarg d'un dia creix any rere any, per això hem d'intentar racionalitzar els missatges que publiquem.  
+
+Hem observat com un major espai entre missatges publicats repercuteix positivament a la visibilitat. Per tant recomanem espaiar els missatges a les diferents plataformes i publicar de manera pausada. La freqüència de publicació òptima per a cada xarxa depen dels tipus de contingut i evidentment en casos de directe i emergències està justificat publicar missatges en intervals temporals més estrets.   
+
+Com a recomanació general aconsellem publicar mensualment uns 150 tuits, i unes 50 publicacions a Facebook. D'altra banda també es recomana una publicació mínima regular.  
 
