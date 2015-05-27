@@ -13,8 +13,8 @@
 		[X] 04.4.2- Flickr
 		[X] 04.4.3- Slideshare
 		[X] 04.4.- Altres repositoris
-[ ] 05- Com gestionar la comunitat 
-[ ] 06- Generar continguts rellevants
+[X] 05- Gestionar la comunitat 
+[X] 06- Generar continguts rellevants
 [ ] 07- Publicitat a les xarxes socials
 [X] 08- Seguiment i avaluació  
 [ ] 09- Annexos  
