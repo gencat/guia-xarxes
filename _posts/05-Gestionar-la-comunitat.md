@@ -1,61 +1,51 @@
-(normes participació, gestió comentaris, 
-	crear xarxa,  ....)
+# 5. Gestionar la comunitat
 
-- no donar gràcies als nous seguidors ni retuitejar totes les mencions o critiques positives de nosaltres.
-- pautes de conducte com a pàgina especial.
-	- Quan bloquejar
-	- Normes de participació
-	- Com respondre
-	- Following i Followers
-	
-### Creació de xarxa
+El moment en el què obrim un perfil a les xarxes socials, estem entrant en el terreny de la ciutadania. Aquest acostament és molt útil per fer difusió de les nostres informacions, però alhora implica un compromís. Tenim el deure de participar en la conversa sobre el nostre àmbit d'actuació, especialment quan el ciutadà ens fa preguntes directament.  
 
-## A Twitter
-Per crear una comunitat de seguidors, es recomana començar a seguir perfils de l'àmbit o temàtica relacionada amb el departament, servei o marca en qüestió. És probable que aquests perfils retornin el seguiment i, d'aquesta manera, s'iniciarà una xarxa.
+Una bona manera de seguir el que s'està parlant sobre un tema del nostre interès, és mitjançant la monitorització. Amb les columnes de Tweetdeck podem configurar [cerques avançades](https://support.twitter.com/articles/71577-using-advanced-search) a Twitter, que en permeten fer un seguiment del que s'està parlant, amb la possibilitat d'aplicar-hi filtres.  
 
-Des de Tweetdeck es poden crear llistes de seguidors per temàtiques (per exemple: mitjans, periodistes, altres administracions, etc.) amb la finalitat de tenir ordenats els contactes. 
+És important seguir la netiqueta de cada entorn en el que som presents. Per exemple a Twitter no cal agraïr a cada un dels usuaris que fan retuit dels nostres missatges o ens comencen a seguir. Tampoc es recomana retuitejar els comentaris positius que ens fassi la ciutadania, a part d'aquells que puguin aportar un valor significatiu a la gent que ens segueix.  
 
-## A Facebook
-Una de les característiques principals de les pàgines de Facebook és que no tenen un llistat d’amics, com els perfils, sinó de simpatitzants amb la qual cosa, en comptes de demanar als usuaris de fer-se’n amics, l’administrador haurà d’idear altres estratègies per aconseguir que el nombre d’adherits a la pàgina augmenti.
- 
-Les pàgines poden disposar d'una URL pròpia (ex: [facebook.com/gencat](http://facebook.com/gencat)) a partir dels 25 membres. Per tal d'arribar a aquesta xifra en poc temps es recomana dur a terme algunes accions:
-- Enviar un correu electrònic a llistes de contactes del departament en qüestió
-- Comunicar mitjançant una nota de premsa la creació d’una pàgina
-- Contractar, amb el cost que això suposa, un espai de la barra lateral de Facebook per anunciar-s’hi.
-- Incloure la URL a la signatura del correu.
-- Enllaçar a la pàgina des del web corresponent.
+## Consultes i altres aportacions dels usuaris
 
-## A Youtube
-Tot i que Youtube conté funcionalitats pròpies de xarxa social per interactuar amb els usuaris com ara la missatgeria i el sistema de comentaris, s’ha optat per concentrar aquesta funció a la resta d’eines presentades i usar Youtube només com a mitjà de difusió de vídeos.
+Les mencions o al·lusions que ho requereixin s'han de respondre com més aviat millor, es recomana que el temps de resposta sigui inferior a les 2 hores. En cas de que la pregunta necessiti d'una recerca d'informació més avançada, s'informarà al ciutadà que s'està treballant en la resposta.  
 
-Amb la mateixa idea d’evitar la interacció amb els usuaris a través de Youtube per concentrar-la a les altres xarxes socials, a cada un dels vídeos que es publiquin marcarem *No permitir comentarios*, *No permitir votaciones sobre comentarios*, *No permitir respuestas en vídeo* i *No permitir que se puntúe este vídeo*. 
+Les consultes es respondran a través del canal que han estat realitzades, sempre que no continguin informació sensible.  
 
-## A Flickr
-La difusió dels materials publicats a Flickr té lloc a través de les altres xarxes socials, com Twitter i Facebook, amb la finalitat d'arribar a un nombre més gran d'usuaris.
- 
-S'ha de configurar el compte de Flickr perquè compleixi la funció de repositori d'imatges exclusivament. Per estalviar la publicació de comentaris que actuen com a xarxa social, cal seleccionar dins de *Privacidad y permisos*, a l'apartat d'*Opciones predeterminadas para las cargas nuevas / Quiénes pueden agregar notas, etiquetas y personas l'opció Sólo tú*.
+En els casos en què calgui donar més informació, es pot remetre l'interlocutor a un perfil corporatiu més específic o a una bústia de correu electrònic.  
 
-## A Slideshare
-xxxxxx
+Les respostes han de ser comprensibles per elles mateixes. Intentarem sempre que sigui possible que la resposta contingui el subjecte de la pregunta. Per exemple si ens pregunten: 'Quan s'obre el procés d'inscripcions universitàries' respondrem 'El procés d'inscripcions universitàries s'obre el 25 de març'. Amb aquest tipus de resposta incrementem la visibilitat del tuit i la contextualització en qualsevol espai.  
 
-### Consultes i altres aportacions dels usuaris
-Les mencions o al·lusions que ho requereixin s'han de respondre com més aviat millor.
 
-N'hi ha de dues menes:
+## Normes de participació
 
-- Formulació de preguntes, dubtes i sol·licituds. Les que siguin d'un àmbit més particular poden ser respostes amb un missatge directe.
-- Crítiques: en el cas de situacions de crítica oberta positiva, l’opció més adequada és contestar públicament amb la finalitat de mostrar que es dóna resposta a les opinions dels usuaris. Si la crítica és negativa, caldrà estudiar amb profunditat la queixa i donar-hi resposta de forma constructiva.
-- Propostes i suggeriments.
-- Agraïments pel contingut
-- Debat sobre la pregunta
+Per a la bona comunicació en totes les eines socials de la Generalitat de Catalunya, s’estableixen unes normes mínimes de participació, de manera que es pugui dur a terme una conversa respectuosa, tolerant i fructífera amb la ciutadania.  
 
-En els casos en què calgui donar més informació, es pot remetre l'interlocutor a un perfil corporatiu més específic o a una bústia de correu electrònic.
+Totes les eines socials en que la Generalitat hi té presència són oberts als comentaris de la ciutadania, que es publiquen si compleixen aquests requisits:  
 
-Totes les consultes i queixes dels diferents departaments, serveis i marques es podran repositar al portal d'Atenció Ciutadana i Difusió, grup Internet, de la plataforma e-Catalunya, perquè puguin servir per a altres ocasions a tota la comunitat que gestiona la presència de la Generalitat a les xarxes socials.
+- Que siguin pertinents, és a dir, que no s’allunyin del tema tractat. 
 
-**Gestió de trols**
-Trol és un missatge que un internauta envia a la bústia electrònica d’un altre internauta, a una tertúlia o a un grup de discussió amb la finalitat de suscitar una resposta irada o de desencadenar una baralla. Algunes recomanacions si es dóna el cas:
+- Que mantinguin el respecte i el bon clima i no ofenguin ni atemptin contra la dignitat d’altres persones.  
 
-- Respondre. Sempre s’ha d’analitzar si és convenient. Si hi ha algun error o es pot donar informació objectiva per rebatre-ho de forma adequada, és convenient fer-ho.
-- Eliminació. Seguint les recomanacions de les pautes de participació. Si són ofensius o contenen insults, s’eliminen.
-- Esdeveniments ofensius. Cal denunciar l’esdeveniment i esperar que Facebook actui d’ofici si ho creu convenient.
+- Que no continguin dades de caràcter personal ni informació publicitària.  
+
+- Que no tinguin com a objectiu enganyar, desorientar o estafar al ciutadà.  
+
+- Que no violi qualsevol llei intelectual de drets.  
+
+- Que el contingut del missatge no sigui promocional o *spam*.  
+
+La Generalitat només es responsabilitza dels continguts que emet a través dels seus canals. Els responsables dels perfils de la Generalitat es reserven el dret de no publicar qualsevol aportació que no observi aquestes indicacions mínimes.  
+
+Si un ciutadà incompleix reiteradament les normes de participació podrà ser bloquejat.  
+
+## Creació de xarxa
+
+Entrar a formar part d'una comunitat és una tasca lenta. Com a institució oficial tenim l'aventatge del reconeixement i la credibilitat de la nostra informació. Tot i aquest factor, és sempre la ciutadania qui decidiexi voluntariament subscriures per rebre els continguts que publiquem.  
+
+Es recomana seguir perfils d'interès de l'àmbit o temàtica relacionada amb el departament, servei o marca en qüestió. És probable que aquests perfils retornin el seguiment i, d'aquesta manera, s'iniciarà una xarxa.  
+
+Una manera de tenir ordenats els contactes és crear llistes de seguidors. Aquestes es poden gestionar des de Tweetdeck, i ens permeten ordenar temàticament la gent a qui seguim.  
+
+Quan obrim un perfil és bo fer-ho saver a la ciutadania que utilitza els serveis que oferim, per això es pot fer una notícia informativa, enllaçar des del web, o fer un enviament informatiu de correus.  
+
