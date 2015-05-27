@@ -79,19 +79,7 @@ Les funcions del CPS:
 - Participació en les sessions de formació i actualització de la CoP en l’àmbit propi.  
 - Recollida i subministrament de mètriques dels comptes de xarxes socials oberts.  
 
-## Gestionar la comunitat
 
-
-## Normes de participació
-Per a la bona comunicació en totes les eines socials de la Generalitat de Catalunya, s’estableixen unes normes mínimes de participació, de manera que es pugui dur a terme una conversa respectuosa, tolerant i fructífera amb la ciutadania.
-
-Tant els blocs com els altres espais a les diferents plataformes del web social són oberts als comentaris dels lectors, que es publiquen si compleixen aquests requisits:
-
-- Que siguin pertinents, és a dir, que no s’allunyin del tema tractat.  
-- Que mantinguin el respecte i el bon clima i no ofenguin ni atemptin contra la dignitat d’altres persones.  
-- Que no continguin dades de caràcter personal ni informació publicitària.  
-
-La Generalitat només es responsabilitza dels continguts que emet a través dels seus canals. Els responsables dels perfils de la Generalitat es reserven el dret de no publicar qualsevol aportació que no observi aquestes indicacions mínimes.
 
 ## 04.3- Blog
 # Blog
