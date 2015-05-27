@@ -396,7 +396,7 @@ Els signes de puntuació serveixen per comprendre i interpretar correctament el 
 ## 09.5- Imatge gràfica
 ## 09.6- Glossari Termcat
 
-**accessibilitat informàtica** _ n f_
+		**accessibilitat informàtica** _ n f_
 
         _es        _accesibilidad_ n f_; accesibilidad computacional [MX]_ n f_; accesibilidad informática_ n f_
 
