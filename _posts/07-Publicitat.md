@@ -1,8 +1,20 @@
 # Promocions
 
-Per facilitar que un missatges arribi més enllà de la nostra audiència, hi ha l'opció de promocionar una publicació. Perquè aquesta promoció sigui efectiva, se n'ha de fer un ús ocasional i coordinat. Per aconseguir més visibilitat d'un missatge seria oportú que no coincidís en el temps més d'una campanya de promoció, o almenys que no compartissin públics.
+Per aconseguir que un missatge arribi més enllà de l'audiència mateixa, les plataformes de xarxes socials ofereixen una opció de pagament per promocionar una publicació. Per aconseguir que sigui efectiva, se n'ha de fer un ús ocasional i coordinat. 
 
-La DGACD és l'encarregada de coordinar les campanyes de promoció dels missatges a les xarxes socials. Així doncs aquelles unitats que vulguin integrar un pla de xarxes dins la seva campanya de comunicació han de posar-se en contacte amb DGACD. Una vegada s'ha informat del brief
+La DGACD és l'encarregada de coordinar les campanyes de promoció dels missatges a les xarxes socials. Així doncs, les unitats que vulguin integrar un pla de xarxes dins la seva campanya de comunicació s'hi han de posar en contacte. Una vegada els responsables han informat dels objectius de la campanya, la DGACD valora si és idoni promocionar-la o bé si n'hi ha prou amb la publicació de missatges als canals institucionals habituals. Si s'estableix que val la pena fer-ne una promoció, es donen permisos als gestors del canal per dur-la a terme. Un cop acabada la campanya, els responsables n'informen a la DCGACD perquè pugui retirar els permisos d'edició. 
+
+La DGACD fa un seguiment de les etiquetes de les campanyes a Twitter que coordini, així com aportacions sobre els missatges, els continguts i les etiquetes que es poden usar.
+
+**Pautes per a la promoció de publicacions**
+
+- Seguir les pautes institucionals que marca el Programa d'idenitificació visual pel que fa a la inclusió d'icones de xarxes socials a les promocions http://www.gencat.cat/web/guies/estil/#estils1_1_9 
+- No es pot fer publicitat de pagament sobre altres institucions o marques als canals propis de la Generalitat.
+- Continguts patrocinats???
+- Evitar que més d'una campanya de promoció coincideixi en un mateix espai de temps o que comparteixi el mateix públic. 
+- Delimitar molt bé les dates que durarà la campanya.
+- Escollir les etiquetes més adequades tenint en compte el contingut i el límit de caràcters.
+- Alinear les campanyes publicitàries amb l'estratègia global del perfil. 
 
 
 
