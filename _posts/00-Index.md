@@ -61,6 +61,7 @@ https://github.com/CartoDB/odyssey.js/blob/gh-pages/documentation.md
 
 https://playbook.cio.gov/
 https://github.com/WhiteHouse/playbook
+https://pages.18f.gov/guides-template/
 
 http://ben.balter.com/open-source-for-government/
 
