@@ -29,7 +29,7 @@ La Generalitat de Catalunya té una presència activa a les xarxes socials des d
 
 
 
-El procediment d'obertura, gestió i tancament dels comptes el coordina la Direcció General d'Atenció Ciutadana i Difusió (DGACD) del Departament de la Presidència. La Direcció General, un cop garantits tots els estàndards, lliura els corresponents comptes i perfils d'entorns d'edició a la unitat sol·licitant, amb la imatge corporativa (avatars, imatges de fons i altres elements) establerta per a entorns de xarxa social al Programa d'identificació visual [gen.cat/pivxarxes](http://gen.cat/pivxarxes).  
+
 
 ## Principis que inspiren la presència de la Generalitat de Catalunya a les xarxes socials
 A l'hora d'interaccionar amb la ciutadania, cal fer-ho sempre amb un to d'acord amb els valors compartits de la Generalitat i tots els seus professionals:
@@ -109,39 +109,11 @@ La DGACD els convida a la COP 15 dies més tard???? que als comptes de la primer
 - **3a anella**
 Depenen de la segona anella, amb la qual s'han de posar en contacte per a l'obertura de comptes, que segueix el mateix procediment que en la segona anella. Les contrassenyes els pertanyen i poden fer ús (no obligatori) de l'avatar corporatiu. La DGACD no els ofereix les mètriques i són els responsables de la segona anella els que els conviden a la COP 15 dies més tard?????  llistes de distribució????
 
-## Com contactar amb suport de la DGACD
-
-Quan sorgeixin dubtes o incidències en la gestió cal contactar amb la DGACD mitjançant el correu electrònic: xarxes@gencat.cat. Els tècnics respondran en un màxim de 48 hores. 
-
-## Kit de benvinguda
 
 
 
 
-
-(Anàlisi previ, objectius pq es pot obrir un perfil, procés d'obertura, 
-	com contactar suport tècnic, hootsuite?, integració amb el web (giny, 
-	consells bàsics. I si ets un cps? com demanar suport tècnic)
-	 ) 
-	 
-- objectius per a l'obertura d'un perfil
-- Criteris per l'obertura d'un perfil (ajuda pels departametns que fan de filtre)
-- kit de benvinguda
 - newsletter: mensual?, novetats? proxim events?, interessants? resum cop (novetats internet, nvoetats dgacd, cas pràctic)
-- Com informar d'una incidència (com contactar amb suport). Formar a l'usuari. Exemples + timings de resposta (48h). No telèfon.
-Hola Sergi,
-- Open hours? (hores amb les que xatejar, venir a configurar mòbils)
 
-	Tenim problemes per gestionar els vídeos del canal Youtube de Bombers. ës un tema una mica urgent, ja uqe hi ha un vídeo penjat que hem de modificar.
 
-	T'eh estat trucatn però no he pogut parlar directament amb tu. Si pots fes-me un truc al 616 48 41 42
-
-	Gracies
-
-	Simon Saura
-
-### Qüestionari de sol·licitud d’obertura de compte
-
-Abans d’obrir un compte oficial a les xarxes socials hi ha d’haver un treball previ de reflexió sobre què es vol aconseguir. És per això que qualsevol departament, servei o marca que es vulgui incorporar a la solució corporativa ha d’emplenar un qüestionari. S’hi demana per què es vol obrir el compte, què es vol comunicar i per
-què a través de les xarxes socials, a qui es vol comunicar, etc. Aquestes preguntes són les que ens permeten definir uns indicadors bàsics de rendiment (KPI, en anglès) que quantifiquen els objectius fixats i amb els quals podríem monitorar-ne el grau d’assoliment. 
 
