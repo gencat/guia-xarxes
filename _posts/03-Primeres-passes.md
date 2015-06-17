@@ -1,85 +1,78 @@
-# Primeres passes
+# Primeres passes  
 
-## Obertura d'un perfil
+L'obertura d'un nou perfil oficial a les xarxes socials és una tasca que fan en paral·lel la DGACD i la unitat que sol·licita aquest nou perfil. Un nou perfil ha de resoldre unes necessitats comunicatives de la unitat envers a la ciutadania i alhora ha d'encaixar dins l'estratègia comunicativa global de la Generalitat. És per això que tot nou perfil necessita una procés previ de reflexió.  
 
-- Criteris per a l'obertura d'un perfil 
+## 1. Treball a fer per a cada unitat abans de la sol·licitud oficial
 
-Per ordenar la gestió del comptes de la Generalitat de Catalunya, s'estableixen tres nivells diferents, cadascun amb un protocol d'actuació diferent:
+### 1.1. Definir objectius
 
-- **1a anella**
-Els comptes formen part totalment de la solució corporativa. Així doncs, la Direcció General d'Atenció Ciutadana i Difusió (DGACD) en guarda la contrassenya i proporciona l'avatar oficial als gestors d’acord amb el Programa d’identificació visual (PIV) de les xarxes socials de la Generalitat. També fa servei de suport i envia les mètriques del compte periòdicament. 
+El primer pas és la definició d'objectius. Aquests poden canviar al llarg del temps, però els objectius són el que definiran l'estratègia  a les xarxes, per tant  és important dedicar el temps necessari en aquesta fase. El treball de la definició d'objectius l'ha de fer cada unititat en funció de l'estratègia de comunicació integral, s'ha de trobar la manera com millorar l'atenció a la ciutadania utililitzant les xarxes.  
 
-Els gestors del compte tenen prioritat d'assistència a les reunions de comunitat de professionals (COP) que tenen lloc quatre cops l'any i estan inclosos a les llistes de distribució de continguts generats a la COP i enviats posteriorment.
+Una bona manera de començar és preguntar-se quin paper volem que les xarxes socials juguin a la nostra unitat. Ens podem preguntar quin pes volem que tinguin diferents aspectes com l'atenció al ciutadà, informació d'activitats pròpies, guanyar visibilitat o aconseguir col·laboracions ciutadanes. Podem agafar com exemples els perfils de twitter de [@gencat](http://twitter.com/gencat) i [@012](http://twitter.com/012).  
 
-Per obrir un compte, caldrà seguir el procediment següent:
+### 1.2. Escoltar 
 
-1. Els responsables n'han de parlar amb la persona encarregada de xarxes socials al departament corresponent, amb qui hauran de valorar, segons els criteris definits, si és òptim obrir-lo o no. 
-2. Enviar el formulari de sol·licitud a la DGACD. 
-3. La DGACD cita els responsables del compte a una reunió presencial. Els responsables hauran d'aportar-hi una planificació de continguts i la llista de persones editores. 
-4. Si la DGACD decidiex obrir el perfil, proporciona la plantilla de l'avatar oficial.
-5. Els gestors del compte fan un tuit de benvinguda.
+Estudiar el que s'està parlant sobre el tema del que volem tractar és una bona manera de començar estar present a les xarxes, i pot ajudar a afinar els objectius definits. Tot i que sembli un pas obvi, sovint ens n'oblidem i això fa que ens allunyem de la realitat. Estar present a les converses del nostre interès que es produeixen a les xarxes amb una actitud de predisposició al canvi i a la millora del servei, és un dels aspectes bàsics en tot saquells perfils que més èxit han aconseguit . Per tant l'escolta ha de ser un dels principis bàsics de la nostra presència.  
 
-- **2a anella**
-Hi ha departaments, serveis i marques que, per la pròpia estructura interna, disposen de centres prestadors de serveis (CPS), repartits pel territori. Els CPS poden demanar l’obertura d’un compte de xarxa social que segueixi les pautes comunes per a tota la Generalitat i obtenir l’avatar oficial.
+En els primers moments, quan encara no tenim un perfil oficial, podem utilitzar el [buscador de Twitter](http://search.twitter.com) i cercar el nom de la nostra unitat i de les paraules claus associades a la nostra activitat. Aquest hàbit és molt saludable i ajuda afinar la percepció de la ciutadania sobre el nostre servei. Una vegada tinguem el perfil oficial obert podem utilitzar les cerques avançades de Tweetdeck i definir columnes per les recurrents. No ens oblidem que no sempre que parlin de nosaltres ho faran citant el nostre nom d'usuari.  
 
-El procediment d’obertura que cal seguir es coordinarà entre el CPS i l’organisme responsable de l’obertura de xarxes socials en aquell departament o institució, seguint el mateix protocol de la primera anella però amb el departament, servei o marca com a responsable de la coordinació.
+En el moment de l'obertura del perfil des de la DGACD es demanen 5 perfils de Twitter semblants amb els que us voleu comparar. Més enllà d'utilitzar aquests perfils per el·laborar la part comparativa a la fitxa de seguiment, també és útilt per veure com actuen altres perfils similars. Podem observar per exemple quins recursos empleen, a quina hora publiquen, quin tipus de continguts publiquen i fins i tot veure quin impacte aconsegueixen amb les seves publicacions. En un escenari ideal, estaria bé traslladar la mentalitat de treball col·laboratiu més enllà de la Generalitat i intercanviar idees amb les persones que gestionen aquests perfils similars.  
 
-Les funcions del departament, servei o marca són:
+### 1.3. Conèixer el ciutadà 
 
-- Difusió de l’estratègia comunicativa a les xarxes.  
-- Disseny de l’avatar i del fons de pantalla del CPS a partir de la plantilla subministrada per la DGACD.  
-- Definició del nom dels comptes de xarxes socials del CPS, així com d’altres textos relacionats: bio a Twitter, pestanya Informació i Participació a Facebook, etc.  
-- Emmagatzematge de persones administradores, noms d’usuari i contrasenyes dels comptes de xarxes socials comunicats pel CPS.  
-- Formació, acompanyament i assessorament dels responsables dels comptes a les xarxes socials amb trobades presencials i/o virtuals en forma de comunitat de professionals (CoP).  
+S'ha de coneixer el ciutadà al que ens dirigim. Evidentment les publicacions dels perfils oficials són d'utilitat per a tota la ciutadania, però cal definir quin seran els principals públics als que ens dirigirem. Quins continguts els interessa? A quins espais tenen presència? Com són aquestes persones? A partir d'aquí es pot començar a pensar com han de ser els continguts que publicarem, a quines hores serà millor publicar, o a quins espais cal que tinguem presència i a quins no.  
 
-Les funcions del CPS:
+Aquesta observació de l'audiència ha de ser constant una vegada obrim el perfil. Els informes de seguiment que el·labora la DGACD són una eina que ajuda a coneixer com la ciutadania interactua amb els perfils oficials, i han de servir per adaptar els continguts al que la la ciutadania necessita en cada moment.  
 
-- Obertura del compte a la xarxa social a partir d’un compte de correu no corporatiu.  
-- Gestió i manteniment del perfil de xarxa social.  
-- Comunicació al departament, servei o marca dels noms de les persones administradores i dels noms d’usuari i contrasenyes dels comptes de xarxes socials per a la custòdia.  
-- Compromís d’informar el departament, servei o marca de qualsevol canvi de nom d’usuari i/o contrasenya.  
-- Compromís de fer servir les aplicacions aconsellades per la DGACD per gestionar els comptes i perfils.  
-- Participació en les sessions de formació i actualització de la CoP en l’àmbit propi.  
-- Recollida i subministrament de mètriques dels comptes de xarxes socials oberts.  
- 
-La DGACD els convida a la COP 15 dies més tard???? que als comptes de la primera anella i els facilita unes mètriques bàsiques. Els responsables formen part de la llista de distribució de continguts que es generen a la COP.
+Com millor coneguem la comunitat a la que ens dirigim, millor servei els podem brindar.  
 
-- **3a anella**
-Depenen de la segona anella, amb la qual s'han de posar en contacte per a l'obertura de comptes, que segueix el mateix procediment que en la segona anella. Les contrassenyes els pertanyen i poden fer ús (no obligatori) de l'avatar corporatiu. La DGACD no els ofereix les mètriques i són els responsables de la segona anella els que els conviden a la COP 15 dies més tard?????  llistes de distribució????
+### 1.4. Escollir canals
 
-## Com contactar amb suport de la DGACD
+Una vegada hem definit els objectius, hem escoltat el que s'està dient i coneixem en profunditat la comunitat a la que ens dirigim,  tenim els arguments necessaris per escollir a través de quins canals ens relacionarem amb la ciutadania. S'ha de tenir en compte que cada eina té les seves particularitats i que necessita una periode d'aprenentatge, fet que desanconsella la publicació automàtica entre eines. Per tant cada canal necessita un temps de dedicació.  
 
-Quan sorgeixin dubtes o incidències en la gestió cal contactar amb la DGACD mitjançant el correu electrònic: xarxes@gencat.cat. Els tècnics respondran en un màxim de 48 hores. 
+Quan estiguem definint els canals en els que estarem presents, pensa en el tipus de contingut que ja estàs creant i les persones que participen a l'el·laboració d'aquest continguts. Obrir un canal exigeix una regularitat en l'actvitat, i hem de ser capaços de mantenir-lo mentres el perfil estigui obert. Tenir un sol perfil que funcioni és millor que tenir-ne cinc d'inactius.  
 
-## Kit de benvinguda
+Podeu llegir el capítol **4. Eines** de la guia per veure les plataformes que la Generalitat ofereix per una presència institucional a les xarxes socials.  
+
+### 1.5. Estratègia de continguts
+
+Després de totes aquestes reflexions, tenim tots els ingredients per definir l'estratègia de continguts. Per ajudar podem fer servir les dades d'analítica del nostre web, per tal d'esbrinar quins són els continguts que més interès desperten. Es recomana una estratègia de continguts flexible i viva, capaç d'adaptar-se als canvis ens les necessitats de la ciutadania.  
+
+Abans d'obrir el perfil recomanem que les persones editores del perfil el·laborin un llistat amb 20 tuits i 10 publicacions de Facebook que haguéssin pogut ser publicades durant el mes anterior.  
+
+## 2. Sol·licitud oficial
+
+Arribats aquest punt, havent reflexionat internament sobre la conveniència del perfil, és el moment d'enviar  a la DGACD el [formulari](http://gencat.cat/piv/pdf/autorit_web.pdf) de sol·lictud d'alta d'un nou perfil a les xarxes socials. En el formulari es demana informació sobre la que prèviament ja haurem pensat. El formulari de sol·licitud ha de ser signat pel secretari general del departament.  
+
+Des del departament també es pot decidir que el nou perfil no formi part de la primera anella de perfils de la Generalitat i que formi part de la segona anella del departament. En aquest cas no cal enviar el fomulari d'alta a la DGACD.
+
+Aquest fet obliga a la persona responsable de la unitat i a la responsable de xarxes del departament a parlar sobre l'idonietat del perfil dins l'estratègia comunicativa del departament. Si s'arriba es decideix que cal obrir el perfil, llavors s'envia el formulari a la DGACD.  
+
+Una vegada arriba el formulari a la DGACD aquesta convoca a la persona responsable de la unitat i a la persona responsable del departament a una reunió per parlar sobre l'obertura del perfil. En aquesta reunió cal que la unitat sol·licitant tingui molts clars els aspectes previs a l'obertura del perfil.  
+
+Amb aquesta informació la DGACD conjuntament amb el departament corresponen decideixen si cal obrir o no el nou perfil. En cas de que no es cregui oportú obrir el perfil es poden plantejar solucions com per exemple la publicació a altres perfils del departament de missatges amb l'etiqueta de l'unitat.  
+
+## 3. La primera publicació
+
+Quan es confirma l'obertura d'un nou perfil a les xarxe socials, la DGACD és l'encarregada de l'obertura, configuració i adaptació del perfil. Els perfils corporatius de la Generalitat s'obren sempre des d'un correu *@gencat.cat* i es configuren els aspectes de presentació seguint el [*programa d'identificació visual a les xarxes socials*](http://gencat.cat/piv/pdf/xarxes_socials.pdf).  
+
+La unitat sol·licitant a d'informar a la DGACD:  
+
+- Dades de la persona responsable del perfil (nom, cognom, correu, telèfon).  
+- Dades de tots els editors dels perfils (nom, cognom, correu, usuari de Twitter, correu amb el que accedeix a Facebook).  
+- Correu del compte de Dropbox amb el que es compartirà la carpeta de mètiques.  
+- Cinc perfils similars amb els que poder-se comparar, pels informes de seguiment.  
+- Data prevista de publicació dels primers continguts.  
+
+La DGACD:  
+
+- Donar permisos d'edició al perfil a les persones que el responsable ha informat.  
+- Configura les eines intermitges (Tweetdeck) per tal de facilitar l'edició dels continguts.  
+- Afegeix al responsable del perfil a la cop de xarxes socials de la Generalitat.  
+- Es dona d'alta a la llista de distribució de continguts gencat a totes les persones editores.  
+- Fa difusió del nou perfil als canals corporatius de la Generalitat.  
 
 
 
 
-
-(Anàlisi previ, objectius pq es pot obrir un perfil, procés d'obertura, 
-	com contactar suport tècnic, hootsuite?, integració amb el web (giny, 
-	consells bàsics. I si ets un cps? com demanar suport tècnic)
-	 ) 
-	 
-- objectius per a l'obertura d'un perfil
-- Criteris per l'obertura d'un perfil (ajuda pels departametns que fan de filtre)
-- kit de benvinguda
-- newsletter: mensual?, novetats? proxim events?, interessants? resum cop (novetats internet, nvoetats dgacd, cas pràctic)
-- Com informar d'una incidència (com contactar amb suport). Formar a l'usuari. Exemples + timings de resposta (48h). No telèfon.
-Hola Sergi,
-- Open hours? (hores amb les que xatejar, venir a configurar mòbils)
-
-	Tenim problemes per gestionar els vídeos del canal Youtube de Bombers. ës un tema una mica urgent, ja uqe hi ha un vídeo penjat que hem de modificar.
-
-	T'eh estat trucatn però no he pogut parlar directament amb tu. Si pots fes-me un truc al 616 48 41 42
-
-	Gracies
-
-	Simon Saura
-
-### Qüestionari de sol·licitud d’obertura de compte
-
-Abans d’obrir un compte oficial a les xarxes socials hi ha d’haver un treball previ de reflexió sobre què es vol aconseguir. És per això que qualsevol departament, servei o marca que es vulgui incorporar a la solució corporativa ha d’emplenar un qüestionari. S’hi demana per què es vol obrir el compte, què es vol comunicar i per
-què a través de les xarxes socials, a qui es vol comunicar, etc. Aquestes preguntes són les que ens permeten definir uns indicadors bàsics de rendiment (KPI, en anglès) que quantifiquen els objectius fixats i amb els quals podríem monitorar-ne el grau d’assoliment. 
 
