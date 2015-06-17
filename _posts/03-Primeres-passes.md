@@ -2,7 +2,7 @@
 
 L'obertura d'un nou perfil oficial a les xarxes socials és una tasca que fan en paral·lel la DGACD i la unitat que sol·licita aquest nou perfil. Un nou perfil ha de resoldre unes necessitats comunicatives de la unitat envers a la ciutadania i alhora ha d'encaixar dins l'estratègia comunicativa global de la Generalitat. És per això que tot nou perfil necessita una procés previ de reflexió.  
 
-## 1. Treball a fer per a cada unitat abans de la sol·licitud oficial
+## 1. Tasques prèvies a la sol·licitud oficial
 
 ### 1.1. Definir objectius
 
@@ -70,7 +70,7 @@ La DGACD:
 - Configura les eines intermitges (Tweetdeck) per tal de facilitar l'edició dels continguts.  
 - Afegeix al responsable del perfil a la cop de xarxes socials de la Generalitat.  
 - Es dona d'alta a la llista de distribució de continguts gencat a totes les persones editores.  
-- Fa difusió del nou perfil als canals corporatius de la Generalitat.  
+- Fa difusió del nou perfil als canals corporatius de la Generalitat.   
 
 
 

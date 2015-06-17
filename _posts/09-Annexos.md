@@ -5,7 +5,7 @@ En aquest apartat recollim algunes de les preguntes freqüents que rebem dels us
 FAQ:
 
 - **Com puc sol·licitar suport tècnic a la DGACD?**  
-- Quan sorgeix un dubte o incidència en la gestió diària del perfil es pot sol·licitar suport tècnic a la DGACD. En primer lloc cal fer una cerca a [google](http://www.google.com) i/o a [Twitter](http://search.twitter.com) sobre l'incidència que ens afecta. En cas de no trobar la resposta, llavors podem contactar amb la DGACD via el correu electronic **xarxes@gencat.cat**. En aquest correu explicarem detalladament el dubte o incidència i si s'escau adjuntarem una captura del missatge d'error.  
+- Quan sorgeix un dubte o incidència en la gestió diària del perfil es pot sol·licitar suport tècnic a la DGACD. En primer lloc cal fer una cerca a [google](http://www.google.com) i/o a [Twitter](http://search.twitter.com) sobre l'incidència que ens afecta. En cas de no trobar la resposta, llavors podem contactar amb la DGACD via el correu electronic **xarxes@gencat.cat**. En aquest correu explicarem detalladament el dubte o incidència i si s'escau adjuntarem una captura del missatge d'error. Els tècnics respondran en un màxim de 48 hores.  
 
 ---
 
