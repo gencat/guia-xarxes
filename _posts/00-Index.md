@@ -15,7 +15,7 @@
 		[X] 04.4.- Altres repositoris
 [X] 05- Gestionar la comunitat 
 [X] 06- Generar continguts rellevants
-[ ] 07- Publicitat a les xarxes socials
+[ ] 07- Promocions
 [X] 08- Seguiment i avaluació  
 [ ] 09- Annexos  
 	[ ] 09.1- Preguntes Freqüents
@@ -41,7 +41,7 @@
 http://www.gobiernodecanarias.org/identidadgrafica/redessociales/redes_sociales_procedimiento_apertura_cuentas.pdf
 - euskadi
 - ...
-
+- Com fer un avatar + plantilla svg + inkscape link
 ---
 
 http://www.bbc.co.uk/academy/journalism/skills/social-media
