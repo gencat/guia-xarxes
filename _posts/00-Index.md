@@ -3,7 +3,7 @@
 ---
 [X] 01- Introducció
 [ ] 02- La Generalitat de Catalunya a les xarxes socials (teòria)
-[ ] 03- Primeres passes. Començar a gestionar perfil  (pràctica)
+[X] 03- Primeres passes. Començar a gestionar perfil  (pràctica)
 [X] 04- Eines
 	[X] 04.1- Twitter
 	[X] 04.2- Facebook
@@ -15,15 +15,15 @@
 		[X] 04.4.- Altres repositoris
 [X] 05- Gestionar la comunitat 
 [X] 06- Generar continguts rellevants
-[ ] 07- Promocions
+[X] 07- Promocions
 [X] 08- Seguiment i avaluació  
-[ ] 09- Annexos  
-	[ ] 09.1- Preguntes Freqüents
-	[ ] 09.2- Drets d'autoria
-	[ ] 09.3- Criteris lingüístics 
-	[ ] 09.4- Convencions gràfiques
-	[ ] 09.5- Imatge gràfica
-	[ ] 09.6- Glossari Termcat
+[X] 09- Annexos  
+	[X] 09.1- Preguntes Freqüents
+	[X] 09.2- Drets d'autoria
+	[X] 09.3- Criteris lingüístics 
+	[X] 09.4- Convencions gràfiques
+	[X] 09.5- Imatge gràfica
+	[X] 09.6- Glossari Termcat
 
 ---
 
