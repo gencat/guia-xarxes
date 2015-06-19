@@ -1,6 +1,19 @@
 # Change log
 Tots els canvis que anem introduint a cada una de les noves revisions de la Guia.
 
+## [0.7] - 2015-06-19
+## Nou
+- Nova organització dels capítols.  
+- Promocions a les xarxes socials.  
+- Generar continguts rellevants.  
+- Gestionar la comunita.  
+- Primeres passes.  
+
+## Modificat
+- Acualitzacions a les eines.  
+- PIV: nous avatars blaus pels perfils de govern.   
+
+
 ## [0.6] - 2013-10-18
 ### Nou
 - Terminologia bàsica de les xarxes socials. Incoporació de la terminologia del [Termcat](http://www.termcat.cat/ca/Diccionaris_En_Linia/156/Presentacio/).
