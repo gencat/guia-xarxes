@@ -2,7 +2,7 @@
 # Índex
 ---
 [X] 01- Introducció
-[ ] 02- La Generalitat de Catalunya a les xarxes socials (teòria)
+[W] 02- La Generalitat de Catalunya a les xarxes socials (teòria)
 [X] 03- Primeres passes. Començar a gestionar perfil  (pràctica)
 [X] 04- Eines
 	[X] 04.1- Twitter
@@ -25,30 +25,6 @@
 	[X] 09.5- Imatge gràfica
 	[X] 09.6- Glossari Termcat
 
----
-
-1 		- Context. (Què són les xarxes).							What happened?
-2/3 	- Què planteja la generalitat									Who did that? / When did it take place?
-4 		- On? (Eines).																Where did it take place?
-5/6/7 - Com? (Consells i recomenacions)
-8 		- Ho fem bé?																	Why did that happen?
-9 		- Més informació
-
----
-
-- guies que s'han inspirat:
-- canarias http://www.gobcan.es/identidadgrafica/manual_identidad_grafica/manual_desglosado/redes_sociales_guia_estilo.pdf
-http://www.gobiernodecanarias.org/identidadgrafica/redessociales/redes_sociales_procedimiento_apertura_cuentas.pdf
-- euskadi
-- ...
-- Com fer un avatar + plantilla svg + inkscape link
----
-
-http://www.bbc.co.uk/academy/journalism/skills/social-media
-http://www.bbc.co.uk/academy/journalism/skills/social-media/article/art20141104135026547
-http://www.bbc.co.uk/academy/journalism/skills/social-media/article/art20130912154850462
-http://www.bbc.co.uk/academy/journalism/skills/social-media/article/art20141029115439609
-http://www.bbc.co.uk/academy/journalism/skills/social-media/article/art20130912133622865
 
 
 http://support.mashery.com/docs/customizing_your_portal/Markdown_Cheat_Sheet

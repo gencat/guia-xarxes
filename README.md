@@ -16,5 +16,5 @@ També ens podeu escriure a **xarxes@gencat.cat** i a [@gencat](http://twitter.co
 
 ## Canvis
 
-Si vols consultar els canvis de cada revisió visita [CHANGE LOG](CHANGELOG.md) per a més informació.
+Si vols consultar els canvis de cada revisió visita [CHANGE LOG](CHANGELOG.md) per a més informació.  
 

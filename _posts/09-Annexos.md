@@ -1,4 +1,4 @@
-## 09.1- Preguntes Freqüents
+## 9.1- Preguntes Freqüents
 
 En aquest apartat recollim algunes de les preguntes freqüents que rebem dels usuaris de la comunitat de professionals. 
 
@@ -19,7 +19,7 @@ FAQ:
 
 ---
 
-## 09.2- Drets d'autoria
+## 9.2- Drets d'autoria
 
 # Drets d'autoria
 
@@ -86,7 +86,7 @@ A continuació s’enumeren algunes útils recomanacions per gestionar els drets
 - Gestionar correctament també les obres (fotos, vídeos, presentacions, textos...) que siguin propietat de la Generalitat; tenint-ho tot documentat i en situació de poder-ho acreditar i transferir a qualsevol altra unitat o persona.
 
 
-## 09.3- Criteris lingüístics
+## 9.3- Criteris lingüístics
 # Criteris lingüístics
 
 Aquests criteris s’han extret dels Criteris lingüístics de la Secretaria de Política Lingüística i dels Criteris lingüístics del Departament de Justícia i s’han adaptat a les necessitats específiques de les xarxes socials.
@@ -196,7 +196,7 @@ Català-francès/anglès/alemany:
 
 
 
-## 09.4- Convencions gràfiques
+## 9.4- Convencions gràfiques
 # Convencions gràfiques
 
 ## Abreviacions

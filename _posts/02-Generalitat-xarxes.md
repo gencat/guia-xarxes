@@ -69,13 +69,14 @@ Recordem que qualsevol activitat a la xarxa queda enregistrada indefinidament i 
 
 ## Com s'ordenen els perfils corporatius  
 
-Per ordenar la gestió del comptes de la Generalitat de Catalunya, s'estableixen tres nivells diferents, cadascun amb un protocol d'actuació diferent.  
+Per ordenar la gestió del comptes de la Generalitat de Catalunya, s'estableixen tres nivells diferents, cadascun amb un protocol d'actuació diferent, segons la participació de la Generalitat.    
 
 ### 1a anella
 
 Els comptes formen part totalment de la solució corporativa. Així doncs, la Direcció General d'Atenció Ciutadana i Difusió (DGACD) en guarda la contrassenya i proporciona l'avatar oficial als gestors d’acord amb el Programa d’identificació visual (PIV) de les xarxes socials de la Generalitat. També fa servei de suport i envia les mètriques del compte periòdicament.  
 
 Els gestors del compte poden assistir a les reunions de comunitat de professionals (COP) que tenen lloc quatre cops l'any i estan inclosos a les llistes de distribució de continguts generats a la COP i enviats posteriorment.  
+Tots els perfils d'aquest tipus són llistats al directori oficial de xarxes socials.      
 
 ### 2a anella
 
@@ -83,7 +84,13 @@ Hi ha departaments, serveis i marques que, per la pròpia estructura interna, di
 
 El procediment d’obertura que cal seguir es coordinarà entre el CPS i l’organisme responsable de l’obertura de xarxes socials en aquell departament o institució, seguint el mateix protocol de la primera anella però amb el departament, servei o marca com a responsable de la coordinació.
 
-Les funcions del departament, servei o marca són:
+Les funcions de la DGACD són:
+
+- Assesorar al responsable del departament en l'obertura del perfil.  
+- Fer un seguiment resumit de l'activitat dels perfils.  
+- Facilitar l'inscripció a la llista de distribució a tots els editors.  
+
+Les funcions del departament, servei o marca són:  
 
 - Difusió de l’estratègia comunicativa a les xarxes.  
 - Disseny de l’avatar i del fons de pantalla del CPS a partir de la plantilla subministrada per la DGACD.  
@@ -104,4 +111,8 @@ Les funcions del CPS:
 
 ### 3a anella
 
-Depenen de la segona anella, amb la qual s'han de posar en contacte per a l'obertura de comptes, que segueix el mateix procediment que en la segona anella. Les contrassenyes els pertanyen i poden fer ús (no obligatori) de l'avatar corporatiu. La DGACD no els ofereix les mètriques i són els responsables de la segona anella els que els conviden a la COP 15 dies més tard?????  llistes de distribució????
+Depenen de la segona anella, per tant el màxim responsable en l'obertura del perfil és el departament al que pertany, que segueix el mateix procediment que en la segona anella. 
+
+Les contrassenyes els pertanyen i poden fer ús (no obligatori) de l'avatar corporatiu. La DGACD no els ofereix el servei de mètriques, per la impossibilitat d'avastir tot el conjunt.  
+
+
