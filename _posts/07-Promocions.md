@@ -1,4 +1,4 @@
-# Promocions
+# 7. Promocions
 
 A vegades pot convenir que una publiació arribi més enllà de la comunitat pròpia. Per a aquests casos, la majoria d'eines socials ofereixen la possibilitat de promocionar una publicació. Aquesta opció, ben executada, és una manera ràpida d'arribar a un major nombre de persones que no pas seguint les pautes d'edició habituals.   
 
