@@ -1,28 +1,7 @@
  
-
-- Explicar solució corporativa
-- Organització anelles (1a, 2a, cps)
-	- Responasble del departament.
-	- Qui obra configura perfils
-- Drets i deures
-	- Drets: cop (+ cas pràctic públic), formació interna, mètriques, 
-	- Deures: Informar canvis personal, no alterar configuració perfil, acceptar les normes gràfiques, entendre forma part d'un conjunt 
-- Què cal saber? Eines que s'utilitzen, com es publica, cops, supor tècnic, formació
-
-
-- gravar CoPs o almenys casos pràctics.
-- més formació cps, què fer quan
-
-- procediment de tancament pas a pas d'un perfil.
-- anelles solució corporativa i drets, deures i serveis per a cada una.
-- Definir molt clarament les funcions de la dgacdacs i dels usuaris. Tant en els perfils "normals" com en els casos dels CPS..
-- cop vé tothom? enlloc de convidar 1x1 obrir inscripcions i que es vagin apuntant els que els interessi, llavors ja enviarem mail amb continguts
-- directori http://ajuntament.barcelona.cat/xarxessocials/ca/ (concurs genera directori a partir d'un json).
-
-
 # 2. La Generalitat de Catalunya a les xarxes socials
 
-La Generalitat de Catalunya té una presència activa a les xarxes socials des de 2009. Durant aquest temps ha  consolidat una relació estable amb la ciutadania a través dels canals digitals.  
+La Generalitat de Catalunya té una presència activa a les xarxes socials des de 2009. Durant aquest temps ha  consolidat una relació  amb la ciutadania a través dels canals digitals.  
 
 Més de 200 perfils en el conjunt de l'institució, permeten una relació especialitzada amb el ciutadà. La suma de tots aquests perfils construeix el que coneixem com a solució corporativa gencat.  
 
@@ -44,28 +23,6 @@ El to amb què es conversa ha de ser sempre proper i cordial. La comunicació en
 Quan s’és a les xarxes socials, s’ha de tenir present que s’entra en un terreny propi de la ciutadania. I aquí cada usuari té la seva opinió, que no sempre s’ha de compartir, però sí respectar. La presència de la Generalitat no té com a objectiu fer canviar aquestes opinions, ni imposar-ne d’altres, tan sols es pretén compartir, escoltar i conversar amb la ciutadania en el seu espai.  
 
 Com a principi general, des dels perfils corporatius no es poden emetre opinions personals i la línia editorial ha de coincidir amb la del lloc web oficial. Com a criteri general, en la redacció de continguts a les xarxes socials, blogs i entorns web cal usar el to adequat a la institució pública que l’emet. Així mateix, la redacció ha de ser lingüísticament correcta, sense errors ortogràfics ni lèxics. S’han de revisar els textos que es volen publicar amb l’ajuda, si escau, de recursos lingüístics (diccionaris, manuals d’ortografia, llibres d’estil, etc.).  
-
-## Consells i recomanacions d’ús per al personal de la Generalitat
-
-Les xarxes socials ofereixen un nombre il·limitat de possibilitats de les quals les persones que treballen a la Generalitat poden gaudir de manera responsable. Fins i tot quan interaccionin des dels seus perfils personals a les xarxes socials, com que són membres de la institució, haurien de poder tenir en compte una sèrie de recomanacions per garantir-ne un bon ús.  
-
-Les opinions que s’emetin en qualsevol perfil social són de caire personal i en cap cas extrapolables a l’organització. L’empleat o empleada té dret a expressar lliurement les seves opinions o punts de visita sobre qualsevol tema que cregui oportú.  
- 
-Per evitar possibles conflictes amb el servei que oferim, es recomanen un seguit d’accions:  
-
-- Qualsevol treballador de la Generalitat, amb presència a les xarxes socials, pot expressar aquesta condició lliurement. En aquest cas es recomana especificar que els comentaris, punts de vista i opinions expressats en el perfil social són merament personals.  
-
-- Cal usar el correu electrònic no corporatiu per registrar comptes personals a qualsevol pàgina externa a la Generalitat, ja que aquesta informació podria ser mal interpretada o utilitzada per a fins no desitjats. Aquesta recomanació s’entén referida explícitament a Twitter i a Facebook.  
-
-- S’hauria d’evitar participar en accions o moviments que puguin suscitar una degeneració de la reputació de la Generalitat i els serveis que ofereix.  
-
-- Es recomana actuar de forma transparent i respectant la legislació. Per a aquelles actuacions personals vinculades amb l’àmbit professional, cal recordar que la normativa lingüística recalca la responsabilitat del funcionariat en la normalització lingüística del català en tots els seus àmbits d’actuació.  
-
-- No s’haurien de publicar comentaris despectius ni ofensius a Internet.  
-
-- Si s’usen les xarxes socials durant la jornada laboral, cal fer-ne un bon ús i sempre orientat a aconseguir una millora del servei que s’ofereix.  
-
-Recordem que qualsevol activitat a la xarxa queda enregistrada indefinidament i és accessible per a tots els usuaris.
 
 ## Com s'ordenen els perfils corporatius  
 
@@ -115,4 +72,25 @@ Depenen de la segona anella, per tant el màxim responsable en l'obertura del pe
 
 Les contrassenyes els pertanyen i poden fer ús (no obligatori) de l'avatar corporatiu. La DGACD no els ofereix el servei de mètriques, per la impossibilitat d'avastir tot el conjunt.  
 
+## Consells i recomanacions d’ús per al personal de la Generalitat
+
+Les xarxes socials ofereixen un nombre il·limitat de possibilitats de les quals les persones que treballen a la Generalitat poden gaudir de manera responsable. Fins i tot quan interaccionin des dels seus perfils personals a les xarxes socials, com que són membres de la institució, haurien de poder tenir en compte una sèrie de recomanacions per garantir-ne un bon ús.  
+
+Les opinions que s’emetin en qualsevol perfil social són de caire personal i en cap cas extrapolables a l’organització. L’empleat o empleada té dret a expressar lliurement les seves opinions o punts de visita sobre qualsevol tema que cregui oportú.  
+ 
+Per evitar possibles conflictes amb el servei que oferim, es recomanen un seguit d’accions:  
+
+- Qualsevol treballador de la Generalitat, amb presència a les xarxes socials, pot expressar aquesta condició lliurement. En aquest cas es recomana especificar que els comentaris, punts de vista i opinions expressats en el perfil social són merament personals.  
+
+- Cal usar el correu electrònic no corporatiu per registrar comptes personals a qualsevol pàgina externa a la Generalitat, ja que aquesta informació podria ser mal interpretada o utilitzada per a fins no desitjats. Aquesta recomanació s’entén referida explícitament a Twitter i a Facebook.  
+
+- S’hauria d’evitar participar en accions o moviments que puguin suscitar una degeneració de la reputació de la Generalitat i els serveis que ofereix.  
+
+- Es recomana actuar de forma transparent i respectant la legislació. Per a aquelles actuacions personals vinculades amb l’àmbit professional, cal recordar que la normativa lingüística recalca la responsabilitat del funcionariat en la normalització lingüística del català en tots els seus àmbits d’actuació.  
+
+- No s’haurien de publicar comentaris despectius ni ofensius a Internet.  
+
+- Si s’usen les xarxes socials durant la jornada laboral, cal fer-ne un bon ús i sempre orientat a aconseguir una millora del servei que s’ofereix.  
+
+Recordem que qualsevol activitat a la xarxa queda enregistrada indefinidament i és accessible per a tots els usuaris.
 
