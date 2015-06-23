@@ -3,7 +3,7 @@
 
 La Generalitat de Catalunya té una presència activa a les xarxes socials des de 2009. Durant aquest temps ha  consolidat una relació  amb la ciutadania a través dels canals digitals.  
 
-Més de 200 perfils en el conjunt de l'institució, permeten una relació especialitzada amb el ciutadà. La suma de tots aquests perfils construeix el que coneixem com a solució corporativa gencat.  
+Més de 200 perfils en el conjunt de l'institució, permeten una relació especialitzada amb el ciutadà. La suma de tots aquests perfils construeix el que es coneix com a solució corporativa gencat.  
 
 ## Principis que inspiren la presència de la Generalitat de Catalunya a les xarxes socials
 
@@ -43,16 +43,16 @@ El procediment d’obertura que cal seguir es coordinarà entre el CPS i l’org
 
 Les funcions de la DGACD són:
 
-- Assesorar al responsable del departament en l'obertura del perfil.  
+- Assesorar el responsable del departament en l'obertura del perfil.  
 - Fer un seguiment resumit de l'activitat dels perfils.  
-- Facilitar l'inscripció a la llista de distribució a tots els editors.  
+- Facilitar la inscripció a la llista de distribució a tots els editors.  
 
 Les funcions del departament, servei o marca són:  
 
 - Difusió de l’estratègia comunicativa a les xarxes.  
 - Disseny de l’avatar i del fons de pantalla del CPS a partir de la plantilla subministrada per la DGACD.  
 - Definició del nom dels comptes de xarxes socials del CPS, així com d’altres textos relacionats: bio a Twitter, pestanya Informació i Participació a Facebook, etc.  
-- Emmagatzematge de persones administradores, noms d’usuari i contrasenyes dels comptes de xarxes socials comunicats pel CPS.  
+- Emmagatzematge de persones administradores, noms d’usuari i contrassenyes dels comptes de xarxes socials comunicats pel CPS.  
 - Formació, acompanyament i assessorament dels responsables dels comptes a les xarxes socials amb trobades presencials i/o virtuals en forma de comunitat de professionals (CoP).  
 
 Les funcions del CPS:
@@ -68,9 +68,9 @@ Les funcions del CPS:
 
 ### 3a anella
 
-Depenen de la segona anella, per tant el màxim responsable en l'obertura del perfil és el departament al que pertany, que segueix el mateix procediment que en la segona anella. 
+Depenen de la segona anella. Per tant, el màxim responsable en l'obertura del perfil és el Departament al qual pertanyen, que segueix el mateix procediment que en la segona anella. 
 
-Les contrassenyes els pertanyen i poden fer ús (no obligatori) de l'avatar corporatiu. La DGACD no els ofereix el servei de mètriques, per la impossibilitat d'avastir tot el conjunt.  
+Les contrassenyes els pertanyen i poden fer ús (no obligatori) de l'avatar corporatiu. La DGACD no els ofereix el servei de mètriques.  
 
 ## Consells i recomanacions d’ús per al personal de la Generalitat
 
@@ -92,5 +92,5 @@ Per evitar possibles conflictes amb el servei que oferim, es recomanen un seguit
 
 - Si s’usen les xarxes socials durant la jornada laboral, cal fer-ne un bon ús i sempre orientat a aconseguir una millora del servei que s’ofereix.  
 
-Recordem que qualsevol activitat a la xarxa queda enregistrada indefinidament i és accessible per a tots els usuaris.
+Cal recordar que qualsevol activitat a la Xarxa queda enregistrada indefinidament i és accessible per tots els usuaris.
 
