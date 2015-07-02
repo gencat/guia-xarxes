@@ -2,7 +2,7 @@
 
 L'ús de les xarxes socials provoca canvis en les nostres esferes personal, social i professional. Centrant-nos en l'àmbit professional, l'actual escenari de gran connectivitat entre persones i la gestió de la informació generada afavoreix que s'avanci cap a formes d'intel·ligència col·lectiva que estan canviant les organitzacions.  
 
-L'accés a les xarxes socials mitjançant dispositius mòbils garanteix la participació des d'arreu; i, com més gent les usa, més se'n poden multiplicar les utilitats. Ofereixen, doncs, un excel·lent escenari cap a la millora i la innovació. A més de facilitar la participació i implicació de la ciutadania i altres actors en la governança, les xarxes socials complementen els canals d'atenció ciutadana de l'Administració (telefònica, presencial, virutal,...).  
+L'accés a les xarxes socials mitjançant dispositius mòbils garanteix la participació des d'arreu; i, com més gent les usa, més se'n poden multiplicar les utilitats. Ofereixen, doncs, un excel·lent escenari cap a la millora i la innovació. A més de facilitar la participació i implicació de la ciutadania i altres actors en la governança, les xarxes socials complementen els canals d'atenció ciutadana de l'Administració (telefònica, presencial, virutal,...).   
 
 Al mateix temps que el web de la Generalitat serveix per oferir informació detallada, les xarxes socials:
 
@@ -24,4 +24,4 @@ La [Generalitat de Catalunya](http://web.gencat.cat/ca/menu-ajuda/ajuda/avis_leg
 
 La Guia és un instrument dinàmic i obert en el que tothom hi pot participar des de la seva experiència. Actualment el projecte està publicat a [Github](https://github.com/generalitat/guia) i des d'aquest espai es poden fer totes les aportacions.  
 
-També es poden fer aportacions a **xarxes@gencat.cat** i seguir el perfil [@gencat](http://twitter.com/gencat).  
+També ens podeu fer aportacions al correu **xarxes@gencat.cat** i al perfil de Twitter [@gencat](http://twitter.com/gencat).  

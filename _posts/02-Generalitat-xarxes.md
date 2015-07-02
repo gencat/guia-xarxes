@@ -10,6 +10,7 @@ Més de 200 perfils en el conjunt de l'institució, permeten una relació especi
 A l'hora d'interaccionar amb la ciutadania, cal fer-ho sempre amb un to d'acord amb els valors compartits de la Generalitat i tots els seus professionals:
  
 - **Col·laboració (participació en accions ciutadanes)**: promoure i participar en espais de col·laboració és la clau per crear comunitats que aportin un valor a la Xarxa. Participar en accions ciutadanes com si fossin pròpies, a més de fomentar la participació de la resta de la ciutadania.  
+
 - **Obertura i transparència**: cal mostrar tal com és l’organització, amb naturalitat i amb voluntat de servei.   
 
 - **Interdependència (coresponsabilitat)**: saber qui es representa i cap a qui, com i on ens relacionem. S’han de tenir en compte les normes de netiqueta pròpia de cada un dels espais.   
