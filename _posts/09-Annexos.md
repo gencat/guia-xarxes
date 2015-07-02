@@ -1,21 +1,23 @@
+# 9. Annexos
+
 ## 9.1- Preguntes Freqüents
 
-En aquest apartat recollim algunes de les preguntes freqüents que rebem dels usuaris de la comunitat de professionals. 
+En aquest apartat recollim algunes de les preguntes freqüents que rebem dels usuaris de la comunitat de professionals.
 
 FAQ:
 
-- **Com puc sol·licitar suport tècnic a la DGACD?**  
-- Quan sorgeix un dubte o incidència en la gestió diària del perfil es pot sol·licitar suport tècnic a la DGACD. En primer lloc cal fer una cerca a [google](http://www.google.com) i/o a [Twitter](http://search.twitter.com) sobre l'incidència que ens afecta. En cas de no trobar la resposta, llavors podem contactar amb la DGACD via el correu electronic **xarxes@gencat.cat**. En aquest correu explicarem detalladament el dubte o incidència i si s'escau adjuntarem una captura del missatge d'error. Els tècnics respondran en un màxim de 48 hores.  
+- **Com puc sol·licitar suport tècnic a la DGACD?**
+- Quan sorgeix un dubte o incidència en la gestió diària del perfil es pot sol·licitar suport tècnic a la DGACD. En primer lloc cal fer una cerca a [google](http://www.google.com) i/o a [Twitter](http://search.twitter.com) sobre l'incidència que ens afecta. En cas de no trobar la resposta, llavors podem contactar amb la DGACD via el correu electronic **xarxes@gencat.cat**. En aquest correu explicarem detalladament el dubte o incidència i si s'escau adjuntarem una captura del missatge d'error. Els tècnics respondran en un màxim de 48 hores.
 
 ---
 
--**Si entro des de el meu compte (via web) i vaig a l meu perfil no veig alguns tuits al meu timeline. Només passa amb alguns. Potser hi ha hagut algun problema amb twitter o tweetdeck?**  
-- En el perfil web s’amaguen els missatges que comencen per @. Per veure’ls cal anar a ‘Tweets & replies’. A més recordeu que els missatges que comencen per @username només són visibles als timelines de la gent que us segueix a vostres i a @usernam. Per evitar això, quan haguem de començar un tuit amb un nom d’usuari podem posar un punt a l’inici del tuit: ‘.@govern .....’.  
+-**Si entro des de el meu compte (via web) i vaig a l meu perfil no veig alguns tuits al meu timeline. Només passa amb alguns. Potser hi ha hagut algun problema amb twitter o tweetdeck?**
+- En el perfil web s’amaguen els missatges que comencen per @. Per veure’ls cal anar a ‘Tweets & replies’. A més recordeu que els missatges que comencen per @username només són visibles als timelines de la gent que us segueix a vostres i a @usernam. Per evitar això, quan haguem de començar un tuit amb un nom d’usuari podem posar un punt a l’inici del tuit: ‘.@govern .....’.
 
 ---
 
--**Com puc registrar la url d'una pàgina de Facebook?**  
-- Cal accedir al perfil personal de l'usuari administrador de la pàgina. Amb la sessió iniciada anem a [https://www.facebook.com/username ](https://www.facebook.com/username) seleccionem la pàgina i el nom que volem registrar i si està disponible autoritzem el registre.  
+-**Com puc registrar la url d'una pàgina de Facebook?**
+- Cal accedir al perfil personal de l'usuari administrador de la pàgina. Amb la sessió iniciada anem a [https://www.facebook.com/username ](https://www.facebook.com/username) seleccionem la pàgina i el nom que volem registrar i si està disponible autoritzem el registre.
 
 ---
 
@@ -37,7 +39,7 @@ Per la naturalesa de l’objecte a protegir, es defineixen dos grans tipus de dr
 Són una característica de l’anomenat dret d’autor continental enfront el dret anglosaxó i especialment del dret nord-americà, on pràcticament són desconeguts. Els drets d’autor protegeixen l’autoria o paternitat de l’obra, que és irrenunciable per part de l’autor. Aquesta protecció es concreta en el dret al reconeixement, respecte a la integritat de l’obra, divulgació i opció a retirar l’obra del comerç.
 
 ### Drets d’explotació
-Fan referència als possibles usos que es poden fer d’una obra. L’actual llei de propietat intel·lectual en reconeix quatre: reproducció, distribució, comunicació pública i transformació. 
+Fan referència als possibles usos que es poden fer d’una obra. L’actual llei de propietat intel·lectual en reconeix quatre: reproducció, distribució, comunicació pública i transformació.
 
 En tots dos casos, tant els drets morals com els drets d’explotació, corresponen sempre als autors. Els drets d’explotació, però, poden ser cedits a terceres persones (físiques o jurídiques) que vulguin explotar l’obra.
 
@@ -68,7 +70,7 @@ Les imatges –fotos, gràfics, quadres...– , vídeos i presentacions tenen dr
 
 La Generalitat de Catalunya opta per defecte per les llicències Creative Commons i, dins d’aquestes, per les que facilitin una obertura i una reutilització més àmplies, com ara BY Reconeixement o la BY-SA Reconeixement / Compartir igual. Aquestes dues modalitats són les que s’ajusten més fidelment a l’estratègia de la Generalitat per posar a disposició de ciutadania i empreses tantes obres –i dades– com sigui possible i amb el màxim nivell d’obertura, intentant afavorir-ne la transformació i els usos comercials.
 
-En tots els casos, cal explicitar com a autor o gestor dels drets d’autoria la Generalitat de Catalunya, a través del departament i/o organisme en qüestió. Per exemple: ‘Generalitat de Catalunya. Departament de la Presidència’ o ‘Generalitat de Catalunya. Escola d’Administració Pública de Catalunya’. 
+En tots els casos, cal explicitar com a autor o gestor dels drets d’autoria la Generalitat de Catalunya, a través del departament i/o organisme en qüestió. Per exemple: ‘Generalitat de Catalunya. Departament de la Presidència’ o ‘Generalitat de Catalunya. Escola d’Administració Pública de Catalunya’.
 
 ## Drets d’imatge i protecció de dades
 El dret a la pròpia imatge és un dret fonamental reconegut a l’article 18.1 de la Constitució espanyola que estableix: “es garanteix el dret a l’honor, a la intimitat personal i familiar i a la pròpia imatge”. Com a dret de la personalitat que és, implica que el seu titular té dret a decidir sobre les publicacions o reproduccions de la seva imatge; per aquest motiu, en principi, se n’ha de demanar la corresponent autorització. D’altra banda, també a les xarxes socials, la Generalitat de Catalunya garanteix la confidencialitat de les dades personals en els termes establerts per la Llei orgànica 15/1999, de 13 de desembre, de protecció de dades de caràcter personal (LOPD), implementant les mesures de seguretat necessàries i adequades al tipus de dades personals, d’acord amb el Reial decret 1720/2007, de 21 de desembre, pel qual s’aprova el Reglament de desenvolupament de la LOPD. Les dades que es requereixin són les estrictament necessàries, adequades i pertinents
@@ -99,7 +101,7 @@ Cal utilitzar un to neutre i publicar informacions sense implicació subjectiva.
  
 ## Llengua
 ### Llengua estàndard
-La varietat estàndard és l’adequada en les situacions comunicatives pròpies de l’Administració, que permet la intercomprensió entre els diversos parlants. 
+La varietat estàndard és l’adequada en les situacions comunicatives pròpies de l’Administració, que permet la intercomprensió entre els diversos parlants.
 
 El model de llengua ha de ser formal, concís, clar i neutral, és a dir, amb absència d’usos discriminatoris, llenguatge no sexista, etc.
  
@@ -118,7 +120,7 @@ Els complements circumstancials de temps i de lloc són elements que tenen forç
 ### Verbs-noms
 Les estructures nominals, en què s’utilitza un nom en substitució dels verbs corresponents, sovint són més llargues, més abstractes i més impersonals, i per tant més difícils d’entendre que les frases amb verb corresponents. Per aquest motiu, tot i que es tracta d’una estructura que en molts casos no presenta problemes de comprensió, convé no abusar-ne.
  
-Així doncs, en comptes d’una nominalització, utilitzarem una forma verbal (ex.: el conseller farà la presentació de... hauria de ser: el conseller presentarà...). 
+Així doncs, en comptes d’una nominalització, utilitzarem una forma verbal (ex.: el conseller farà la presentació de... hauria de ser: el conseller presentarà...).
 
 ## Traducció de noms de persona i de lloc
 La finalitat d’aquest punt és exposar una llista de criteris de traducció en català i castellà i informar de les equivalències català-francès, català-anglès i catalàalemany. Sempre que n'hi hagi, la llista ofereix les formes corresponents, però no indica quan s'han d'usar.
@@ -132,7 +134,7 @@ Es pretén establir uns criteris d'actuació mínims a l'hora de traduir noms pr
 En canvi, la traducció dels que són estrictament propis funciona de manera molt diferent.
 	- Manuel Duran i Bas
  
--  La traducció literal dels noms transparents pot impedir que el resultat de la traducció literal expressi el mateix que designava el nom abans de ser traduït. Es poden plantejar els casos següents: 
+-  La traducció literal dels noms transparents pot impedir que el resultat de la traducció literal expressi el mateix que designava el nom abans de ser traduït. Es poden plantejar els casos següents:
 	- Que la llengua a què es tradueix (llengua d'arribada) disposi de termes que es puguin correspondre amb els de la denominació inicial, però que puguin fer entendre una altra cosa. Aleshores cal afegir algun terme que aclareixi l'expressió.
 		- el Centre d’Estudis Jurídics (del Ministeri de Justícia)
 		- el Centro Penitenciario Ponent (Lleida)
@@ -156,7 +158,7 @@ En canvi, la traducció dels que són estrictament propis funciona de manera mol
 ### Resum
 Criteris de traducció de noms de persones, coses i llocs. Tendència a traduir el text del nom propi originari (o dels noms comuns que actuïn com a tals) tant com es pugui a la llengua d'arribada. Cal tenir en compte, però, que la forma que s'usi s'adeqüi al públic receptor del missatge.
  
-- Criteris generals català-castellà 
+- Criteris generals català-castellà
 
 Es tradueixen:
 	- els topònims perquè es tracta d’una comunicació no oficial. (És recomanable usar
@@ -203,7 +205,7 @@ Català-francès/anglès/alemany:
 L'abreviació és l'escurçament d'un mot o d'un grup de mots o partícules per estalviar repeticions innecessàries i/o per guanyar espai en els documents. Les abreviacions es classifiquen en abreviatures, sigles (i acrònims) i símbols. A Facebook i al bloc potser no és tan necessari l’ús de les abreviacions com ho pot ser en altres entorns com ara Twitter. +info [gen.cat/abreviacions](http://gen.cat/abreviacions)
  
 ### Abreviatures
-Són abreviacions d'un o d'alguns mots originades per la pèrdua d'algunes lletres internes o finals i que s'indica amb un punt o una barra o bé un dels dos signes indistintament. Conserven l'accent, si el mot sencer en du. Si ja estan establertes, seguirem els criteris generals i les acabarem sempre amb un punt al final. Si no ho estan, es formen amb un punt situat sempre davant de la primera vocal de la síl·laba a partir de la qual s’escurça la paraula. 
+Són abreviacions d'un o d'alguns mots originades per la pèrdua d'algunes lletres internes o finals i que s'indica amb un punt o una barra o bé un dels dos signes indistintament. Conserven l'accent, si el mot sencer en du. Si ja estan establertes, seguirem els criteris generals i les acabarem sempre amb un punt al final. Si no ho estan, es formen amb un punt situat sempre davant de la primera vocal de la síl·laba a partir de la qual s’escurça la paraula.
 
 - dept.= departament (ja establerta)
 - secció = secc. (no establerta)
@@ -458,7 +460,7 @@ Els signes de puntuació serveixen per comprendre i interpretar correctament el 
 
         XARXES SOCIALS. Conjunt de fotografies, generalment d'un mateix tema, que un usuari penja en una xarxa social per a compartir-les.
 
-        
+
 
         **amfitrió | amfitriona** _ n m, f_
 
@@ -536,7 +538,7 @@ Els signes de puntuació serveixen per comprendre i interpretar correctament el 
 
         XARXES SOCIALS. Personatge virtual definit amb els trets individuals escollits per un usuari d'una xarxa social perquè el representi en aquesta xarxa.
 
-       
+
 
         **bio** _ n f_
 
@@ -568,7 +570,7 @@ Els signes de puntuació serveixen per comprendre i interpretar correctament el 
 
         XARXES SOCIALS. Persona que gestiona un blog o que és aficionada a navegar per aquest tipus de pàgines web.
 
-       
+
 
         **canal de continguts** _ n m_
 
@@ -590,7 +592,7 @@ Els signes de puntuació serveixen per comprendre i interpretar correctament el 
 
         XARXES SOCIALS. Canal de continguts específic del Facebook que recull informació sobre les actualitzacions més recents dels contactes d'un usuari i hi ofereix enllaços.
 
-        
+
 
         **canal web** _ n m_
 
@@ -670,7 +672,7 @@ Els signes de puntuació serveixen per comprendre i interpretar correctament el 
 
         XARXES SOCIALS. Text curt que un internauta escriu com a resposta a un apunt, publicació o comentari previ que ha llegit en alguna xarxa social o blog.
 
-       
+
 
         **compromís** _ n m_
 
@@ -700,7 +702,7 @@ Els signes de puntuació serveixen per comprendre i interpretar correctament el 
 
         XARXES SOCIALS. Compte d'una xarxa social el titular del qual no és real.
 
-       
+
 
         **compte verificat** _ n m_
 
@@ -854,7 +856,7 @@ Els signes de puntuació serveixen per comprendre i interpretar correctament el 
 
         XARXES SOCIALS. Difusió, per mitjà d'Internet, d'informació seleccionada prèviament per un servidor i distribuïda als internautes abonats a un canal web sense que l'hagin sol·licitada.
 
-       
+
 
         **eina** _ n f_
 
@@ -908,7 +910,7 @@ Els signes de puntuació serveixen per comprendre i interpretar correctament el 
 
         XARXES SOCIALS. Conjunt de regles de convivència i de normes de conducta que han de seguir els usuaris d'Internet.
 
-       
+
 
         **etiqueta** _ n f_
 
@@ -1016,7 +1018,7 @@ Els signes de puntuació serveixen per comprendre i interpretar correctament el 
 
         XARXES SOCIALS. Plataforma en què un grup d'internautes intercanvien opinions i informació sobre un tema.
 
-      
+
 
         Nota: El fòrum com a plataforma es distingeix del fòrum entès com el grup d'internautes que intercanvien opinions i informació.
 
@@ -1120,7 +1122,7 @@ Els signes de puntuació serveixen per comprendre i interpretar correctament el 
 
         XARXES SOCIALS. Plataforma d'interacció de professionals que permet l'intercanvi d'experiències i l'ampliació de les col·laboracions i dels cercles de contactes.
 
-        
+
 
         **llista de distribució** _ n f_
 
@@ -1224,7 +1226,7 @@ Els signes de puntuació serveixen per comprendre i interpretar correctament el 
 
         XARXES SOCIALS. Conjunt de caràcters alfanumèrics que identifica un usuari i que, juntament amb la contrasenya, li permet de connectar-se a un sistema informàtic o un servei en línia.
 
-        
+
 
         **notificació** _ n f_
 
@@ -1304,7 +1306,7 @@ Els signes de puntuació serveixen per comprendre i interpretar correctament el 
 
         XARXES SOCIALS. Llista de totes les piulades d'un usuari del Twitter ordenades cronològicament des de la més recent fins a la més antiga, a partir de la data d'alta.
 
-       
+
 
         **piulada** _ n f_
 
@@ -1374,7 +1376,7 @@ _        _
 
         XARXES SOCIALS. Xarxa de comunicació a través d'Internet que permet crear un microblog.
 
-       
+
 
         Nota: L'aplicació que gestiona la plataforma de microblogs més utilitzada actualment té el nom comercial _Twitter_.
 
@@ -1433,7 +1435,7 @@ _        _
 
         Nota: Generalment, les formes _redifondre _i _sindicar  _s'utilitzen seguides del complement _continguts_: _redifondre continguts_ i _sindicar continguts_.
 
-        
+
 
         **redifusió** _ n f_
 
@@ -1487,7 +1489,7 @@ _        _
 
         XARXES SOCIALS. Reenviar una piulada publicada anteriorment per un altre usuari.
 
-      
+
 
         Nota: El sinònim complementari _retuitejar _deriva del verb _tuitejar_.
 
@@ -1521,7 +1523,7 @@ _        _
 
         XARXES SOCIALS. Format de fitxer basat en el llenguatge XML i desenvolupat específicament per a la creació de canals de continguts.
 
-       
+
 
         Nota: Segons la documentació, la sigla anglesa original pot provenir de les denominacions _rich site summary_ (resum enriquit del lloc), _RDF site summary_ (resum RDF del lloc) o _really simple syndication_ (sindicació molt simple).
 
@@ -1545,7 +1547,7 @@ _        _
 
         XARXES SOCIALS. Rebre, un usuari del Twitter, totes les piulades d'un altre usuari mitjançant subscripció.
 
-      
+
 
         **seguit | seguida** _ n m, f_
 
