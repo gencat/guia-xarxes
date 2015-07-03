@@ -408,7 +408,9 @@ Els responsables dels comptes han de demanar a la DGACD l’avatar oficial que e
 
 #### Wikiloc
 
-Wikiloc és una aplicació web i mòbil on es poden emmagatzar i compartir rutes georeferencides (especialment en gps) i punts d'interès de tot el món.
+Wikiloc és una aplicació web i mòbil on es poden emmagatzar i compartir rutes georeferencides (especialment en gps) i punts d'interès de tot el món. 
+
+La gestió dels comptes d'aquesta eina la duu la mateixa plataforma, que hi posa l'avatar oficial establert per la Generalitat. El departament, servei o marca interessat a incorporar-hi una ruta pot editar l'apartat de *bio*, que no té límit d'extensió. 
 
 #### Instagram
 
