@@ -106,7 +106,7 @@ La varietat estàndard és l’adequada en les situacions comunicatives pròpies
 El model de llengua ha de ser formal, concís, clar i neutral, és a dir, amb absència d’usos discriminatoris, llenguatge no sexista, etc.
  
 ### Estrangerismes
-Cal evitar la profusió de manlleus (especialment d’anglicismes) característics del món d’Internet i usar els neologismes i les formes adaptades pel TERMCAT [termcat.cat](http://termcat.cat).
+Cal evitar la profusió de manlleus (especialment d’anglicismes) característics del món d’internet i usar els neologismes i les formes adaptades pel TERMCAT [termcat.cat](http://termcat.cat).
 
 Així doncs, escriurem en català tots els termes estrangers que puguin ser traduïts. Si l’alternativa catalana no està gaire difosa, i si el nombre de caràcters ens ho permet (en el cas de Twitter), afegirem entre parèntesis el manlleu/la forma manllevada. Si el fet de repetir sistemàticament l’alternativa catalana i el manlleu entre parèntesis es considera excessiu perquè apareix massa sovint en un mateix context, es pot fer servir aquesta solució la primera vegada i en la resta, la forma catalana.
  
@@ -724,7 +724,7 @@ Els signes de puntuació serveixen per comprendre i interpretar correctament el 
 
         _en        _virtual community
 
-        XARXES SOCIALS. Conjunt d'internautes que comparteixen interessos i sobre els quals intercanvien opinions i comentaris per mitjà d'una xarxa telemàtica, generalment Internet.
+        XARXES SOCIALS. Conjunt d'internautes que comparteixen interessos i sobre els quals intercanvien opinions i comentaris per mitjà d'una xarxa telemàtica, generalment internet.
 
 
 
@@ -854,7 +854,7 @@ Els signes de puntuació serveixen per comprendre i interpretar correctament el 
 
         _en        _webcasting
 
-        XARXES SOCIALS. Difusió, per mitjà d'Internet, d'informació seleccionada prèviament per un servidor i distribuïda als internautes abonats a un canal web sense que l'hagin sol·licitada.
+        XARXES SOCIALS. Difusió, per mitjà d'internet, d'informació seleccionada prèviament per un servidor i distribuïda als internautes abonats a un canal web sense que l'hagin sol·licitada.
 
 
 
@@ -908,7 +908,7 @@ Els signes de puntuació serveixen per comprendre i interpretar correctament el 
 
         _en        _netiquette; network etiquette
 
-        XARXES SOCIALS. Conjunt de regles de convivència i de normes de conducta que han de seguir els usuaris d'Internet.
+        XARXES SOCIALS. Conjunt de regles de convivència i de normes de conducta que han de seguir els usuaris d'internet.
 
 
 
@@ -1140,7 +1140,7 @@ Els signes de puntuació serveixen per comprendre i interpretar correctament el 
 
         _en        _social bookmarking
 
-        XARXES SOCIALS. Mitjà de comunicació social que permet a l'usuari emmagatzemar, compartir i classificar enllaços a Internet.
+        XARXES SOCIALS. Mitjà de comunicació social que permet a l'usuari emmagatzemar, compartir i classificar enllaços a internet.
 
 
 
@@ -1154,7 +1154,7 @@ Els signes de puntuació serveixen per comprendre i interpretar correctament el 
 
         _en        _Internet meme; meme
 
-        XARXES SOCIALS. Element informatiu, generalment una imatge, una frase o un vídeo de to humorístic, generat a Internet o en altres mitjans audiovisuals, que s'escampa per les xarxes socials i és imitat, compartit o utilitzat per un gran nombre de persones.
+        XARXES SOCIALS. Element informatiu, generalment una imatge, una frase o un vídeo de to humorístic, generat a internet o en altres mitjans audiovisuals, que s'escampa per les xarxes socials i és imitat, compartit o utilitzat per un gran nombre de persones.
 
 
 
@@ -1194,7 +1194,7 @@ Els signes de puntuació serveixen per comprendre i interpretar correctament el 
 
         _en        _instant messaging
 
-        XARXES SOCIALS. Aplicació informàtica que en temps real permet que els usuaris d'Internet o d'una intranet sàpiguen mentre estan connectats quins altres també ho estan en aquell moment i puguin comunicar-s'hi.
+        XARXES SOCIALS. Aplicació informàtica que en temps real permet que els usuaris d'internet o d'una intranet sàpiguen mentre estan connectats quins altres també ho estan en aquell moment i puguin comunicar-s'hi.
 
 
 
@@ -1374,7 +1374,7 @@ _        _
 
         _en        _microblog platform; microblogging platform
 
-        XARXES SOCIALS. Xarxa de comunicació a través d'Internet que permet crear un microblog.
+        XARXES SOCIALS. Xarxa de comunicació a través d'internet que permet crear un microblog.
 
 
 
@@ -1511,7 +1511,7 @@ _        _
 
         _en        _real time system; streaming; streaming system
 
-        XARXES SOCIALS. Tècnica que permet reproduir fitxers audiovisuals procedents d'una xarxa informàtica, generalment Internet, sense haver d'esperar que el procés de transferència de les dades s'hagi acabat.
+        XARXES SOCIALS. Tècnica que permet reproduir fitxers audiovisuals procedents d'una xarxa informàtica, generalment internet, sense haver d'esperar que el procés de transferència de les dades s'hagi acabat.
 
 
 
@@ -1605,7 +1605,7 @@ _        _
 
         **trol** _ n m, f_
 
-        _es        _trol_ n m, f_; troll de Internet [MX]_ n m, f_
+        _es        _trol_ n m, f_; troll de internet [MX]_ n m, f_
 
         _en        _troll
 
@@ -1679,7 +1679,7 @@ _        _
 
         _en        _social web
 
-        XARXES SOCIALS. Lloc d'Internet que permet la interacció i socialització entre usuaris.
+        XARXES SOCIALS. Lloc d'internet que permet la interacció i socialització entre usuaris.
 
 
 
@@ -1715,7 +1715,7 @@ _        _
 
         _en        _chat
 
-        XARXES SOCIALS. Comunicació simultània entre diverses persones a través d'Internet, generalment per escrit.
+        XARXES SOCIALS. Comunicació simultània entre diverses persones a través d'internet, generalment per escrit.
 
 
 

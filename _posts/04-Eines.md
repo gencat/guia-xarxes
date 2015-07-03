@@ -114,7 +114,11 @@ Per a una presència òptima a Twitter, hi ha d’haver activitat de manera cont
 
 - Retransmissions en directe d’actes.
 
+<<<<<<< HEAD
+- Publicació de nous vídeos, fotos, presentacions, etc. als repositoris d’internet.  
+=======
 - Publicació de nous vídeos, fotos, presentacions, etc. als repositoris d’Internet.
+>>>>>>> 49fd40bfeb384c61caa1810840dfbea5da4f06dc
 
 - Convocatòries públiques de processos de selecció.
 
@@ -193,7 +197,11 @@ A Facebook es publiquen informacions procedents de fonts pròpies:
 
 - Retransmissions en directe d’actes: enllaços a pàgines per seguir a través de la reproducció en temps real (*streaming*) actes concrets.
 
+<<<<<<< HEAD
+- Publicació de nous vídeos, fotos, presentacions, etc. als repositoris d’internet.  
+=======
 - Publicació de nous vídeos, fotos, presentacions, etc. als repositoris d’Internet.
+>>>>>>> 49fd40bfeb384c61caa1810840dfbea5da4f06dc
 
 - Novetats del web, noves seccions, publicacions.
 
