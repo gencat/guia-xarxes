@@ -18,7 +18,7 @@ Un cop s'han definit els objectius, és senzill de seleccionar el públic a qui 
 
 ### 3. Temps
 
-De la mateixa manera que es recomana segmentar el públic a qui ens dirigim, també cal ser molt acurat amb la temporalitat de la campanya. És molt important llançar la campanya durant un període en què la ciutadania tingui més interès en els missatges que es volen promocionar.
+De la mateixa manera que es recomana segmentar el públic, també cal ser molt acurat amb la temporalitat de la campanya. És molt important llançar la campanya durant un període en què la ciutadania tingui més interès en els missatges que es volen promocionar.
 
 ### 4. Canals
 
@@ -28,9 +28,9 @@ Per a una campanya de promoció de curta durada no es recomana la creació d'un 
 
 Per optimitzar els recursos, es proposen dos tipus de canals de promoció:
 
-- **Institucionals**. Se seleccionen perfils oficials de la Generalitat per publicar els missatges promocionals.  La selecció dels millors canals on publicar es fa de manera consensuada entre la DGACD, el responsable de la promoció i els responsables dels canals seleccionats. La unitat impulsora de la promoció és l'encarregada de facilitar els continguts.
+- **Institucionals**. Se seleccionen perfils oficials de la Generalitat per publicar els missatges promocionals. La selecció dels millors canals on publicar es fa de manera consensuada entre la DGACD, el responsable de la promoció i els responsables dels canals seleccionats. La unitat impulsora de la promoció és l'encarregada de facilitar els continguts.
 
-	Aquesta coordinació institucional comporta un estalvi econòmic a la Generalitat i alhora reforça el missatge institucional. Un exemple seria la campanya del Banc de Sang i Teixits que aprofita el perfil de Twitter Joventut per fer arribar el seu missatge a un públic amb una franja d'edat concreta.
+	Aquesta coordinació institucional comporta un estalvi econòmic a la Generalitat i alhora reforça el missatge corporatiu. Un exemple seria la campanya del Banc de Sang i Teixits que aprofita el perfil de Twitter Joventut per fer arribar el seu missatge a un públic amb una franja d'edat concreta.
 
 //IMG 7_promocions_exemple_1
 
@@ -46,7 +46,7 @@ Finalment s'elaboren els continguts. Cal tenir present que bona part de la gent 
 
 ## Com difondre els perfils corporatius
 
-A més de les promocions als espais socials, també es recomana fer difusió dels perfils oficials en altres suports. És bo enllaçar els perfils al web i al blog i també fer-ne difusió en els continguts informatius que s'editin, com poden ser fulletons, díptics o presentacions.
+A més de les promocions als espais socials, també es recomana fer difusió dels perfils oficials en altres suports. És bo enllaçar els perfils al web i al blog i també fer-ne difusió en els continguts informatius que s'editin, com poden ser fulls de mà, díptics o presentacions.
 
 En tots els casos les icones que s'han d'utilitzar són les que estableix el [Programa d'identificació visual de la Generalitat](http://www.gencat.cat/web/guies/estil/#estils1_1_9). Quan se'n faci difusió en suports on no sigui possible enllaçar el perfil, es farà servir la icona seguida del nom d'usuari: d'aquesta forma: *icona de la plataforma + @nomusuari*.
 

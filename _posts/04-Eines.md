@@ -1,10 +1,10 @@
 # 4. Eines
 
-Les xarxes socials i els repositoris són eines dinàmiques que ajuden a millorar la relació de l'Administració amb la ciutadania, oferint un servei més proper i directe. En cap cas no s'obriran nous canals en aquests entorns si aquestes eines no col·laboren a la millora del servei. Cada departament, servei o marca té uns objectius i un públic destinatari diferent. Això fa que no totes les eines siguin igual d'idonies per a cada una de les necessitats.
+Les xarxes socials i els repositoris són eines dinàmiques que ajuden a millorar la relació de l'Administració amb la ciutadania, oferint un servei més proper i directe. En cap cas no s'obriran nous canals en aquests entorns si aquestes eines no col·laboren a la millora del servei. Cada departament, servei o marca té uns objectius i un públic destinatari diferent. Això fa que no totes les eines siguin igual d'idònies per a cada una de les necessitats.
 
 Els perfils corporatius de la Generalitat a les xarxes socials són un actiu públic. La titularitat és de la Generalitat i, per aquesta raó, no hi figura el nom de la persona que té la responsabilitat d'editar-ne els continguts del perfil. Per assegurar la perdurabilitat en el temps, els perfils s'obren a partir de correu electrònics genèrics de gencat. Pel mateix motiu, els editors del perfil publiquen els continguts fent ús d'eines, que afegeixen seguretat i professionalitat al procés de gestió.
 
-El nom d'usuari en aquestes eines es forma a partir del nom propi de l'àmbit, servei o marca i afengint-hi el sufix **cat**. Per exemple **@empresacat** pel Departament d'Empresa i Ocupació o **@salutcat** pel Departament de Salut. Si el nom d'usuari ja es troba en ús, la Direcció General d'Atenció Ciutadana i Difusió (DGACD) en decidirà un altre de més adient conjuntament amb la unitat responsable.
+El nom d'usuari en aquestes eines es forma a partir del nom propi de l'àmbit, servei o marca i afengint-hi el sufix **cat**. Per exemple @empresacat pel Departament d'Empresa i Ocupació o @salutcat pel Departament de Salut. Si el nom d'usuari ja es troba en ús, la Direcció General d'Atenció Ciutadana i Difusió (DGACD) en decidirà un altre de més adient conjuntament amb la unitat responsable.
 
 L'avatar dels perfils el facilita la DGACD seguint les pautes del [**Programa d'identificació visual**](http://gen.cat/pivxarxes). L'avatar és una aproximació visual ràpida a un canal oficial de la Generalitat i, per això, la ciutadania ha de poder identificar fàcilment que aquell compte és d'un canal oficial. Per als organismes de la Generalitat, l'avatar està compost d'un fons gris i tipografia en vermell corporatiu. En els perfils de Govern i de les delegacions a l'exterior, el fons és blau corporatiu i les lletres en blanc.
 
@@ -110,15 +110,11 @@ Per a una presència òptima a Twitter, hi ha d’haver activitat de manera cont
 
 **Altres fonts**
 
-- Nous apunts (***posts***) al blog corporatiu.
+- Nous apunts (*posts*) al blog corporatiu.
 
 - Retransmissions en directe d’actes.
 
-<<<<<<< HEAD
-- Publicació de nous vídeos, fotos, presentacions, etc. als repositoris d’internet.  
-=======
 - Publicació de nous vídeos, fotos, presentacions, etc. als repositoris d’Internet.
->>>>>>> 49fd40bfeb384c61caa1810840dfbea5da4f06dc
 
 - Convocatòries públiques de processos de selecció.
 
@@ -197,11 +193,7 @@ A Facebook es publiquen informacions procedents de fonts pròpies:
 
 - Retransmissions en directe d’actes: enllaços a pàgines per seguir a través de la reproducció en temps real (*streaming*) actes concrets.
 
-<<<<<<< HEAD
-- Publicació de nous vídeos, fotos, presentacions, etc. als repositoris d’internet.  
-=======
 - Publicació de nous vídeos, fotos, presentacions, etc. als repositoris d’Internet.
->>>>>>> 49fd40bfeb384c61caa1810840dfbea5da4f06dc
 
 - Novetats del web, noves seccions, publicacions.
 

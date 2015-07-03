@@ -2,22 +2,22 @@
 
 ## 9.1- Preguntes Freqüents
 
-En aquest apartat recollim algunes de les preguntes freqüents que rebem dels usuaris de la comunitat de professionals.
+En aquest apartat es recullen algunes de les preguntes freqüents que envien els usuaris de la comunitat de professionals.
 
 FAQ:
 
 - **Com puc sol·licitar suport tècnic a la DGACD?**
-- Quan sorgeix un dubte o incidència en la gestió diària del perfil es pot sol·licitar suport tècnic a la DGACD. En primer lloc cal fer una cerca a [google](http://www.google.com) i/o a [Twitter](http://search.twitter.com) sobre l'incidència que ens afecta. En cas de no trobar la resposta, llavors podem contactar amb la DGACD via el correu electronic **xarxes@gencat.cat**. En aquest correu explicarem detalladament el dubte o incidència i si s'escau adjuntarem una captura del missatge d'error. Els tècnics respondran en un màxim de 48 hores.
+- Quan sorgeix un dubte o incidència en la gestió diària del perfil es pot sol·licitar suport tècnic a la DGACD. En primer lloc cal fer una cerca a [google](http://www.google.com) i/o a [Twitter](http://search.twitter.com) sobre l'incidència que ens afecta. En cas de no trobar la resposta, es pot contactar amb la DGACD via correu electronic (**xarxes@gencat.cat**). Cal explicar detalladament el dubte o incidència i si s'escau adjuntar una captura del missatge d'error. Els tècnics respondran en un màxim de 48 hores.
 
 ---
 
--**Si entro des de el meu compte (via web) i vaig a l meu perfil no veig alguns tuits al meu timeline. Només passa amb alguns. Potser hi ha hagut algun problema amb twitter o tweetdeck?**
-- En el perfil web s’amaguen els missatges que comencen per @. Per veure’ls cal anar a ‘Tweets & replies’. A més recordeu que els missatges que comencen per @username només són visibles als timelines de la gent que us segueix a vostres i a @usernam. Per evitar això, quan haguem de començar un tuit amb un nom d’usuari podem posar un punt a l’inici del tuit: ‘.@govern .....’.
+- **Si entro des de el meu compte (via web) i vaig al meu perfil no veig alguns tuits al meu *timeline*. Només passa amb alguns. Potser hi ha hagut algun problema amb Twitter o Tweetdeck?**
+- En el perfil web s’amaguen els missatges que comencen per @. Per veure’ls cal anar a *Tweets & replies*. A més, recordeu que els missatges que comencen per @username només són visibles als *timelines* de la gent que us segueix a vosaltres i a @usernam. Per evitar això, quan haguem de començar un tuit amb un nom d’usuari podem posar un punt a l’inici del tuit: ".@govern ...".
 
 ---
 
--**Com puc registrar la url d'una pàgina de Facebook?**
-- Cal accedir al perfil personal de l'usuari administrador de la pàgina. Amb la sessió iniciada anem a [https://www.facebook.com/username ](https://www.facebook.com/username) seleccionem la pàgina i el nom que volem registrar i si està disponible autoritzem el registre.
+- **Com puc registrar la URL d'una pàgina de Facebook?**
+- Cal accedir al perfil personal de l'usuari administrador de la pàgina. Amb la sessió iniciada, s'ha d'anar a [facebook.com/username](https://www.facebook.com/username) seleccionar la pàgina i el nom que es vol registrar i si està disponible, se n'autoritza el registre.
 
 ---
 

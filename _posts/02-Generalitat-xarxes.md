@@ -2,11 +2,7 @@
 
 La Generalitat de Catalunya té una presència activa a les xarxes socials des de 2009. Durant aquest temps ha  consolidat una relació  amb la ciutadania a través dels canals digitals.
 
-<<<<<<< HEAD
-Més de 200 perfils en el conjunt de l'institució permeten una relació especialitzada amb el ciutadà. La suma de tots aquests perfils conformen el servei de xarxes socials corporatiu de la Generalitat.  
-=======
-Més de 200 perfils en el conjunt de l'institució, permeten una relació especialitzada amb el ciutadà. La suma de tots aquests perfils forma el que es coneix com a solució corporativa gencat.
->>>>>>> 49fd40bfeb384c61caa1810840dfbea5da4f06dc
+Més de 200 perfils en el conjunt de la institució, permeten una relació especialitzada amb el ciutadà. La suma de tots aquests perfils forma el que es coneix com a solució corporativa gencat.
 
 ## Principis que inspiren la presència de la Generalitat de Catalunya a les xarxes socials
 
@@ -30,7 +26,6 @@ Com a principi general, des dels perfils corporatius no es poden emetre opinions
 
 ## Com s'ordenen els perfils corporatius
 
-<<<<<<< HEAD
 Per ordenar la gestió del comptes de la Generalitat de Catalunya, s'estableixen tres nivells diferents, cada un amb un protocol d'actuació diferent, segons la participació de la Generalitat.    
 
 ### 1a anella
@@ -40,19 +35,9 @@ Els comptes formen part totalment del servei corporatiu. Així doncs, la Direcci
 Els gestors del compte poden assistir a les reunions de comunitat de professionals (CoP) que tenen lloc quatre cops l'any i estan inclosos a les llistes de distribució de continguts generats a la CoP i enviats posteriorment. 
 
 Tots els perfils d'aquest tipus figuren en el directori oficial de xarxes socials.      
-=======
-Per ordenar la gestió del comptes de la Generalitat de Catalunya, s'estableixen tres nivells diferents, cadascun amb un protocol d'actuació diferent, segons la participació de la Generalitat.
-
-### 1a anella
-
-Els comptes formen part totalment de la solució corporativa. Així doncs, la Direcció General d'Atenció Ciutadana i Difusió (DGACD) en guarda la contrassenya i proporciona l'avatar oficial als gestors d’acord amb el Programa d’identificació visual (PIV) de les xarxes socials de la Generalitat. També fa servei de suport i envia les mètriques detallades del compte periòdicament.
-
-Els gestors del compte poden assistir a les reunions de comunitat de professionals (COP) que tenen lloc quatre cops l'any i estan inclosos a les llistes de distribució de continguts generats a la COP i enviats posteriorment.
-
-Tots els perfils d'aquest tipus són llistats al directori oficial de xarxes socials.
 
 //IMG 2_avatars_1
->>>>>>> 49fd40bfeb384c61caa1810840dfbea5da4f06dc
+
 
 ### 2a anella
 
@@ -68,19 +53,11 @@ Les funcions de la DGACD són:
 
 Les funcions del departament, servei o marca són:
 
-<<<<<<< HEAD
-- Difusió de l’estratègia comunicativa a les xarxes.  
-- Disseny de l’avatar i del fons de pantalla del CPS a partir de la plantilla subministrada per la DGACD.  
-- Definició del nom dels comptes de xarxes socials del CPS, així com d’altres textos relacionats (bio a Twitter, pestanya Informació i Participació a Facebook, etc.).  
-- Emmagatzematge de les dades de persones administradores, noms d’usuari i contrassenyes dels comptes de xarxes socials comunicats pel CPS.  
-- Formació, acompanyament i assessorament dels responsables dels comptes a les xarxes socials amb trobades presencials i/o virtuals en forma de comunitat de professionals (CoP).  
-=======
 - Difusió de l’estratègia comunicativa a les xarxes.
 - Disseny de l’avatar i del fons de pantalla del CPS a partir de la plantilla subministrada per la DGACD.
 - Definició del nom dels comptes de xarxes socials del CPS, així com d’altres textos relacionats: bio a Twitter, pestanya Informació i Participació a Facebook, etc.
 - Emmagatzematge de persones administradores, noms d’usuari i contrassenyes dels comptes de xarxes socials comunicats pel CPS.
 - Formació, acompanyament i assessorament dels responsables dels comptes a les xarxes socials amb trobades presencials i/o virtuals en forma de comunitat de professionals (CoP).
->>>>>>> 49fd40bfeb384c61caa1810840dfbea5da4f06dc
 
 Les funcions del CPS:
 
@@ -96,13 +73,11 @@ Les funcions del CPS:
 
 ### 3a anella
 
-<<<<<<< HEAD
 Depenen de la segona anella. Per tant, el màxim responsable en l'obertura del perfil és el departament al qual pertanyen, que segueix el mateix procediment que en la segona anella. 
-=======
+
 Per raons de dimensió, no és possible una gestió centralitzada de tots els perfils oficials de la Generalitat a les xarxes socials. En aquest grup hi ha centres d'atenció primària, instituts i col·legis o biblioteques. Per aquest motiu aquest tipus d'unitats depenen de la segona anella. Per tant, el màxim responsable de l'estratègia del perfil és el Departament al qual pertanyen, que segueix el mateix procediment que en la segona anella.
 
 Les contrassenyes els pertanyen i poden fer ús (no obligatori) de l'avatar corporatiu. La DGACD no els ofereix el servei de mètriques.
->>>>>>> 49fd40bfeb384c61caa1810840dfbea5da4f06dc
 
 //IMG avatars_3
 
@@ -112,11 +87,7 @@ Les xarxes socials ofereixen un nombre il·limitat de possibilitats de les quals
 
 Les opinions que s’emetin en qualsevol perfil social són de caire personal i en cap cas extrapolables a l’organització. L’empleat o empleada té dret a expressar lliurement les seves opinions o punts de visita sobre qualsevol tema que cregui oportú.
  
-<<<<<<< HEAD
-Per evitar possibles conflictes amb el servei que s'ofereix corporativament, es recomanen un seguit d’accions:  
-=======
 Per evitar possibles conflictes amb el servei que oferim, es recomanen un seguit d’accions:
->>>>>>> 49fd40bfeb384c61caa1810840dfbea5da4f06dc
 
 - Qualsevol treballador de la Generalitat, amb presència a les xarxes socials, pot expressar aquesta condició lliurement. En aquest cas es recomana especificar que els comentaris, punts de vista i opinions expressats en el perfil social són merament personals.
 
@@ -126,11 +97,7 @@ Per evitar possibles conflictes amb el servei que oferim, es recomanen un seguit
 
 - Es recomana actuar de forma transparent i respectant la legislació. Per a aquelles actuacions personals vinculades amb l’àmbit professional, cal recordar que la normativa lingüística recalca la responsabilitat del funcionariat en la normalització lingüística del català en tots els seus àmbits d’actuació.
 
-<<<<<<< HEAD
-- No s’haurien de publicar comentaris despectius ni ofensius a internet.  
-=======
 - No s’haurien de publicar comentaris despectius ni ofensius a Internet.
->>>>>>> 49fd40bfeb384c61caa1810840dfbea5da4f06dc
 
 - Si s’usen les xarxes socials durant la jornada laboral, cal fer-ne un bon ús i sempre orientat a aconseguir una millora del servei que s’ofereix.
 

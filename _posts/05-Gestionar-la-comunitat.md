@@ -16,7 +16,7 @@ Les consultes es responen a través del canal on han estat formulades, sempre qu
 
 En els casos en què calgui donar més informació, es pot remetre l'interlocutor a un perfil corporatiu més específic o a una bústia de correu electrònic.
 
-Les **respostes** han de ser comprensibles. Sempre que es pugui, la resposta ha de contenir el subjecte de la pregunta. Per exemple, si ens pregunten: 'Quan s'obre el procés d'inscripcions universitàries' respondrem 'El procés d'inscripcions universitàries s'obre el 25 de març'. Amb aquest tipus de resposta incrementem la visibilitat del tuit i la contextualització en qualsevol espai.
+Les **respostes** han de ser comprensibles. Sempre que es pugui, la resposta ha de contenir el subjecte de la pregunta. Per exemple, si pregunten: "Quan s'obre el procés d'inscripcions universitàries?" S'ha de respondre: "El procés d'inscripcions universitàries s'obre el 25 de març". Amb aquest tipus de resposta s'incrementa la visibilitat del tuit i la contextualització en qualsevol espai.
 
 //IMG 5_gestionar_comunitat_captura_tuit_1
 

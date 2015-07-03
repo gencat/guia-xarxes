@@ -10,7 +10,7 @@ L'obertura d'un nou perfil oficial a les xarxes socials es duu a terme en paral�
 
 Poden canviar al llarg del temps, però els objectius defineixen l'estratègia  a les xarxes. És important que cada unitat dediqui el temps necessari en aquesta fase d'acord amb l'estratègia de comunicació integral. S'ha de trobar la manera de millorar l'atenció a la ciutadania fent ús de les xarxes.
 
-Una bona manera de començar és preguntar-se quin paper es vol que les xarxes socials juguin en la unitat. Cal saber la importància que té dins la unitat diferents aspectes com l'atenció al ciutadà, la informació d'activitats pròpies, guanyar visibilitat o aconseguir col·laboracions ciutadanes. Podem agafar com exemples els perfils de Twitter de [@gencat](http://twitter.com/gencat) i [@012](http://twitter.com/012).
+Una bona manera de començar és preguntar-se quin paper es vol que les xarxes socials juguin en la unitat. Cal saber la importància que té dins la unitat diferents aspectes com l'atenció al ciutadà, la informació d'activitats pròpies, guanyar visibilitat o aconseguir col·laboracions ciutadanes. Es poden agafar com a exemple els perfils de Twitter de [@gencat](http://twitter.com/gencat) i [@012](http://twitter.com/012).
 
 ### 1.2. Escoltar
 
@@ -50,7 +50,7 @@ Si el departament decideix que el nou perfil no formi part de la primera anella 
 
 Aquest requisit obliga la persona responsable de la unitat i la responsable de xarxes del departament a parlar amb anterioritat sobre l'idonietat del perfil dins l'estratègia comunicativa del departament.
 
-Un cop el formulari arriba a la DGACD, es convoca la persona responsable de la unitat i la responsable del departament a una reunió. Cal que la unitat sol·licitant tingui molts clars els aspectes previs a l'obertura del perfil.
+Un cop el formulari arriba a la DGACD, es convoca la persona responsable de la unitat i la responsable del departament a una reunió. Cal que la unitat sol·licitant tingui molt clars els aspectes previs a l'obertura del perfil.
 
 La DGACD, a partir de les indicacions pertinents del Departament de la Presidència i conjuntament amb el departament, convenen si cal finalment obrir-lo. En el cas que no es cregui oportú, es poden plantejar solucions, com per exemple la publicació de missatges amb l'etiqueta de la unitat des d'altres perfils del departament.
 
