@@ -3,15 +3,16 @@ Tots els canvis que anem introduint a cada una de les noves revisions de la Guia
 
 ## [0.7] - 2015-06-19
 ## Nou
-- Nova organització dels capítols.  
-- Promocions a les xarxes socials.  
-- Generar continguts rellevants.  
-- Gestionar la comunita.  
-- Primeres passes.  
+- Nova organització dels capítols.
+- Capítol explicant solució coproativa.
+- Primeres passes per sol·licitar i començar a publicar en un perfil.
+- Gestionar la comunitat.
+- Generar continguts rellevants.
+- Promocions a les xarxes socials.
 
 ## Modificat
-- Acualitzacions a les eines.  
-- PIV: nous avatars blaus pels perfils de govern.   
+- Acualitzacions a les eines.
+- PIV: nous avatars blaus pels perfils de govern.
 
 
 ## [0.6] - 2013-10-18
