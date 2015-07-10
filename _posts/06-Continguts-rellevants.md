@@ -17,7 +17,7 @@ El mòbil és el principal dispositiu des d'on la ciutadania consulta els contin
 
 //IMG 6_continguts_2
 
-- Publicar prèviament en els repositoris corresponents (Youtube, Flickr, Slideshare) el material gràfic propi en les publicacions (vídeos, imatges, gràfics o presentacions).
+- Publicar prèviament en els repositoris corresponents (Youtube, Flickr, Slideshare) el material gràfic propi de les publicacions (vídeos, imatges, gràfics o presentacions).
 
 //IMG 6_continguts_3
 

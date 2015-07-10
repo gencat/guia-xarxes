@@ -388,7 +388,13 @@ La forma més habitual d'integrar Slideshare en altres llocs és incrustant algu
 
 D'aquesta manera, s’evita que el lector es perdi i s’optimitza el nombre de clics necessaris.
 
-### 4.4.4 Altres repositoris
+### 4.4.4 Wikiloc
+
+Wikiloc és una aplicació web i mòbil on es poden emmagatzemar i compartir rutes georeferencides (especialment en gps) i punts d'interès de tot el món. 
+
+La gestió dels comptes d'aquesta eina la duu la mateixa plataforma, que hi posa l'avatar oficial establert per la Generalitat. El departament, servei o marca interessat a incorporar-hi una ruta pot editar l'apartat de *bio*, que no té límit d'extensió. Abans de publicar-les a Wikiloc, la Generalitat es compromet a obrir les dades d'aquestes rutes (com a mínim les pistes i, si se'n tenen els drets d'autoria, les imatges i el text) al portal [dadesobertes.gencat.cat](http://dadesobertes.gencat.cat) perquè tothom que hi estigui interessat se les pugui descarregar i reutilitzar.
+
+### 4.4.5 Altres repositoris
 
 Per necessitats específiques del servei, algunes unitats fan servir altres eines com a repositoris oficials.
 
@@ -397,12 +403,6 @@ L'obertura i gestió d'aquests canals correspon a cada departament. Una vegada o
 Els responsables dels comptes han de demanar a la DGACD l’avatar oficial que els correspon i que ha d’il·lustrar el seu perfil.
 
 //IMG 4_4_4_altres_repositoris
-
-#### Wikiloc
-
-Wikiloc és una aplicació web i mòbil on es poden emmagatzar i compartir rutes georeferencides (especialment en gps) i punts d'interès de tot el món. 
-
-La gestió dels comptes d'aquesta eina la duu la mateixa plataforma, que hi posa l'avatar oficial establert per la Generalitat. El departament, servei o marca interessat a incorporar-hi una ruta pot editar l'apartat de *bio*, que no té límit d'extensió. 
 
 #### Instagram
 
