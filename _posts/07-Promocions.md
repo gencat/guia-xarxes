@@ -6,8 +6,6 @@ Cal que, quan es vulgui fer una promoció especial, es reflexioni sobre els prin
 
 Des del moment que s'informa del llançament de la campanya, la DGACD fa un seguiment de les etiquetes de les campanyes a Twitter que en aquells moments estigui coordinant, així com aportacions sobre els missatges, els continguts i les etiquetes que es poden usar.
 
-//IMG 7_promocions_diagrama
-
 ### 1. Objectius
 
 Convé tenir ben definit què es vol comunicar amb la promoció. Aquests objectius han d'anar alineats amb els del departament i amb l'estratègia integral de la unitat. Han de ser assumibles i que totes les persones de la unitat tinguin molt clara la finalitat de la campanya.
