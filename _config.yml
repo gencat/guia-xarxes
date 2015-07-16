@@ -9,7 +9,7 @@ permalink:        /:title/
 title:            Guia Xarxes Socials
 tagline:          'Generalitat de Catalunya'
 description:      'Guia de xarxes socials de la Generalitat de Catalunya'
-url:              http://generalitat.github.io/guia
+baseurl:              http://generalitat.github.io/guia/
 
 # Gems
 gems:
