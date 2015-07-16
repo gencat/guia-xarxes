@@ -1,16 +1,6 @@
 ---
 layout: default
 ---
-<section class="about-sergi">
-  <a href="{{ site.baseurl }}/01-introduccio/">01.Introducció</a>
-<a href="{{ site.baseurl }}/04-eines/">04.Eines</a>
-  <div class="content">
-    <h3>Hola! I'm Sergi</h3>
-    <p class="larger">I'm a digital strategist based in Barcelona.</p>
-    <p>The aim of this blog is to share my thoughts on how the internet is changing our lives. Learn more <a href="/about" title="About Sergi Xaudiera">about me</a>, stuff I've <a href="/library" title="Books I've read">read</a> and <a href="/friends" title="Friends I follow">blogs</a> I follow.</p>
-    <!--<div class="subscription_box">via e-mail</div>-->
-    </div>
-</section>
 
 <section class="posts">
   {% for post in site.posts reversed %}
@@ -24,17 +14,3 @@ layout: default
   {% endfor %}
 </section>
 
-
-
-<section class="posts">
-  {% for page in site.pages %}
-  <article class="post">
-    <h2 class="post-title">
-      <a href="{{ page.url }}">
-        {{ page.title }}
-      </a>
-    </h2>
-    
-  </article>
-  {% endfor %}
-</section>
