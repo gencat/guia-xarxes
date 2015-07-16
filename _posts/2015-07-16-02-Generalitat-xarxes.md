@@ -1,3 +1,8 @@
+---
+layout: page
+title: La Generalitat de Catalunya a les xarxes socials
+permalink: /02-generalitat-a-les-xarxes/
+---
 # 2. La Generalitat de Catalunya a les xarxes socials
 
 La Generalitat de Catalunya té una presència activa a les xarxes socials des de 2009. Durant aquest temps ha  consolidat una relació  amb la ciutadania a través dels canals digitals.

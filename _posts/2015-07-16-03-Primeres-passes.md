@@ -1,3 +1,9 @@
+---
+layout: page
+title: Primeres passes
+permalink: /03-primeres-passes/
+---
+
 #3.  Primeres passes
 
 L'obertura d'un nou perfil oficial a les xarxes socials es duu a terme en paral·lel entre la Direcció General d'Atenció Ciutadana i Difusió (DGACD) i la unitat que el demana. Cal que el nou perfil resolgui necessitats comunicatives de la unitat envers la ciutadania i que alhora encaixi dins l'estratègia comunicativa global de la Generalitat. És per això que es demana un procés previ de reflexió abans de sol·licitar-ne l'obertura.

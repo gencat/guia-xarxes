@@ -1,3 +1,8 @@
+---
+layout: page
+title: Generar continguts rellevants
+permalink: /06-generar-continguts-rellevants/
+---
 # 6. Generar continguts rellevants
 
 Les xarxes socials exigeixen continguts especials de qualitat. Cal aportar un valor a la ciutadania i no limitar-se a publicar el titular i l'enllaç a les notes de premsa. Per generar continguts rellevants per a la ciutadania, cal dedicar-hi temps i recursos.

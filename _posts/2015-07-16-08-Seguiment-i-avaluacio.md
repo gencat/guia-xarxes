@@ -1,3 +1,8 @@
+---
+layout: page
+title: Seguiment i avaluació
+permalink: /08-seguiment-i-avaluació/
+---
 # 8. Seguiment i avaluació
 
 ## Analítica a les xarxes socials

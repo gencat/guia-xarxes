@@ -1,3 +1,8 @@
+---
+layout: page
+title: Preguntes frequents
+permalink: /09-faq/
+---
 # 9. Annexos
 
 ## 9.1- Preguntes Freqüents

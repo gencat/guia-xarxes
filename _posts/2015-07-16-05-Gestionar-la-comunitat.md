@@ -1,3 +1,9 @@
+---
+layout: page
+title: Gestionar la comunitat
+permalink: /05-gestionar-la-comunitat/
+---
+
 # 5. Gestionar la comunitat
 
 Quan s'obre un perfil a les xarxes socials, s'entra en el terreny de la ciutadania. Aquest acostament és molt útil per fer difusió de les informacions de l'Administració, però alhora implica un compromís: el deure de participar en la conversa, especialment quan el ciutadà fa preguntes directament.
