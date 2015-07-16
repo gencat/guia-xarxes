@@ -13,7 +13,7 @@ layout: default
 </section>
 
 <section class="posts">
-  {% for post in site.posts %}
+  {% for post in site.posts reversed %}
   <article class="post">
     <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
