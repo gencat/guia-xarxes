@@ -6,8 +6,9 @@ layout: default
   {% for post in site.posts reversed %}
   <article class="post">
     <h2 class="post-title">
+    	{{ forloop.index }}. 
       <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ forloop.index }}{{ post.title }}
+         {{ post.title }}
       </a>
     </h2>    
   </article>
