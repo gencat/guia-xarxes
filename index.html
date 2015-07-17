@@ -3,16 +3,14 @@ layout: default
 ---
 
 <section class="posts">
-	{% assign counter = 1 %}
   {% for post in site.posts reversed %}
   <article class="post">
     <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ counter }}{{ post.title }}
+        {{ forloop.index }}{{ post.title }}
       </a>
     </h2>    
   </article>
-  {% assign counter = counter + 1 %}
   {% endfor %}
 </section>
 
