@@ -41,7 +41,7 @@ Els gestors del compte poden assistir a les reunions de comunitat de professiona
 
 Tots els perfils d'aquest tipus figuren en el directori oficial de xarxes socials.
 
-![1a anella ]({{ site.baseurl }}/img/2_avatars_1.png)
+![1a anella ]({{ site.baseurl }}/img/2_avatars_1.jpg)
 
 
 ### 2a anella
