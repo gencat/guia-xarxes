@@ -29,7 +29,7 @@ Cada mes s'envia la fitxa resum de l'activitat a Twitter i una altra per a Faceb
 
 Pel que fa als continguts, hi apareixen els que més s'han compartit durant els darrers mesos. Això ajuda a veure en perspectiva quins funcionen millor per a cada una de les xarxes.
 
-//IMG_8_metriques_1
+![ Fitxa de seguiment mensual]({{ site.baseurl }}/img/8_1_fitxa_mensual.png)
 
 
 També es capturen dades de perfils similars a cada un dels que formen part de la solució coporativa per poder contextualitzar-ne els indicadors. Aquests perfils els proposa la persona responsable de cada compte a la DGACD a l'inici de tot el procés.
@@ -38,7 +38,7 @@ La comparació de les dades ajuda a valorar l'activitat i alhora obliga a estar 
 
 ### Informe d'audiència detallat
 
-//IMG_8_metriques_2
+![ Informe detallat]({{ site.baseurl }}/img/8_2_detallat.png)
 
 L'objectiu d'aquest document és facilitar una perspectiva del perfil als seus responsables. Aquest informe s'envia cada tres mesos per oferir un resum de la situació més ampli.
 
@@ -50,7 +50,7 @@ Es divideix en tres apartats:
 
 - **Comunitat** (usuaris participatius). De la mateixa manera que no tots els usuaris que segueixen un perfil hi interactuen, tampoc no tots els usuaris que hi interactuen el segueixen. És per això que també és interessant conèixer quins són els usuaris amb qui més es conversa. També s'ordenen segons el nombre i tipus d'interaccions.
 
-//IMG_8_metriques_3
+![ Informe detallat]({{ site.baseurl }}/img/8_3_detallat.png)
 
 ### Informe resum sobre etiquetes
 
@@ -60,7 +60,7 @@ La generació d'aquests informes és de caire excepcional i és la DGACD la que 
 
 Les dades que es capturen per a l'elaboració de l'informe són les que es poden obtenir públicament des de l'API de Twitter. En cap cas no es relacionen amb dades personals dels emissors dels missatges.
 
-//IMG_8_metriques_4
+![ Etiquetes]({{ site.baseurl }}/img/8_4_etiquetes.png)
 
 L'informe ajuda a millorar la comunicació per a futures ocasions ja que és una eina que permet analitzar a posteriori algunes dades que passen desaparcebudes amb la voràgine del temps real. Entre altres aspectes, mostra l'evolució temporal en la publicació de missatges, els tuits més retuitejats i les persones que més missatges han enviat amb l'etiqueta.
 
@@ -81,4 +81,4 @@ Un cop recollides totes aquestes dades i extrets els indicadors que interessin, 
 
 Al capdavall, l’avaluació a l’Administració ha de servir per identificar les polítiques públiques que funcionen, conèixer-ne l’impacte i saber en quina mesura l’impacte és atribuïble al problema mateix o a la intervenció de l’Administració pública. Per posar un exemple conegut, per avaluar certes polítiques d'incentivació de la innovació a través d'ajuts, es podria tenir en compte el nombre de patents industrials donades d'alta en un determinat període. A més de la intervenció pública, hi intervenen altres variables que compliquen l’avaluació (evolució de l’economia i la societat, l’alfabetització digital de la ciutadania, programes i lleis vigents, etc.). Per això, en moltes ocasions, per avaluar adequadament, s'estarà posant en relació els resultats de la intervenció pública amb la situació del que hauria ocorregut si no hagués tingut lloc l’esmentada intervenció.
 
-//IMG_8_metriques_5
+![ Usuaris participatius]({{ site.baseurl }}/img/8_5_usuarisparticipatius.png)

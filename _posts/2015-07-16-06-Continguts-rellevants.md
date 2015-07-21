@@ -15,32 +15,25 @@ El mòbil és el principal dispositiu des d'on la ciutadania consulta els contin
 
 - Incorporar dinàmiques comunicatives a determinats perfils que hi escaiguin més, com ara la foto del dia o la previsió del temps, en perfils de caire més proactiu. Aquestes informacions poden anar acompanyades d’una etiqueta ideada per a l’ocasió. L'etiqueta no ha de tenir més de 12 caràcters i es pot anar repetint cada dia.
 
-//IMG 6_continguts_1
-
+![ Continguts rellevants]({{ site.baseurl }}/img/6_cnt_1.png)
 
 - Acompanyar les publicacions d'imatges d'impacte. Cal que estiguin optimitzades a les dimensions de cada eina. A Twitter es recomanen imatges de 404 px x 220 px i per a Facebook de 403 px x 403 px.
 
-//IMG 6_continguts_2
+![ Continguts rellevants]({{ site.baseurl }}/img/6_cnt_2.png)
 
 - Publicar prèviament en els repositoris corresponents (Youtube, Flickr, Slideshare) el material gràfic propi de les publicacions (vídeos, imatges, gràfics o presentacions).
 
-//IMG 6_continguts_3
+![ Continguts rellevants]({{ site.baseurl }}/img/6_cnt_3.png)
 
 - Utilitzar un lector d'RSS per centralitzar de manera més eficient la lectura de nous continguts que puguin ser compartits.
 
-//IMG 6_continguts_4
-
 - Elaborar continguts de qualitat abans, durant i després dels actes. Els actes són una gran font de continguts. És interessant elaborar continguts de qualitat abans, durant i després. Si hi intervenen persones externes cal citar-ne correctament els seus perfils a les xarxes socials ja que són de gran ajuda per aconseguir més difusió.
-
-//IMG 6_continguts_5
 
 - Cal llegir i validar el contingut abans de ser compartit als perfils oficials. Es poden publicar continguts generats per altres sempre que se n'hagi validat la vigència.
 
-//IMG 6_continguts_6
-
 - Aprofitar les tendències de Twitter per fer aflorar continguts propis d'arxiu.
 
-//IMG 6_continguts_7
+![ Continguts rellevants]({{ site.baseurl }}/img/6_cnt_7.png)
 
 ## Redacció
 
@@ -56,7 +49,7 @@ Pautes per redactar continguts:
 
 - Fer ús del relat de marca (*storytelling*) en les publicacions, és a dir, recrear històries que il·lustrin la informació o el missatge que es vol transmetre per aconseguir l’atenció dels usuaris. Aquest estil de redacció s’ha de correspondre amb un rol més actiu de la persona seguidora de la pàgina, tendint a fer que se’n senti partícip en tot moment. Aquest nivell d’implicació amb l’usuari varia segons la xarxa social de què es tracti.
 
-//IMG 6_continguts_8_fb_mossos
+![ Continguts rellevants]({{ site.baseurl }}/img/6_cnt_8.png)
 
 - Usar etiquetes curtes i si és possible que ja s'estiguin utilitzant. Quan sigui imprescindible, usar noves etiquetes, com les emprades per a jornades específiques de certa transcendència o algun tipus de primícia. Han de tenir com a màxim 12 caràcters per fer més fàcil de recordar-la i d’encabir-la dins l’espai limitat d’un tuit.
 
@@ -64,7 +57,7 @@ Pautes per redactar continguts:
 
 - Utilitzar l'opció de Twitter que permet enllaçar missatges a través de la resposta. És una tècnica molt útil si es volen publicar missatges de més de 140 caràcters o es vol fer referència a continguts que s'han publicat prèviament. El nou missatge sortirà a la cronologia sota el missatge al qual s'ha enllaçat en ordre cronològic.
 
-//IMG 6_continguts_9_enllaçar_missatges
+![ Continguts rellevants]({{ site.baseurl }}/img/6_cnt_9.png)
 
 ## Calendari editorial
 

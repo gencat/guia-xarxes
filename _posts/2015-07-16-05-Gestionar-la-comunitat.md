@@ -10,7 +10,7 @@ Quan s'obre un perfil a les xarxes socials, s'entra en el terreny de la ciutadan
 
 Una bona manera de seguir el que s'està dient sobre un tema d'interès és mitjançant el monitoratge. Amb les columnes de l'aplicació Tweetdeck es poden configurar [cerques avançades](https://support.twitter.com/articles/71577-using-advanced-search) a Twitter, que permeten fer-ne un seguiment i aplicar-hi filtres.
 
-//IMG 5_gestionar_comunitat_columnes_tweetdeck
+![ Gestionar la comunitat]({{ site.baseurl }}/img/5_gestionar_tweetdeck.png)
 
 És important seguir la netiqueta de cada entorn en què s'és present. Per exemple, a Twitter no cal agrair els retuits dels usuaris o els nous seguidors. Tampoc no es recomana retuitejar els comentaris positius que faci la ciutadania, excepte els que puguin aportar un valor significatiu a la comunitat.
 
@@ -24,17 +24,17 @@ En els casos en què calgui donar més informació, es pot remetre l'interlocuto
 
 Les **respostes** han de ser comprensibles. Sempre que es pugui, la resposta ha de contenir el subjecte de la pregunta. Per exemple, si pregunten: "Quan s'obre el procés d'inscripcions universitàries?" S'ha de respondre: "El procés d'inscripcions universitàries s'obre el 25 de març". Amb aquest tipus de resposta s'incrementa la visibilitat del tuit i la contextualització en qualsevol espai.
 
-//IMG 5_gestionar_comunitat_captura_tuit_1
+![ Gestionar la comunitat]({{ site.baseurl }}/img/5_gestionar_tuit_1.png)
 
 Les **mencions** a Twitter només s’han d’utilitzar en casos justificats, com ara per respondre consultes de la ciutadania o per estalviar caràcters a l’hora de referir-se a algú en el cos del tuit, tant en perfils relacionats amb la Generalitat (consellers, treballadors públics...) com amb altres institucions. Cal evitar incloure sistemàticament mencions al tuit amb l’objectiu d’aconseguir retuit (RT) ja que es considera una mala pràctica i, en tot cas, els perfils que estiguin interessats en els continguts d'un perfil determinat, ja es preocuparan de seguir-lo. N’és una excepció la informació d’emergència (la Generalitat té perfils específics sobre aquesta temàtica) que, com en el cas d’un incendi, està justificada ja que necessita la màxima difusió.
 
-//IMG 5_gestionar_comunitat_captura_tuit_2
+![ Gestionar la comunitat]({{ site.baseurl }}/img/5_gestionar_tuit_2.png)
 
 Els **retuits** són tuits d’altres persones usuàries que tornen a publicar per col·laborar a la conversa. Perquè els altres usuaris puguin retuitejar-los, els tuits han de tenir uns 125-130 caràcters com a màxim (segons la llargada del nom del perfil).
 
 Per norma general, s’han d’escriure amb el format següent:
 
-//IMG 5_gestionar_comunitat_captura_tuit_3
+![ Gestionar la comunitat]({{ site.baseurl }}/img/5_gestionar_tuit_3.png)
 
 	RT + @nomdelperfilretuitejat + text + enllaç escurçat + #etiqueta
 	RT @tecnimap2010. Tota l’actualitat de l’esdeveniment a Facebook  bit.ly/9SBfzF #tecnimap)
