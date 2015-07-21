@@ -31,17 +31,17 @@ Com a principi general, des dels perfils corporatius no es poden emetre opinions
 
 ## Com s'ordenen els perfils corporatius
 
-Per ordenar la gestió del comptes de la Generalitat de Catalunya, s'estableixen tres nivells diferents, cada un amb un protocol d'actuació diferent, segons la participació de la Generalitat.    
+Per ordenar la gestió del comptes de la Generalitat de Catalunya, s'estableixen tres nivells diferents, cada un amb un protocol d'actuació diferent, segons la participació de la Generalitat.
 
 ### 1a anella
 
-Els comptes formen part totalment del servei corporatiu. Així doncs, la Direcció General d'Atenció Ciutadana i Difusió (DGACD) en guarda la contrassenya i proporciona l'avatar oficial als gestors d’acord amb el Programa d’identificació visual (PIV) de les xarxes socials de la Generalitat. També fa servei de suport i envia les mètriques del compte periòdicament.  
+Els comptes formen part totalment del servei corporatiu. Així doncs, la Direcció General d'Atenció Ciutadana i Difusió (DGACD) en guarda la contrassenya i proporciona l'avatar oficial als gestors d’acord amb el Programa d’identificació visual (PIV) de les xarxes socials de la Generalitat. També fa servei de suport i envia les mètriques del compte periòdicament.
 
-Els gestors del compte poden assistir a les reunions de comunitat de professionals (CoP) que tenen lloc quatre cops l'any i estan inclosos a les llistes de distribució de continguts generats a la CoP i enviats posteriorment. 
+Els gestors del compte poden assistir a les reunions de comunitat de professionals (CoP) que tenen lloc quatre cops l'any i estan inclosos a les llistes de distribució de continguts generats a la CoP i enviats posteriorment.
 
-Tots els perfils d'aquest tipus figuren en el directori oficial de xarxes socials.      
+Tots els perfils d'aquest tipus figuren en el directori oficial de xarxes socials.
 
-//IMG 2_avatars_1
+![1a anella ](/img/2_avatars_1.png)
 
 
 ### 2a anella
@@ -74,17 +74,17 @@ Les funcions del CPS:
 - Participació en les sessions de formació i actualització de la CoP en l’àmbit propi.
 - Recollida i subministrament de mètriques dels comptes de xarxes socials oberts.
 
-//IMG avatars_2
+![2a anella ](/img/2_avatars_2.png)
 
 ### 3a anella
 
-Depenen de la segona anella. Per tant, el màxim responsable en l'obertura del perfil és el departament al qual pertanyen, que segueix el mateix procediment que en la segona anella. 
+Depenen de la segona anella. Per tant, el màxim responsable en l'obertura del perfil és el departament al qual pertanyen, que segueix el mateix procediment que en la segona anella.
 
 Per raons de dimensió, no és possible una gestió centralitzada de tots els perfils oficials de la Generalitat a les xarxes socials. En aquest grup hi ha centres d'atenció primària, instituts i col·legis o biblioteques. Per aquest motiu aquest tipus d'unitats depenen de la segona anella. Per tant, el màxim responsable de l'estratègia del perfil és el Departament al qual pertanyen, que segueix el mateix procediment que en la segona anella.
 
 Les contrassenyes els pertanyen i poden fer ús (no obligatori) de l'avatar corporatiu. La DGACD no els ofereix el servei de mètriques.
 
-//IMG avatars_3
+![3a anella ](/img/2_avatars_3.png)
 
 ## Consells i recomanacions d’ús per al personal de la Generalitat
 

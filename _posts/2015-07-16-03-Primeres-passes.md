@@ -10,7 +10,8 @@ L'obertura d'un nou perfil oficial a les xarxes socials es duu a terme en paral�
 
 ## 1. Tasques prèvies a la sol·licitud oficial
 
-//IMG 3_1 primeres passes
+![Primeres passes ](/img/3_1_primeres_passes_1.jpg)
+
 
 ### 1.1. Definir objectius
 
