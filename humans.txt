@@ -1,6 +1,9 @@
-Name: Sergi Xaudiera
-Site: http://sergixaudiera.com
-Twitter: @SergiXaudiera
+DGACD / @gencat / xarxes@gencat.cat
+---
+Jordi Graells / @jordigraells / jgraells@gencat.cat
+Dúnia Riera / @duniariera / driera@gencat.cat
+Miquel Àngel Simón / masiomon@gencat.cat
+Sergi Xaudiera / @SergiXaudiera / sxaudiera@gencat.cat
 
 /* TOOLS */
 Made with: Jekyll, Sass
