@@ -41,7 +41,7 @@ Els gestors del compte poden assistir a les reunions de comunitat de professiona
 
 Tots els perfils d'aquest tipus figuren en el directori oficial de xarxes socials.
 
-![1a anella ](/img/2_avatars_1.png)
+![1a anella ]({{ site.baseurl }}/img/2_avatars_1.png)
 
 
 ### 2a anella
@@ -74,7 +74,7 @@ Les funcions del CPS:
 - Participació en les sessions de formació i actualització de la CoP en l’àmbit propi.
 - Recollida i subministrament de mètriques dels comptes de xarxes socials oberts.
 
-![2a anella ](/img/2_avatars_2.png)
+![2a anella ]({{ site.baseurl }}/img/2_avatars_2.png)
 
 ### 3a anella
 
@@ -84,7 +84,7 @@ Per raons de dimensió, no és possible una gestió centralitzada de tots els pe
 
 Les contrassenyes els pertanyen i poden fer ús (no obligatori) de l'avatar corporatiu. La DGACD no els ofereix el servei de mètriques.
 
-![3a anella ](/img/2_avatars_3.png)
+![3a anella ]({{ site.baseurl }}/img/2_avatars_3.png)
 
 ## Consells i recomanacions d’ús per al personal de la Generalitat
 
