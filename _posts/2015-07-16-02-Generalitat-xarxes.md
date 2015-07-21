@@ -7,7 +7,7 @@ permalink: /02-generalitat-a-les-xarxes/
 
 <!-- MarkdownTOC -->
 
-- [Principis que inspiren la presència de la Generalitat de Catalunya a les xarxes socials](#principis-que-inspiren-la-presència-de-la-generalitat-de-catalunya-a-les-xarxes-socials)
+- [Principis que inspiren la presència a les xarxes socials](#principis-que-inspiren-la-presència-a-les-xarxes-socials)
 - [Com s'ordenen els perfils corporatius](#com-sordenen-els-perfils-corporatius)
 	- [1a anella](#1a-anella)
 	- [2a anella](#2a-anella)
@@ -21,8 +21,8 @@ La Generalitat de Catalunya té una presència activa a les xarxes socials des d
 
 Més de 200 perfils en el conjunt de la institució, permeten una relació especialitzada amb el ciutadà. La suma de tots aquests perfils forma el que es coneix com a solució corporativa gencat.
 
-<a name="principis-que-inspiren-la-presència-de-la-generalitat-de-catalunya-a-les-xarxes-socials"></a>
-## Principis que inspiren la presència de la Generalitat de Catalunya a les xarxes socials
+<a name="principis-que-inspiren-la-presència-a-les-xarxes-socials"></a>
+## Principis que inspiren la presència a les xarxes socials
 
 A l'hora d'interaccionar amb la ciutadania, cal fer-ho sempre amb un to d'acord amb els valors compartits de la Generalitat i tots els seus professionals:
  

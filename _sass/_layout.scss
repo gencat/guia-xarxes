@@ -43,62 +43,6 @@
     }
 }
 
-/**
- * About Sergi
- */
-
- .about-sergi {
-    width: 844px;
-    min-height: 280px; 
-    margin: auto;
-    padding: 1.1em 1.1em 1.5em;
-    border-bottom: $border;
-     @include media-query($on-palm) {
-          width: 95%;
-          text-align: center;
-          border: none;
-        }
-
-    img {
-      float: left;
-      margin: 0;
-      padding: 0;
-      width: 47.6%;
-      max-width: 100%;
-      -moz-border-radius: 2px;
-      border-radius: 2px;
-      @include media-query($on-palm) {
-        width: 80%;
-        float: none;
-        margin: auto;
-        text-align: center;
-      }
-    }
-
-    .content {
-      width: 48%;
-      float: right;
-        @include media-query($on-palm) {
-          width: 96%;
-          text-align: left;
-          padding: 15px;
-          border-bottom: $border;
-          margin-bottom: 20px;
-        }
-    }
-
-    h3 {
-      font-size: 2em;
-      margin: .1em 0;
-      font-weight: 600;
-    }
-
-    .larger {
-      font-size: 1.3em;
-      margin-bottom: .4rem;
-    }
- }
-
 
 /**
  * Site footer
@@ -186,7 +130,7 @@ footer {
     color: #2c251d;
     font-size: 1.6 * $base-font-size;
     font-weight: 600;
-    line-height: 2.2 * $base-font-size;
+    line-height: 1.5 * $base-font-size;
 }
 
 .post-content {
