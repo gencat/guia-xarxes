@@ -2,9 +2,9 @@
 layout: page
 title: Open Source <3
 permalink: /open-source/
---- 
+---
 
-Open source <3
+# We love open source
 
 Projectes que s'han inspirat en la Guia de xarxes socials de la Generalitat de Catalunya.
 
