@@ -5,16 +5,33 @@ permalink: /08-seguiment-i-avaluació/
 ---
 # 8. Seguiment i avaluació
 
+<!-- MarkdownTOC -->
+
+- [Analítica a les xarxes socials](#analítica-a-les-xarxes-socials)
+- [Recollida de dades](#recollida-de-dades)
+- [Informes](#informes)
+	- [Fitxa mensual](#fitxa-mensual)
+	- [Informe d'audiència detallat](#informe-daudiència-detallat)
+	- [Informe resum sobre etiquetes](#informe-resum-sobre-etiquetes)
+- [Control i seguiment](#control-i-seguiment)
+- [La clau, l’avaluació de l’impacte](#la-clau-l’avaluació-de-l’impacte)
+
+<!-- /MarkdownTOC -->
+
+
+<a name="analítica-a-les-xarxes-socials"></a>
 ## Analítica a les xarxes socials
 
 Mesurar l’activitat que es duu a terme a la Xarxa és sempre important per conèixer l’evolució dels esforços dedicats a aquesta tasca. En el món de les xarxes, que és tan canviant, les mètriques són necessàries per poder fer un seguiment del que s’hi fa i avaluar i mesurar quin impacte té, en aquest cas, la presència de l’Administració en aquest entorn i quins beneficis aporta a la ciutadania.
 
+<a name="recollida-de-dades"></a>
 ## Recollida de dades
 
 La  DGACD és l’òrgan encarregat de recollir de forma centralitzada les mètriques de tots els comptes oficials de la Generalitat de Catalunya. Totes aquestes dades s’obtenen directament des de les diferents plataformes socials.
 
 Aquesta recollida centralitzada serveix per estandarditzar els valors i assegurar que siguin comuns a tots els comptes. Es procura, sempre que sigui possible, fer-ho de manera automatitzada mitjançant les interfícies de programació d’aplicacions (*application programming interface*, API) i els agregadors (*feeds*) de les diferents xarxes socials.
 
+<a name="informes"></a>
 ## Informes
 
 La DGACD facilita regularment informes de seguiment a la persona responsable de cada perfil corporatiu. Aquests informes personalitzats s'envien a través d'una carpeta compartida. La persona responsable és l'encarregada de fer arribar l'informe a la resta d'editors del perfil per millorar-ne l'activitat.
@@ -23,6 +40,7 @@ La finalitat és agrupar les dades i presentar-les en diferents informes perquè
 
 A més d'aquests informes, cada mes també es faciliten les dades en cru perquè totes les unitats que ho vulguin puguin elaborar els seus indicadors i informes.
 
+<a name="fitxa-mensual"></a>
 ### Fitxa mensual
 
 Cada mes s'envia la fitxa resum de l'activitat a Twitter i una altra per a Facebook. En aquesta fitxa hi ha un resum de l'activitat durant el mes anterior i una evolució dels principals indicadors per cada una de les xarxes socials.
@@ -36,6 +54,7 @@ També es capturen dades de perfils similars a cada un dels que formen part de l
 
 La comparació de les dades ajuda a valorar l'activitat i alhora obliga a estar atents a l'activitat d'altres perfils i aprendre dels encerts.
 
+<a name="informe-daudiència-detallat"></a>
 ### Informe d'audiència detallat
 
 ![ Informe detallat]({{ site.baseurl }}/img/8_2_detallat.png)
@@ -52,6 +71,7 @@ Es divideix en tres apartats:
 
 ![ Informe detallat]({{ site.baseurl }}/img/8_3_detallat.png)
 
+<a name="informe-resum-sobre-etiquetes"></a>
 ### Informe resum sobre etiquetes
 
 Aquest informe ofereix informació detallada relacionada amb una o un conjunt d'etiquetes de Twitter. És especialment útil quan ha ocorregut un esdeveniment i se'n vol analitzar la conversa generada a Twitter.
@@ -67,6 +87,7 @@ L'informe ajuda a millorar la comunicació per a futures ocasions ja que és una
 També serveix per comparar el volum de missatges en diferents situacions, per exemple el nombre de missatges que s'han publicat amb l'etiqueta #SantJordi en els darrers anys.
 
 
+<a name="control-i-seguiment"></a>
 ## Control i seguiment
 
 La DGACD fa un seguiment individualitzat de cada un dels perfils oficials de la Generalitat a les xarxes socials per garantir un servei de qualitat.
@@ -75,6 +96,7 @@ Aquest control es du a terme a partir de dades d’activitat extretes directamen
 
 Quan la DGACD creu que l’activitat i qualitat del servei d’un compte és millorable, es reuneix amb els seus gestors per valorar conjuntament possibles accions a fer. Fins i tot, si es creu adient, tancar un compte.
 
+<a name="la-clau-l’avaluació-de-l’impacte"></a>
 ## La clau, l’avaluació de l’impacte
 
 Un cop recollides totes aquestes dades i extrets els indicadors que interessin, caldrà relacionar-les amb les dades d’altres canals (web, telèfon, correu electrònic...) per poder comparar l’impacte que tenen unes i altres. Per últim, seria interessant poder relacionar el conjunt de dades amb els objectius de treball de l’organització i així veure si s’han complert. A més, la informació obtinguda ajudaria, per exemple, a fer previsions d’actuacions i a planificar campanyes futures.

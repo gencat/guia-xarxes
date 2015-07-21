@@ -6,6 +6,15 @@ permalink: /05-gestionar-la-comunitat/
 
 # 5. Gestionar la comunitat
 
+<!-- MarkdownTOC -->
+
+- [Consultes i altres aportacions dels usuaris](#consultes-i-altres-aportacions-dels-usuaris)
+- [Normes de participació](#normes-de-participació)
+- [Creació de xarxa](#creació-de-xarxa)
+
+<!-- /MarkdownTOC -->
+
+
 Quan s'obre un perfil a les xarxes socials, s'entra en el terreny de la ciutadania. Aquest acostament és molt útil per fer difusió de les informacions de l'Administració, però alhora implica un compromís: el deure de participar en la conversa, especialment quan el ciutadà fa preguntes directament.
 
 Una bona manera de seguir el que s'està dient sobre un tema d'interès és mitjançant el monitoratge. Amb les columnes de l'aplicació Tweetdeck es poden configurar [cerques avançades](https://support.twitter.com/articles/71577-using-advanced-search) a Twitter, que permeten fer-ne un seguiment i aplicar-hi filtres.
@@ -14,6 +23,7 @@ Una bona manera de seguir el que s'està dient sobre un tema d'interès és mitj
 
 És important seguir la netiqueta de cada entorn en què s'és present. Per exemple, a Twitter no cal agrair els retuits dels usuaris o els nous seguidors. Tampoc no es recomana retuitejar els comentaris positius que faci la ciutadania, excepte els que puguin aportar un valor significatiu a la comunitat.
 
+<a name="consultes-i-altres-aportacions-dels-usuaris"></a>
 ## Consultes i altres aportacions dels usuaris
 
 Les mencions o al·lusions que ho requereixin s'han de respondre com més aviat millor. Es recomana que el temps de resposta sigui inferior a les dues hores. En el cas que la pregunta necessiti d'una recerca d'informació més avançada, cal informar el ciutadà que s'està treballant en la resposta.
@@ -41,6 +51,7 @@ Per norma general, s’han d’escriure amb el format següent:
 
 És important que l’enllaç del primer tuit s’obri i es torni a escurçar amb l’aplicació de gestió de tuits adoptada perquè el tingui en compte a l’hora de comptabilitzar la mètrica del perfil.
 
+<a name="normes-de-participació"></a>
 ## Normes de participació
 
 Per a la bona comunicació en totes les eines socials de la Generalitat de Catalunya, s’estableixen unes normes mínimes de participació, de manera que es pugui dur a terme una conversa respectuosa, tolerant i fructífera amb la ciutadania.
@@ -63,6 +74,7 @@ La Generalitat només es responsabilitza dels continguts que emet a través dels
 
 Si un usuari incompleix reiteradament les normes de participació, pot ser bloquejat.
 
+<a name="creació-de-xarxa"></a>
 ## Creació de xarxa
 
 Començar a formar part d'una comunitat és una tasca lenta. L'avantatge d'una institució oficial és el reconeixement i la credibilitat que s'atribueix a la informació que es proporciona. Tot i això, és sempre la ciutadania qui decidiex voluntàriament subscriure's als perfils de xarxes socials per rebre'n els continguts.
