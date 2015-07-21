@@ -3,19 +3,20 @@ layout: page
 title: La Generalitat de Catalunya a les xarxes socials
 permalink: /02-generalitat-a-les-xarxes/
 ---
-# 2. La Generalitat de Catalunya a les xarxes socials
-
 <!-- MarkdownTOC -->
 
-- [Principis que inspiren la presència a les xarxes socials](#principis-que-inspiren-la-presència-a-les-xarxes-socials)
-- [Com s'ordenen els perfils corporatius](#com-sordenen-els-perfils-corporatius)
-	- [1a anella](#1a-anella)
-	- [2a anella](#2a-anella)
-	- [3a anella](#3a-anella)
-- [Consells i recomanacions d’ús per al personal de la Generalitat](#consells-i-recomanacions-d’ús-per-al-personal-de-la-generalitat)
+- [2. La Generalitat de Catalunya a les xarxes socials](#2-la-generalitat-de-catalunya-a-les-xarxes-socials)
+	- [Principis que inspiren la presència a les xarxes socials](#principis-que-inspiren-la-presència-a-les-xarxes-socials)
+	- [Com s'ordenen els perfils corporatius](#com-sordenen-els-perfils-corporatius)
+		- [1a anella](#1a-anella)
+		- [2a anella](#2a-anella)
+		- [3a anella](#3a-anella)
+	- [Consells i recomanacions d’ús per al personal de la Generalitat](#consells-i-recomanacions-d’ús-per-al-personal-de-la-generalitat)
 
 <!-- /MarkdownTOC -->
 
+<a name="2-la-generalitat-de-catalunya-a-les-xarxes-socials"></a>
+# 2. La Generalitat de Catalunya a les xarxes socials
 
 La Generalitat de Catalunya té una presència activa a les xarxes socials des de 2009. Durant aquest temps ha  consolidat una relació  amb la ciutadania a través dels canals digitals.
 

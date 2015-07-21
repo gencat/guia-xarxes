@@ -3,22 +3,22 @@ layout: page
 title: Primeres passes
 permalink: /03-primeres-passes/
 ---
-
-#3.  Primeres passes
-
 <!-- MarkdownTOC -->
 
-- [1. Tasques prèvies a la sol·licitud oficial](#1-tasques-prèvies-a-la-sol·licitud-oficial)
-	- [1.1. Definir objectius](#11-definir-objectius)
-	- [1.2. Escoltar](#12-escoltar)
-	- [1.3. Conèixer la ciutadania](#13-conèixer-la-ciutadania)
-	- [1.4. Escollir canals](#14-escollir-canals)
-	- [1.5. Estratègia de continguts](#15-estratègia-de-continguts)
-- [2. Sol·licitud oficial](#2-sol·licitud-oficial)
-- [3. La primera publicació](#3-la-primera-publicació)
+- [.  Primeres passes](#--primeres-passes)
+	- [1. Tasques prèvies a la sol·licitud oficial](#1-tasques-prèvies-a-la-sol·licitud-oficial)
+		- [1.1. Definir objectius](#11-definir-objectius)
+		- [1.2. Escoltar](#12-escoltar)
+		- [1.3. Conèixer la ciutadania](#13-conèixer-la-ciutadania)
+		- [1.4. Escollir canals](#14-escollir-canals)
+		- [1.5. Estratègia de continguts](#15-estratègia-de-continguts)
+	- [2. Sol·licitud oficial](#2-sol·licitud-oficial)
+	- [3. La primera publicació](#3-la-primera-publicació)
 
 <!-- /MarkdownTOC -->
 
+<a name="--primeres-passes"></a>
+#3.  Primeres passes
 
 L'obertura d'un nou perfil oficial a les xarxes socials es duu a terme en paral·lel entre la Direcció General d'Atenció Ciutadana i Difusió (DGACD) i la unitat que el demana. Cal que el nou perfil resolgui necessitats comunicatives de la unitat envers la ciutadania i que alhora encaixi dins l'estratègia comunicativa global de la Generalitat. És per això que es demana un procés previ de reflexió abans de sol·licitar-ne l'obertura.
 

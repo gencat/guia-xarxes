@@ -6,13 +6,6 @@ permalink: /01-introduccio/
 
 # 1. Introducció
 
-<!-- MarkdownTOC -->
-
-- [Reutilització](#reutilització)
-- [Com fer aportacions](#com-fer-aportacions)
-
-<!-- /MarkdownTOC -->
-
 L'ús de les xarxes socials provoca canvis en les nostres esferes personal, social i professional. Centrant-nos en l'àmbit professional, l'actual escenari de gran connectivitat entre persones i la gestió de la informació generada afavoreix que s'avanci cap a formes d'intel·ligència col·lectiva que estan canviant les organitzacions.
 
 L'accés a les xarxes socials mitjançant dispositius mòbils garanteix la participació des d'arreu; i, com més gent les usa, més se'n poden multiplicar les utilitats. Ofereixen, doncs, un excel·lent escenari cap a la millora i la innovació. A més de facilitar la participació i implicació de la ciutadania i altres actors en la governança, les xarxes socials complementen els canals d'atenció ciutadana de l'Administració (telefònica, presencial, virutal,...).
@@ -29,12 +22,10 @@ La Guia de xarxes socials de la [Generalitat de Catalunya](http://gencat.cat)  e
 
 La Guia també conté el procediment que cal seguir per obrir perfils en aquests espais de relació i participació. Així mateix, enumera les diferents eines de xarxa social, els diversos usos i objectius de presència en cada una, les recomanacions per a una presència adequada i reexida i també els criteris d'estil comunicatiu més adequats en cada eina.
 
-<a name="reutilització"></a>
 ## Reutilització
 
 La [Generalitat de Catalunya](http://gencat.cat) permet la reutilització dels continguts i de les dades sempre que se citi la font i la data d'actualització, que no es desnaturalitzi la informació i que no es contradigui amb una llicència específica.
 
-<a name="com-fer-aportacions"></a>
 ## Com fer aportacions
 
 La Guia és un instrument dinàmic i obert en el que tothom hi pot participar des de la seva experiència. Actualment el projecte està publicat a [Github](http://github.com/generalitat) i des d'aquest espai es poden fer totes les aportacions.

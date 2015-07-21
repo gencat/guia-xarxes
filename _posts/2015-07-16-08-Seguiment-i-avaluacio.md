@@ -3,21 +3,22 @@ layout: page
 title: Seguiment i avaluació
 permalink: /08-seguiment-i-avaluació/
 ---
-# 8. Seguiment i avaluació
-
 <!-- MarkdownTOC -->
 
-- [Analítica a les xarxes socials](#analítica-a-les-xarxes-socials)
-- [Recollida de dades](#recollida-de-dades)
-- [Informes](#informes)
-	- [Fitxa mensual](#fitxa-mensual)
-	- [Informe d'audiència detallat](#informe-daudiència-detallat)
-	- [Informe resum sobre etiquetes](#informe-resum-sobre-etiquetes)
-- [Control i seguiment](#control-i-seguiment)
-- [La clau, l’avaluació de l’impacte](#la-clau-l’avaluació-de-l’impacte)
+- [8. Seguiment i avaluació](#8-seguiment-i-avaluació)
+	- [Analítica a les xarxes socials](#analítica-a-les-xarxes-socials)
+	- [Recollida de dades](#recollida-de-dades)
+	- [Informes](#informes)
+		- [Fitxa mensual](#fitxa-mensual)
+		- [Informe d'audiència detallat](#informe-daudiència-detallat)
+		- [Informe resum sobre etiquetes](#informe-resum-sobre-etiquetes)
+	- [Control i seguiment](#control-i-seguiment)
+	- [La clau, l’avaluació de l’impacte](#la-clau-l’avaluació-de-l’impacte)
 
 <!-- /MarkdownTOC -->
 
+<a name="8-seguiment-i-avaluació"></a>
+# 8. Seguiment i avaluació
 
 <a name="analítica-a-les-xarxes-socials"></a>
 ## Analítica a les xarxes socials
