@@ -23,7 +23,7 @@ Una bona manera de començar és preguntar-se quin paper es vol que les xarxes s
 
 Estudiar el que s'està dient sobre el tema de què es vol tractar és una bona manera de començar a estar present a les xarxes i pot ajudar a afinar els objectius definits. Tot i que sembli un pas obvi, sovint s'oblida i això fa que no es percebi la realitat. Ser present a les converses que es produeixen a les xarxes amb una actitud de predisposició al canvi i a la millora del servei és un dels aspectes bàsics dels perfils de més èxit.
 
-Es recomana cercar el nom de la unitat i les paraules clau associades a l'activitat que desenvolupa al [cercador de Twitter](http://search.twitter.com) abans de sol·licitar un perfil nou perquè ajudarà a afinar la percepció de la ciutadania sobre el servei. Un cop s'hagi obert el perfil oficial, es poden utilitzar les cerques avançades de Tweetdeck i definir-hi columnes per a les més recorrents. Cal recordar que no sempre que parlin del perfil ho faran citant el nom d'usuari.
+Es recomana cercar el nom de la unitat i les paraules clau associades a l'activitat que desenvolupa al [cercador de Twitter](http://search.twitter.com) abans de sol·licitar un perfil nou perquè ajudarà a afinar la percepció de la ciutadania sobre el servei. Un cop s'hagi obert el perfil oficial, es poden utilitzar les cerques avançades de [Tweetdeck](http://tweetdeck.twitter.com) i definir-hi columnes per a les més recorrents. Cal recordar que no sempre que parlin del perfil ho faran citant el nom d'usuari.
 
 La DGACD demana, en el moment de l'obertura, cinc perfils de Twitter semblants per poder-s'hi comparar. També són útils per veure com actuen: quins recursos empren, a quina hora publiquen, amb quin tipus de continguts ho fan i, fins i tot, veure quin impacte aconsegueixen amb les publicacions.
 
@@ -41,7 +41,7 @@ Una vegada s'hagin definit els objectius, s'hagi escoltat el que s'està dient i
 
 Quan es defineixin els canals en què hi haurà presència, caldrà pensar en el tipus de contingut i les persones que els elaboraran. Obrir un canal exigeix una regularitat en l'activitat. Cal ser capaços de mantenir-la mentre el perfil estigui obert. Tenir un sol perfil que funcioni és millor que tenir-ne cinc d'inactius.
 
-Podeu llegir el capítol "4. Eines" de la Guia per veure les plataformes que la Generalitat ofereix per a una presència institucional a les xarxes socials.
+Podeu llegir el capítol "[4. Eines](/04-eines/)" de la Guia per veure les plataformes que la Generalitat ofereix per a una presència institucional a les xarxes socials.
 
 ### 1.5. Estratègia de continguts
 

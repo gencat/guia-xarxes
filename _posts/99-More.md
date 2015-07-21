@@ -21,24 +21,24 @@ Guia de xarxes socials de la Generalitat de Catalunya
 
 ## Avís legal
 Aquesta obra està subjecta a una llicència Reconeixement 3.0 de Creative Commons.
-Se’n permet la reproducció, la distribució, la comunicació pública i la transformació per generar una obra derivada, sense cap restricció sempre que se’n citi el titular dels drets Generalitat de Catalunya. Departament de la Presidència). La llicència completa es pot consultar a creativecommons.org/licenses/by/3.0/es/legalcode.ca  
+Se’n permet la reproducció, la distribució, la comunicació pública i la transformació per generar una obra derivada, sense cap restricció sempre que se’n citi el titular dels drets Generalitat de Catalunya. Departament de la Presidència). La llicència completa es pot consultar a creativecommons.org/licenses/by/3.0/es/legalcode.ca
 
-ISBN: 978-84-393-8387-1  
+ISBN: 978-84-393-8387-1
 
-![% Creative commons ](/img/00_cc.jpg)  
+![% Creative commons ](/img/00_cc.jpg)
 
 
 ## Edicions
-Primera edició: juny 2010  
-Segona edició: novembre 2010  
-Tercera edició: abril 2011  
-Quarta edició: juny 2011  
-Cinquena edició: febrer 2012  
-Sisena edició: octubre 2013  
+Primera edició: juny 2010
+Segona edició: novembre 2010
+Tercera edició: abril 2011
+Quarta edició: juny 2011
+Cinquena edició: febrer 2012
+Sisena edició: octubre 2013
 Setena edició: juliol 2015
 
 
 La Guia és un document obert. Millorem-la col·laborativament:
-• [xarxes@gencat.cat](mailto:xarxes@gencat.cat)   
-• [twitter.com/gencat](http://twitter.com/gencat)  
-• [facebook.com/gencat](http://facebook.com/gencat)  
+• [xarxes@gencat.cat](mailto:xarxes@gencat.cat)
+• [twitter.com/gencat](http://twitter.com/gencat)
+• [facebook.com/gencat](http://facebook.com/gencat)
