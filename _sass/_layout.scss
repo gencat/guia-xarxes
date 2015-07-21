@@ -171,5 +171,10 @@ footer {
 	  	font-size: 1.1em;
 	  	margin: 0;
 	  }
+	  @include media-query($on-palm) {
+	          width: 95%;
+	          text-align: center;
+	          border: none;
+        }
 }
 
