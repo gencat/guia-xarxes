@@ -24,9 +24,6 @@
 [X] 07- Promocions
 [X] 08- Seguiment i avaluació
 [X] 09- Annexos
-	[X] 09.1- Preguntes Freqüents
-	[X] 09.2- Drets d'autoria
-	[X] 09.3- Criteris lingüístics
-	[X] 09.4- Convencions gràfiques
-	[X] 09.5- Imatge gràfica
-	[X] 09.6- Glossari Termcat
+	[X] 09.1- Drets d'autoria
+	[X] 09.2- Criteris lingüístics
+	[X] 09.3- Terminologia de xarxes socials

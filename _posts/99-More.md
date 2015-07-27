@@ -42,3 +42,5 @@ La Guia és un document obert. Millorem-la col·laborativament:
 • [xarxes@gencat.cat](mailto:xarxes@gencat.cat)
 • [twitter.com/gencat](http://twitter.com/gencat)
 • [facebook.com/gencat](http://facebook.com/gencat)
+• [github.com/generalitat/guia](http://github.com/generalitat/guia)
+

@@ -6,7 +6,7 @@ permalink: /01-introduccio/
 
 # 1. Introducció
 
-L'ús de les xarxes socials provoca canvis en les nostres esferes personal, social i professional. Centrant-nos en l'àmbit professional, l'actual escenari de gran connectivitat entre persones i la gestió de la informació generada afavoreix que s'avanci cap a formes d'intel·ligència col·lectiva que estan canviant les organitzacions.
+L'ús de les xarxes socials provoca canvis en les esferes personal, social i professional dels ciutadans. Centrant-nos en l'àmbit professional, l'actual escenari de gran connectivitat entre persones i la gestió de la informació generada afavoreix que s'avanci cap a formes d'intel·ligència col·lectiva que estan canviant les organitzacions.
 
 L'accés a les xarxes socials mitjançant dispositius mòbils garanteix la participació des d'arreu; i, com més gent les usa, més se'n poden multiplicar les utilitats. Ofereixen, doncs, un excel·lent escenari cap a la millora i la innovació. A més de facilitar la participació i implicació de la ciutadania i altres actors en la governança, les xarxes socials complementen els canals d'atenció ciutadana de l'Administració (telefònica, presencial, virutal,...).
 

@@ -60,7 +60,7 @@ Una vegada s'hagin definit els objectius, s'hagi escoltat el que s'està dient i
 
 Quan es defineixin els canals en què hi haurà presència, caldrà pensar en el tipus de contingut i les persones que els elaboraran. Obrir un canal exigeix una regularitat en l'activitat. Cal ser capaços de mantenir-la mentre el perfil estigui obert. Tenir un sol perfil que funcioni és millor que tenir-ne cinc d'inactius.
 
-Podeu llegir el capítol "[4. Eines](/04-eines/)" de la Guia per veure les plataformes que la Generalitat ofereix per a una presència institucional a les xarxes socials.
+ES pot consultar el capítol "[4. Eines](/04-eines/)" de la Guia per veure les plataformes que la Generalitat ofereix per a una presència institucional a les xarxes socials.
 
 <a name="15-estratègia-de-continguts"></a>
 ### 1.5. Estratègia de continguts
