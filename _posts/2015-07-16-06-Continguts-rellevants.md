@@ -16,7 +16,7 @@ permalink: /06-generar-continguts-rellevants/
 <a name="6-generar-continguts-rellevants"></a>
 # 6. Generar continguts rellevants
 
-Les xarxes socials exigeixen continguts especials de qualitat. Cal aportar un valor a la ciutadania i no limitar-se a publicar el titular i l'enllaç a les notes de premsa. Per generar continguts rellevants per a la ciutadania, cal dedicar-hi temps i recursos.
+Les xarxes socials exigeixen continguts especials de qualitat. S'ha d'aportar un valor a la ciutadania i no limitar-se a publicar el titular i l'enllaç a les notes de premsa. Per generar continguts rellevants per a la ciutadania, cal dedicar-hi temps i recursos.
 
 El tipus de contingut rellevant és diferent per a cada departament, servei o marca i fins i tot serà diferent segons la temàtica del contingut. Per això, és dificil extrapolar unes pautes generals que funcionin a tots els perfils de la Generalitat. Es recomana provar diferents estratègies de continguts i mesurar-ne l'efectivitat.
 
@@ -39,11 +39,11 @@ El mòbil és el principal dispositiu des d'on la ciutadania consulta els contin
 
 - Utilitzar un lector d'RSS per centralitzar de manera més eficient la lectura de nous continguts que puguin ser compartits.
 
-- Elaborar continguts de qualitat abans, durant i després dels actes. Els actes són una gran font de continguts. És interessant elaborar continguts de qualitat abans, durant i després. Si hi intervenen persones externes cal citar-ne correctament els seus perfils a les xarxes socials ja que són de gran ajuda per aconseguir més difusió.
+- Elaborar continguts de qualitat abans, durant i després dels actes. Els actes són una gran font de continguts. És interessant elaborar continguts de qualitat abans, durant i després de l'acte. Si hi intervenen persones externes, cal citar-ne correctament els seus perfils a les xarxes socials ja que són de gran ajut per aconseguir més difusió.
 
 - Cal llegir i validar el contingut abans de ser compartit als perfils oficials. Es poden publicar continguts generats per altres sempre que se n'hagi validat la vigència.
 
-- Aprofitar les tendències de Twitter per fer aflorar continguts propis d'arxiu.
+- Aprofitar les tendències de l'actualitat per fer aflorar continguts propis d'arxiu que hi tinguin relació.
 
 ![ Continguts rellevants]({{ site.baseurl }}/img/6_cnt_7.png)
 
@@ -85,7 +85,7 @@ Aspectes a tenir en compte en l'editorialització de continguts:
 
 - Ús dels informes de seguiment que facilita la DGACD per conèixer els millors dies i hores per publicar. És important identificar les franges de màxim interès en la temàtica del perfil, ja que és diferent per a cada unitat. Hi ha franges de més interès per cada tipus de contingut. Per exemple, els continguts recurrents és important que sempre es publiquin a la mateixa hora.
 
-- La publicació programada és una bona eina però s'ha de tenir un control del que es publicarà i la possibilitat d'accedir a modifcar-la. Cal anar amb compte: un missatge programat en segons quin context pot ser l'origen d'una crisi.
+- La publicació programada és una bona eina però s'ha de tenir un control del que es publicarà i la possibilitat d'accedir a modifcar-la. Cal anar amb compte perquè un missatge programat en segons quin context pot ser l'origen d'una crisi.
 
 <a name="freqüència-de-publicació"></a>
 ## Freqüència de publicació

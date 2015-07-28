@@ -28,7 +28,7 @@ Mesurar l’activitat que es duu a terme a la Xarxa és sempre important per con
 <a name="recollida-de-dades"></a>
 ## Recollida de dades
 
-La  DGACD és l’òrgan encarregat de recollir de forma centralitzada les mètriques de tots els comptes oficials de la Generalitat de Catalunya. Totes aquestes dades s’obtenen directament des de les diferents plataformes socials.
+La  Direcció General d'Atenció Ciutadana i Difusió (DGACD) és l’òrgan encarregat de recollir de forma centralitzada les mètriques de tots els comptes oficials de la Generalitat de Catalunya. Totes aquestes dades s’obtenen directament des de les diferents plataformes socials.
 
 Aquesta recollida centralitzada serveix per estandarditzar els valors i assegurar que siguin comuns a tots els comptes. Es procura, sempre que sigui possible, fer-ho de manera automatitzada mitjançant les interfícies de programació d’aplicacions (*application programming interface*, API) i els agregadors (*feeds*) de les diferents xarxes socials.
 

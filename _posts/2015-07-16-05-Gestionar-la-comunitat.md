@@ -57,7 +57,7 @@ Per norma general, s’han d’escriure amb el format següent:
 
 Per a la bona comunicació en totes les eines socials de la Generalitat de Catalunya, s’estableixen unes normes mínimes de participació, de manera que es pugui dur a terme una conversa respectuosa, tolerant i fructífera amb la ciutadania.
 
-Totes les eines socials en què la Generalitat té presència són obertes als comentaris de la ciutadania, que es publiquen si compleixen aquests requisits:
+En totes les eines socials en què la Generalitat té presència hi ha la possibilitat que la ciutadania hi faci comentaris, que es publiquen si compleixen aquests requisits:
 
 - Que siguin pertinents, és a dir, que no s’allunyin del tema tractat.
 
@@ -67,7 +67,7 @@ Totes les eines socials en què la Generalitat té presència són obertes als c
 
 - Que no tinguin com a objectiu enganyar, desorientar o estafar la ciutadania.
 
-- Que no violi qualsevol llei intelectual de drets.
+- Que no violi qualsevol llei de drets d'autoria i propietat intel·lectual.
 
 - Que el contingut del missatge no sigui promocional o contingut brossa (*spam*).
 
@@ -84,5 +84,5 @@ Es recomana seguir perfils d'interès de l'àmbit o temàtica relacionada amb el
 
 Una manera de tenir ordenats els contactes és crear llistes de seguidors. Es poden gestionar des de l'aplicació Tweetdeck, que permet ordenar temàticament la gent a qui se segueix.
 
-Quan s'obre un perfil és bo fer-ho saber a la ciutadania, per això es pot fer una notícia informativa, enllaçar des del web o fer un enviament informatiu de correus.
+Quan s'obre un perfil és bo fer-ho saber a la ciutadania, per això es pot fer una notícia informativa, enllaçar des del web o fer un enviament informatiu de correus electrònics.
 

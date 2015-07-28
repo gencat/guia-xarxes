@@ -33,14 +33,14 @@ L'obertura d'un nou perfil oficial a les xarxes socials es duu a terme en paral�
 
 Poden canviar al llarg del temps, però els objectius defineixen l'estratègia  a les xarxes. És important que cada unitat dediqui el temps necessari en aquesta fase d'acord amb l'estratègia de comunicació integral. S'ha de trobar la manera de millorar l'atenció a la ciutadania fent ús de les xarxes.
 
-Una bona manera de començar és preguntar-se quin paper es vol que les xarxes socials juguin en la unitat. Cal saber la importància que té dins la unitat diferents aspectes com l'atenció al ciutadà, la informació d'activitats pròpies, guanyar visibilitat o aconseguir col·laboracions ciutadanes. Es poden agafar com a exemple els perfils de Twitter de [@gencat](http://twitter.com/gencat) i [@012](http://twitter.com/012).
+Una bona manera de començar és preguntar-se quin rol es vol que les xarxes socials juguin en la unitat. Cal saber la importància que té dins la unitat diferents aspectes com l'atenció al ciutadà, la informació d'activitats pròpies, el guany de visibilitat o l'assoliment de col·laboracions ciutadanes. Es poden agafar com a exemple els perfils de Twitter de [@gencat](http://twitter.com/gencat) i [@012](http://twitter.com/012).
 
 <a name="12-escoltar"></a>
 ### 1.2. Escoltar
 
-Estudiar el que s'està dient sobre el tema de què es vol tractar és una bona manera de començar a estar present a les xarxes i pot ajudar a afinar els objectius definits. Tot i que sembli un pas obvi, sovint s'oblida i això fa que no es percebi la realitat. Ser present a les converses que es produeixen a les xarxes amb una actitud de predisposició al canvi i a la millora del servei és un dels aspectes bàsics dels perfils de més èxit.
+Estudiar el que s'està dient sobre el tema de què es vol tractar és una bona manera de començar a estar present a les xarxes i pot ajudar a afinar els objectius definits. Tot i que sembli un pas obvi, sovint s'oblida i això fa que no s'acabi de percebre el context més immediat. Ser present a les converses que es produeixen a les xarxes amb una actitud de predisposició al canvi i a la millora del servei és un dels aspectes bàsics dels perfils de més èxit.
 
-Es recomana cercar el nom de la unitat i les paraules clau associades a l'activitat que desenvolupa al [cercador de Twitter](http://search.twitter.com) abans de sol·licitar un perfil nou perquè ajudarà a afinar la percepció de la ciutadania sobre el servei. Un cop s'hagi obert el perfil oficial, es poden utilitzar les cerques avançades de [Tweetdeck](http://tweetdeck.twitter.com) i definir-hi columnes per a les més recorrents. Cal recordar que no sempre que parlin del perfil ho faran citant el nom d'usuari.
+Es recomana cercar el nom de la unitat i les paraules clau associades a l'activitat que desenvolupa al [cercador de Twitter](http://search.twitter.com) abans de sol·licitar un perfil nou perquè ajudarà a afinar la percepció de la ciutadania sobre el servei. Un cop s'hagi obert el perfil oficial, es poden utilitzar les cerques avançades de [Tweetdeck](http://tweetdeck.twitter.com) i definir-hi columnes per a les més recorrents. Cal recordar que no sempre que algú parli del perfil ho farà citant el nom d'usuari.
 
 La DGACD demana, en el moment de l'obertura, cinc perfils de Twitter semblants per poder-s'hi comparar. També són útils per veure com actuen: quins recursos empren, a quina hora publiquen, amb quin tipus de continguts ho fan i, fins i tot, veure quin impacte aconsegueixen amb les publicacions.
 
@@ -67,7 +67,7 @@ ES pot consultar el capítol "[4. Eines](/04-eines/)" de la Guia per veure les p
 
 Es poden fer servir les dades d'analítica del web per esbrinar quins són els continguts que més interès desperten. Es recomana una estratègia de continguts flexible i viva, capaç d'adaptar-se als canvis i a les necessitats de la ciutadania.
 
-Abans d'obrir el perfil cal que les persones editores elaborin una llista de 20 tuits i 10 publicacions de Facebook possibles.
+Abans d'obrir el perfil, cal que les persones editores elaborin una llista de 20 tuits i 10 publicacions de Facebook possibles.
 
 <a name="2-sol·licitud-oficial"></a>
 ## 2. Sol·licitud oficial
@@ -76,7 +76,7 @@ S'ha d'enviar a la DGACD el [formulari](http://gencat.cat/piv/pdf/autorit_web.pd
 
 Si el departament decideix que el nou perfil no formi part de la primera anella i que formi part de la segona (tal com es descriu en el capítol "2.La Generalitat de Catalunya a les xarxes socials", no cal enviar el fomulari d'alta a la DGACD.
 
-Aquest requisit obliga la persona responsable de la unitat i la responsable de xarxes del departament a parlar amb anterioritat sobre l'idonietat del perfil dins l'estratègia comunicativa del departament.
+Aquest requisit obliga la persona responsable de la unitat i la responsable de xarxes del departament a parlar amb anterioritat sobre la idoneitat del perfil dins l'estratègia comunicativa del departament.
 
 Un cop el formulari arriba a la DGACD, es convoca la persona responsable de la unitat i la responsable del departament a una reunió. Cal que la unitat sol·licitant tingui molt clars els aspectes previs a l'obertura del perfil.
 
@@ -85,7 +85,7 @@ La DGACD, a partir de les indicacions pertinents del Departament de la Presidèn
 <a name="3-la-primera-publicació"></a>
 ## 3. La primera publicació
 
-La DGACD és l'encarregada de l'obertura, configuració i adaptació del perfil. Els perfils corporatius de la Generalitat s'obren sempre des d'un correu *@gencat.cat*. Els aspectes de presentació es configuren seguint el [*Programa d'identificació visual de la Generalitat de Catalunya a les xarxes socials*](http://gencat.cat/piv/pdf/xarxes_socials.pdf).
+La DGACD és l'encarregada de l'obertura, configuració i adaptació del perfil. Els perfils corporatius de la Generalitat s'obren sempre des d'un correu *@gencat.cat*. Els aspectes de presentació es configuren seguint el [Programa d'identificació visual de la Generalitat de Catalunya a les xarxes socials](http://gencat.cat/piv/pdf/xarxes_socials.pdf).
 
 La unitat sol·licitant ha d'informar la DGACD de:
 
@@ -99,7 +99,7 @@ Per la seva banda, la DGACD:
 
 - Dóna permisos d'edició a les persones de qui el responsable ha informat.
 - Configura les eines intermèdies (Tweetdeck) per facilitar l'edició dels continguts.
-- Afegeix el responsable del perfil a la Comunitat de professionals (CoP) de xarxes socials de la Generalitat.
+- Afegeix el responsable del perfil a la comunitat de professionals (CoP) de xarxes socials de la Generalitat.
 - Dóna d'alta totes les persones editores a la llista de distribució de continguts gencat.
 - Fa difusió del nou perfil als canals corporatius de la Generalitat.
 
