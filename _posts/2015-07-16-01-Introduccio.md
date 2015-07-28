@@ -32,6 +32,6 @@ La [Generalitat de Catalunya](http://gencat.cat) permet la reutilització dels c
 
 ## Com fer aportacions
 
-La Guia és un instrument dinàmic i obert en el qual tothom hi pot participar des de la seva experiència. Actualment el projecte està publicat a [Github](http://github.com/generalitat) i des d'aquest espai es poden fer totes les aportacions.
+La Guia és un instrument dinàmic i obert en el qual tothom pot participar des de la seva experiència. Actualment el projecte està publicat a [Github](http://github.com/generalitat) i des d'aquest espai es poden fer totes les aportacions.
 
 També es poden fer suggeriments i altres propostes de millora al correu [xarxes@gencat.cat](mailto:xarxes@gencat.cat) i al perfil de Twitter [@gencat](http://twitter.com/gencat).
