@@ -72,7 +72,7 @@ Abans d'obrir el perfil, cal que les persones editores elaborin una llista de 20
 <a name="2-sol·licitud-oficial"></a>
 ## 2. Sol·licitud oficial
 
-S'ha d'enviar a la DGACD el [formulari](http://gencat.cat/piv/pdf/autorit_web.pdf) de sol·lictud d'alta d'un nou perfil a les xarxes socials, que ha de signar el secretari general del departament corresponent.
+S'ha d'enviar a la DGACD el [formulari](http://identitatcorporativa.gencat.cat/web/.content/Documentacio/pdf/autorit_web.pdf) de sol·lictud d'alta d'un nou perfil a les xarxes socials, que ha de signar el secretari general del departament corresponent.
 
 Si el departament decideix que el nou perfil no formi part de la primera anella i que formi part de la segona (tal com es descriu en el capítol "2.La Generalitat de Catalunya a les xarxes socials", no cal enviar el fomulari d'alta a la DGACD.
 
@@ -85,7 +85,7 @@ La DGACD, a partir de les indicacions pertinents del Departament de la Presidèn
 <a name="3-la-primera-publicació"></a>
 ## 3. La primera publicació
 
-La DGACD és l'encarregada de l'obertura, configuració i adaptació del perfil. Els perfils corporatius de la Generalitat s'obren sempre des d'un correu *@gencat.cat*. Els aspectes de presentació es configuren seguint el [Programa d'identificació visual de la Generalitat de Catalunya a les xarxes socials](http://gencat.cat/piv/pdf/xarxes_socials.pdf).
+La DGACD és l'encarregada de l'obertura, configuració i adaptació del perfil. Els perfils corporatius de la Generalitat s'obren sempre des d'un correu *@gencat.cat*. Els aspectes de presentació es configuren seguint el [Programa d'identificació visual de la Generalitat de Catalunya a les xarxes socials](http://identitatcorporativa.gencat.cat/ca/aplicacions/xarxes-socials/).
 
 La unitat sol·licitant ha d'informar la DGACD de:
 
