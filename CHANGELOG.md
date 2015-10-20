@@ -3,11 +3,6 @@ layout: page
 title: Changelog
 permalink: /changelog/
 ---
----
-layout: page
-title: Changelog
-permalink: /changelog/
----
 # Change log
 Tots els canvis que anem introduint a cada una de les noves revisions de la Guia.
 
