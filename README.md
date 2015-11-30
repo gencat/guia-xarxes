@@ -2,17 +2,17 @@ Guia de xarxes socials de la Generalitat de Catalunya
 ---
 ![% Generalitat de Catalunya](http://web.gencat.cat/web/resources/webgencat/comuns/img/logo_generalitat_gris.png_679097835.png)
 
-La *Guia de xarxes socials de la Generalitat de Catalunya* estableix unes pautes comunes per a la presència homogènia de la Generalitat a les xarxes socials.
+La [*Guia de xarxes socials de la Generalitat de Catalunya*](https://github.com/generalitat/guia) estableix unes pautes comunes per a la presÃ¨ncia homogÃ¨nia de la Generalitat a les xarxes socials.
 
 
-## Avís legal
-La [Generalitat de Catalunya](http://web.gencat.cat/ca/menu-ajuda/ajuda/avis_legal/) permet la reutilització dels continguts i de les dades sempre que se citi la font i la data d'actualització, que no es desnaturalitzi la informació i que no es contradigui amb una llicència específica.
+## AvÃ­s legal
+La [Generalitat de Catalunya](http://web.gencat.cat/ca/menu-ajuda/ajuda/avis_legal/) permet la reutilitzaciÃ³ dels continguts i de les dades sempre que se citi la font i la data d'actualitzaciÃ³, que no es desnaturalitzi la informaciÃ³ i que no es contradigui amb una llicÃ¨ncia especÃ­fica.
 
 ## Propostes
-La Guia és un instrument dinàmic i obert en el que tothom hi pot participar des de la seva experiència. Actualment el projecte està publicat a [Github](https://github.com/generalitat/guia) i des d'aquest espai es poden fer totes les aportacions.
+La Guia Ã©s un instrument dinÃ mic i obert en el que tothom hi pot participar des de la seva experiÃ¨ncia. Actualment el projecte estÃ  publicat a [Github](https://github.com/generalitat/guia) i des d'aquest espai es poden fer totes les aportacions.
 
-També ens podeu escriure a [xarxes@gencat.cat](mailto:xarxes@gencat.cat) i a [@gencat](http://twitter.com/gencat).
+TambÃ© ens podeu escriure a [xarxes@gencat.cat](mailto:xarxes@gencat.cat) i a [@gencat](http://twitter.com/gencat).
 
 ## Canvis
-Si vols consultar els canvis de cada revisió visita [CHANGE LOG](CHANGELOG.md) per a més informació.
+Si vols consultar els canvis de cada revisiÃ³ visita [CHANGE LOG](CHANGELOG.md) per a mÃ©s informaciÃ³.
 
