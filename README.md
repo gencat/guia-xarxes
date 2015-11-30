@@ -2,7 +2,7 @@ Guia de xarxes socials de la Generalitat de Catalunya
 ---
 ![% Generalitat de Catalunya](http://web.gencat.cat/web/resources/webgencat/comuns/img/logo_generalitat_gris.png_679097835.png)
 
-La [*Guia de xarxes socials de la Generalitat de Catalunya*](https://github.com/generalitat/guia) estableix unes pautes comunes per a la presència homogènia de la Generalitat a les xarxes socials.
+La [*Guia de xarxes socials de la Generalitat de Catalunya*](http://gencat.github.io/guia/) estableix unes pautes comunes per a la presència homogènia de la Generalitat a les xarxes socials.
 
 
 ## Avís legal
