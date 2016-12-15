@@ -17,15 +17,17 @@ Tens alguna suggerència o vols que parlem sobre la guia? Siusplau crear un *iss
 https://github.com/gencat/guia-xarxes/issues
 
 ## Edicions
-1a edició: juny 2010 / pdf: [cat](/assets/pdf/v01_guia_usos_xarxa_cat.pdf) · [es](/assets/pdf/v01_guia_usos_xarxa_es.pdf) · [en](/assets/pdf/v01_guia_usos_xarxa_en.pdf)  
-2a edició: novembre 2010 / pdf: [cat](/assets/pdf/v02_guia_usos_xarxa_cat.pdf) · [es](/assets/pdf/v02_guia_usos_xarxa_es.pdf) · [en](/assets/pdf/v02_guia_usos_xarxa_en.pdf)  
-3a edició: abril 2011 / pdf: [cat](/assets/pdf/v03_guia_usos_xarxa_cat.pdf) · [es](/assets/pdf/v03_guia_usos_xarxa_es.pdf) · [en](/assets/pdf/v03_guia_usos_xarxa_en.pdf)  
-4a edició: juny 2011 / pdf: [cat](/assets/pdf/v04_guia_usos_xarxa_cat.pdf) · [es](/assets/pdf/v04_guia_usos_xarxa_es.pdf) · [en](/assets/pdf/v04_guia_usos_xarxa_en.pdf)  
-5a edició: febrer 2012 / pdf: [cat](/assets/pdf/v05_guia_usos_xarxa_cat.pdf) · [es](/assets/pdf/v05_guia_usos_xarxa_es.pdf) · [en](/assets/pdf/v05_guia_usos_xarxa_en.pdf)  
-6a edició: octubre 2013 / pdf: [cat](/assets/pdf/v06_guia_usos_xarxa_cat.pdf) · [es](/assets/pdf/v06_guia_usos_xarxa_es.pdf) · [en](/assets/pdf/v06_guia_usos_xarxa_en.pdf)  
-7a edició: juliol 2015/ pdf: [cat](/assets/pdf/v07_guia_usos_xarxa_cat.pdf) · [es](/assets/pdf/v07_guia_usos_xarxa_es.pdf) · [en](/assets/pdf/v07_guia_usos_xarxa_en.pdf)
+1a edició: juny 2010 		/ pdf: [cat](/assets/pdf/v01_guia_usos_xarxa_cat.pdf) · [es](/assets/pdf/v01_guia_usos_xarxa_es.pdf) · [en](/assets/pdf/v01_guia_usos_xarxa_en.pdf)  
+2a edició: novembre 2010 	/ pdf: [cat](/assets/pdf/v02_guia_usos_xarxa_cat.pdf) · [es](/assets/pdf/v02_guia_usos_xarxa_es.pdf) · [en](/assets/pdf/v02_guia_usos_xarxa_en.pdf)  
+3a edició: abril 2011 		/ pdf: [cat](/assets/pdf/v03_guia_usos_xarxa_cat.pdf) · [es](/assets/pdf/v03_guia_usos_xarxa_es.pdf) · [en](/assets/pdf/v03_guia_usos_xarxa_en.pdf)  
+4a edició: juny 2011 		/ pdf: [cat](/assets/pdf/v04_guia_usos_xarxa_cat.pdf) · [es](/assets/pdf/v04_guia_usos_xarxa_es.pdf) · [en](/assets/pdf/v04_guia_usos_xarxa_en.pdf)  
+5a edició: febrer 2012 		/ pdf: [cat](/assets/pdf/v05_guia_usos_xarxa_cat.pdf) · [es](/assets/pdf/v05_guia_usos_xarxa_es.pdf) · [en](/assets/pdf/v05_guia_usos_xarxa_en.pdf)  
+6a edició: octubre 2013 	/ pdf: [cat](/assets/pdf/v06_guia_usos_xarxa_cat.pdf) · [es](/assets/pdf/v06_guia_usos_xarxa_es.pdf) · [en](/assets/pdf/v06_guia_usos_xarxa_en.pdf)  
+7a edició: juliol 2015		/ pdf: [cat](/assets/pdf/v07_guia_usos_xarxa_cat.pdf) · [es](/assets/pdf/v07_guia_usos_xarxa_es.pdf) · [en](/assets/pdf/v07_guia_usos_xarxa_en.pdf)
 
 Consulta [els canvis fets](CHANGELOG.md) a cada edició.  
 
 ## Avís legal
 La [Generalitat de Catalunya](http://web.gencat.cat/ca/menu-ajuda/ajuda/avis_legal/) permet la reutilització dels continguts i de les dades sempre que se citi la font i la data d'actualització, que no es desnaturalitzi la informació i que no es contradigui amb una llicència específica.
+
+Consulta [altres projectes](OPENSOURCE.md) que s'han inspirat amb la Guia de xarxes de la Generalitat.

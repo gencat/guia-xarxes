@@ -1,10 +1,5 @@
----
-layout: page
-title: Open Source <3
-permalink: /open-source/
----
-
 # We love open source
+
 Projectes que s'han inspirat en la Guia de xarxes socials de la Generalitat de Catalunya.
 
 - [Ajuntament del Prat de Llobregat](http://www.slideshare.net/AjuntamentdelPrat/guia-de-xarxes-socials-de-lajuntament-del-prat-de-llobregat).  
