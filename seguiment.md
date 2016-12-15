@@ -6,13 +6,13 @@ Mesurar l’activitat que es duu a terme a la Xarxa és sempre important per con
 
 ## 8.2. Recollida de dades
 
-La  Direcció General d'Atenció Ciutadana i Difusió (DGACD) és l’òrgan encarregat de recollir de forma centralitzada les mètriques de tots els comptes oficials de la Generalitat de Catalunya. Totes aquestes dades s’obtenen directament des de les diferents plataformes socials.
+La  Direcció General d'Atenció Ciutadana (DGAC) és l’òrgan encarregat de recollir de forma centralitzada les mètriques de tots els comptes oficials de la Generalitat de Catalunya. Totes aquestes dades s’obtenen directament des de les diferents plataformes socials.
 
 Aquesta recollida centralitzada serveix per estandarditzar els valors i assegurar que siguin comuns a tots els comptes. Es procura, sempre que sigui possible, fer-ho de manera automatitzada mitjançant les interfícies de programació d’aplicacions (*application programming interface*, API) i els agregadors (*feeds*) de les diferents xarxes socials.
 
 ## 8.3. Informes
 
-La DGACD facilita regularment informes de seguiment a la persona responsable de cada perfil corporatiu. Aquests informes personalitzats s'envien a través d'una carpeta compartida. La persona responsable és l'encarregada de fer arribar l'informe a la resta d'editors del perfil per millorar-ne l'activitat.
+La DGAC facilita regularment informes de seguiment a la persona responsable de cada perfil corporatiu. Aquests informes personalitzats s'envien a través d'una carpeta compartida. La persona responsable és l'encarregada de fer arribar l'informe a la resta d'editors del perfil per millorar-ne l'activitat.
 
 La finalitat és agrupar les dades i presentar-les en diferents informes perquè sigui fàcil de rendir comptes amb els màxims responsables de la unitat.
 
@@ -27,7 +27,7 @@ Pel que fa als continguts, hi apareixen els que més s'han compartit durant els 
 ![ Fitxa de seguiment mensual](/assets/img/8_1_fitxa_mensual.png)
 
 
-També es capturen dades de perfils similars a cada un dels que formen part de la solució coporativa per poder contextualitzar-ne els indicadors. Aquests perfils els proposa la persona responsable de cada compte a la DGACD a l'inici de tot el procés.
+També es capturen dades de perfils similars a cada un dels que formen part de la solució coporativa per poder contextualitzar-ne els indicadors. Aquests perfils els proposa la persona responsable de cada compte a la DGAC a l'inici de tot el procés.
 
 La comparació de les dades ajuda a valorar l'activitat i alhora obliga a estar atents a l'activitat d'altres perfils i aprendre dels encerts.
 
@@ -51,7 +51,7 @@ Es divideix en tres apartats:
 
 Aquest informe ofereix informació detallada relacionada amb una o un conjunt d'etiquetes de Twitter. És especialment útil quan ha ocorregut un esdeveniment i se'n vol analitzar la conversa generada a Twitter.
 
-La generació d'aquests informes és de caire excepcional i és la DGACD la que en decideix la necessitat. Aquest informe pot ser útil en campanyes de comunicació, rodes de premsa o per a casos d'emergències.
+La generació d'aquests informes és de caire excepcional i és la DGAC la que en decideix la necessitat. Aquest informe pot ser útil en campanyes de comunicació, rodes de premsa o per a casos d'emergències.
 
 Les dades que es capturen per a l'elaboració de l'informe són les que es poden obtenir públicament des de l'API de Twitter. En cap cas no es relacionen amb dades personals dels emissors dels missatges.
 
@@ -63,11 +63,11 @@ També serveix per comparar el volum de missatges en diferents situacions, per e
 
 ## 8.4. Control i seguiment
 
-La DGACD fa un seguiment individualitzat de cada un dels perfils oficials de la Generalitat a les xarxes socials per garantir un servei de qualitat.
+La DGAC fa un seguiment individualitzat de cada un dels perfils oficials de la Generalitat a les xarxes socials per garantir un servei de qualitat.
 
 Aquest control es du a terme a partir de dades d’activitat extretes directament de les API de les plataformes socials. Mitjançant el tractament objectiu d’aquetes dades s’estudia i es valora el servei que dóna cada un dels perfils actius a les xarxes socials.
 
-Quan la DGACD creu que l’activitat i qualitat del servei d’un compte és millorable, es reuneix amb els seus gestors per valorar conjuntament possibles accions a fer. Fins i tot, si es creu adient, tancar un compte.
+Quan la DGAC creu que l’activitat i qualitat del servei d’un compte és millorable, es reuneix amb els seus gestors per valorar conjuntament possibles accions a fer. Fins i tot, si es creu adient, tancar un compte.
 
 ## 8.5. La clau, l’avaluació de l’impacte
 

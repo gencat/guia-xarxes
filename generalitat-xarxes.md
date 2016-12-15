@@ -30,7 +30,7 @@ Per ordenar la gestió del comptes de la Generalitat de Catalunya, s'estableixen
 
 ### 2.2.1. 1a anella
 
-Els comptes formen part totalment del servei corporatiu. Així doncs, la Direcció General d'Atenció Ciutadana i Difusió (DGACD) en custodia la contrassenya i proporciona l'avatar oficial als gestors d’acord amb el Programa d’identificació visual (PIV) de les xarxes socials de la Generalitat. També fa servei de suport i envia les mètriques del compte periòdicament.
+Els comptes formen part totalment del servei corporatiu. Així doncs, la Direcció General d'Atenció Ciutadana (DGAC) en custodia la contrassenya i proporciona l'avatar oficial als gestors d’acord amb el Programa d’identificació visual (PIV) de les xarxes socials de la Generalitat. També fa servei de suport i envia les mètriques del compte periòdicament.
 
 Els gestors del compte poden assistir a les reunions de comunitat de professionals (CoP) que tenen lloc quatre cops l'any i estan inclosos en les llistes de distribució de continguts generats a la CoP i enviats posteriorment.
 
@@ -44,7 +44,7 @@ Hi ha departaments, serveis i marques que, per l'estructura interna mateixa, dis
 
 El procediment d’obertura que cal seguir es coordinarà entre el CPS i l’organisme responsable de l’obertura de xarxes socials en aquell departament o institució, seguint el mateix protocol de la primera anella però amb el departament, servei o marca com a responsable de la coordinació.
 
-Funcions de la DGACD:
+Funcions de la DGAC:
 
 - Autoritzar l'obertura del perfil.
 - Assessorar el responsable del departament en l'obertura del perfil.
@@ -54,7 +54,7 @@ Funcions de la DGACD:
 Funcions del departament, servei o marca:
 
 - Difusió de l’estratègia comunicativa a les xarxes.
-- Disseny de l’avatar i del fons de pantalla del CPS a partir de la plantilla subministrada per la DGACD.
+- Disseny de l’avatar i del fons de pantalla del CPS a partir de la plantilla subministrada per la DGAC.
 - Definició del nom dels comptes de xarxes socials del CPS, així com d’altres textos relacionats: bio a Twitter, pestanyes *Informació* i *Participació* a Facebook, etc.
 - Emmagatzematge de persones administradores, noms d’usuari i contrassenyes dels comptes de xarxes socials comunicats pel CPS.
 - Formació, acompanyament i assessorament dels responsables dels comptes a les xarxes socials amb trobades presencials i/o virtuals en forma de comunitat de professionals (CoP).
@@ -65,7 +65,7 @@ Funcions del CPS:
 - Gestió i manteniment del perfil de xarxa social.
 - Comunicació al departament, servei o marca dels noms de les persones administradores i dels noms d’usuari i contrasenyes dels comptes de xarxes socials per a la custòdia.
 - Compromís d’informar el departament, servei o marca de qualsevol canvi de nom d’usuari i/o contrasenya.
-- Compromís de fer servir les aplicacions aconsellades per la DGACD per gestionar els comptes i perfils.
+- Compromís de fer servir les aplicacions aconsellades per la DGAC per gestionar els comptes i perfils.
 - Participació en les sessions de formació i actualització de la CoP en l’àmbit propi.
 - Recollida i subministrament de mètriques dels comptes de xarxes socials oberts.
 
@@ -78,7 +78,7 @@ Depenen de la segona anella. Per tant, el màxim responsable en l'obertura del p
 Per raons de dimensió, no és possible una gestió centralitzada de tots els perfils oficials de la Generalitat a les xarxes socials. En aquest grup hi ha centres d'atenció primària, instituts i col·legis o biblioteques. Per aquest motiu aquest tipus d'unitats depenen de la segona anella. Per tant, el màxim responsable de l'estratègia del perfil és el d
 epartament al qual pertanyen, que segueix el mateix procediment que en la segona anella.
 
-Les contrassenyes els pertanyen i poden fer ús (no obligatori) de l'avatar corporatiu. La DGACD no els ofereix el servei de mètriques.
+Les contrassenyes els pertanyen i poden fer ús (no obligatori) de l'avatar corporatiu. La DGAC no els ofereix el servei de mètriques.
 
 ![3a anella ](/assets/img/2_avatars_3.png)
 

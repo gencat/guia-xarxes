@@ -64,7 +64,7 @@ Aspectes a tenir en compte en l'editorialització de continguts:
 
 - Creació d'un arxiu amb continguts atemporals per publicar quan no hi hagi continguts d'actualitat.
 
-- Ús dels informes de seguiment que facilita la DGACD per conèixer els millors dies i hores per publicar. És important identificar les franges de màxim interès en la temàtica del perfil, ja que és diferent per a cada unitat. Hi ha franges de més interès per cada tipus de contingut. Per exemple, els continguts recurrents és important que sempre es publiquin a la mateixa hora.
+- Ús dels informes de seguiment que facilita la DGAC per conèixer els millors dies i hores per publicar. És important identificar les franges de màxim interès en la temàtica del perfil, ja que és diferent per a cada unitat. Hi ha franges de més interès per cada tipus de contingut. Per exemple, els continguts recurrents és important que sempre es publiquin a la mateixa hora.
 
 - La publicació programada és una bona eina però s'ha de tenir un control del que es publicarà i la possibilitat d'accedir a modifcar-la. Cal anar amb compte perquè un missatge programat en segons quin context pot ser l'origen d'una crisi.
 

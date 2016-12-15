@@ -2,9 +2,9 @@
 
 A vegades pot convenir que una publiació arribi més enllà de la seva comunitat mateixa. Per a aquests casos, la majoria d'eines socials ofereixen la possibilitat de promocionar una publicació. Aquesta opció, ben executada, és una manera més ràpida d'arribar a un major nombre de persones que no pas seguint les pautes d'edició habituals.
 
-Cal que, quan es vulgui fer una promoció especial, es reflexioni sobre els principals aspectes de la campanya i se n'informi la Direcció General d'Atenció Ciutadana i Difusió (DGACD), que s'encarrega de coordinar totes les campanyes que es duen a terme en el conjunt de la Generalitat. És poc recomanable que coincideixin en el temps i en l'espai diferents campanyes ja que es restarien visibilitat.
+Cal que, quan es vulgui fer una promoció especial, es reflexioni sobre els principals aspectes de la campanya i se n'informi la Direcció General d'Atenció Ciutadana (DGAC), que s'encarrega de coordinar totes les campanyes que es duen a terme en el conjunt de la Generalitat. És poc recomanable que coincideixin en el temps i en l'espai diferents campanyes ja que es restarien visibilitat.
 
-Des del moment que s'informa del llançament de la campanya, la DGACD fa un seguiment de les etiquetes de les campanyes a Twitter que en aquells moments estigui coordinant, així com aportacions sobre els missatges, els continguts i les etiquetes que es poden usar.
+Des del moment que s'informa del llançament de la campanya, la DGAC fa un seguiment de les etiquetes de les campanyes a Twitter que en aquells moments estigui coordinant, així com aportacions sobre els missatges, els continguts i les etiquetes que es poden usar.
 
 ## 7.1. Objectius
 
@@ -26,13 +26,13 @@ Per a una campanya de promoció de curta durada no es recomana la creació d'un 
 
 Per optimitzar els recursos, es proposen dos tipus de canals de promoció:
 
-- **Institucionals**. Se seleccionen perfils oficials de la Generalitat per publicar els missatges promocionals. La selecció dels millors canals on publicar es fa de manera consensuada entre la DGACD, el responsable de la promoció i els responsables dels canals seleccionats. La unitat impulsora de la promoció és l'encarregada de facilitar els continguts.
+- **Institucionals**. Se seleccionen perfils oficials de la Generalitat per publicar els missatges promocionals. La selecció dels millors canals on publicar es fa de manera consensuada entre la DGAC, el responsable de la promoció i els responsables dels canals seleccionats. La unitat impulsora de la promoció és l'encarregada de facilitar els continguts.
 
 	Aquesta coordinació institucional comporta un estalvi econòmic a la Generalitat i alhora reforça el missatge corporatiu. Un exemple seria la campanya Garantia Juvenil que aprofita la pàgina de Facebook de Joventut per fer arribar el seu missatge a un públic amb una franja d'edat concreta.
 
 ![ Institucionals](/assets/img/7_1_institucional.png)
 
-- **De pagament**. Les plataformes també ofereixen l'opció de pagar per fer arribar la publicació a més gent. Es pot fer directament des del mateix entorn de gestió de cada eina. És important informar-ne la DGACD perquè coordini la campanya i així evitar coincidències de campanyes institucionals en el mateix moment.
+- **De pagament**. Les plataformes també ofereixen l'opció de pagar per fer arribar la publicació a més gent. Es pot fer directament des del mateix entorn de gestió de cada eina. És important informar-ne la DGAC perquè coordini la campanya i així evitar coincidències de campanyes institucionals en el mateix moment.
 
 ![ De pagament](/assets/img/7_2_pagament.png)
 
