@@ -1,9 +1,3 @@
----
-layout: page
-title: Introducció
-permalink: /01-introduccio/
----
-
 # 1. Introducció
 
 L'ús de les xarxes socials provoca canvis en les esferes personal, social i professional dels ciutadans. Centrant-nos en l'àmbit professional, l'actual escenari de gran connectivitat entre persones i la gestió de la informació generada afavoreix que s'avanci cap a formes d'intel·ligència col·lectiva que estan canviant les organitzacions.
@@ -32,6 +26,6 @@ La [Generalitat de Catalunya](http://gencat.cat) permet la reutilització dels c
 
 ## Com fer aportacions
 
-La Guia és un instrument dinàmic i obert en el qual tothom pot participar des de la seva experiència. Actualment el projecte està publicat a [Github](http://github.com/generalitat) i des d'aquest espai es poden fer totes les aportacions.
+La Guia és un instrument dinàmic i obert en el qual tothom pot participar des de la seva experiència. Actualment el projecte està publicat a [Github](http://github.com/gencat) i des d'aquest espai es poden fer totes les aportacions.
 
 També es poden fer suggeriments i altres propostes de millora al correu [xarxes@gencat.cat](mailto:xarxes@gencat.cat) i al perfil de Twitter [@gencat](http://twitter.com/gencat).

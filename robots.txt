@@ -1,4 +1,0 @@
-Sitemap: http://generalitat.github.io/guia/sitemap.xml
-
-User-agent: *
-Disallow: /img/

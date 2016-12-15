@@ -1,21 +1,3 @@
----
-layout: page
-title: Promocions
-permalink: /07-promocions/
----
-<!-- MarkdownTOC -->
-
-- [7. Promocions](#7-promocions)
-	- [7.1. Objectius](#71-objectius)
-	- [7.2. Públics](#72-públics)
-	- [7.3. Temps](#73-temps)
-	- [7.4. Canals](#74-canals)
-	- [7.5. Continguts](#75-continguts)
-	- [7.6. Com difondre els perfils corporatius](#76-com-difondre-els-perfils-corporatius)
-
-<!-- /MarkdownTOC -->
-
-<a name="7-promocions"></a>
 # 7. Promocions
 
 A vegades pot convenir que una publiació arribi més enllà de la seva comunitat mateixa. Per a aquests casos, la majoria d'eines socials ofereixen la possibilitat de promocionar una publicació. Aquesta opció, ben executada, és una manera més ràpida d'arribar a un major nombre de persones que no pas seguint les pautes d'edició habituals.
@@ -24,22 +6,18 @@ Cal que, quan es vulgui fer una promoció especial, es reflexioni sobre els prin
 
 Des del moment que s'informa del llançament de la campanya, la DGACD fa un seguiment de les etiquetes de les campanyes a Twitter que en aquells moments estigui coordinant, així com aportacions sobre els missatges, els continguts i les etiquetes que es poden usar.
 
-<a name="71-objectius"></a>
 ## 7.1. Objectius
 
 Convé tenir ben definit què es vol comunicar amb la promoció. Aquests objectius han d'anar alineats amb els del departament i amb l'estratègia integral de la unitat. Han de ser assumibles i que totes les persones de la unitat tinguin molt clara la finalitat de la campanya.
 
-<a name="72-públics"></a>
 ## 7.2. Públics
 
 Un cop s'han definit els objectius, és senzill de seleccionar el públic a qui s'adreça el perfil. És important delimitar-lo tant com es pugui. Hi ha diverses eines digitals que fan segmentacions molt minucioses.
 
-<a name="73-temps"></a>
 ## 7.3. Temps
 
 De la mateixa manera que es recomana segmentar el públic, també cal ser molt acurat amb la temporalitat de la campanya. És molt important llançar la campanya durant un període en què la ciutadania tingui més interès en els missatges que es volen promocionar.
 
-<a name="74-canals"></a>
 ## 7.4. Canals
 
 S'ha d'analitzar quins són els canals que millor s'ajusten a les necessitats de la unitat d'acord amb els punts anteriors. S'ha de tenir en compte que hi ha diferències demogràfiques importants entre una eina i una altra, fins i tot segons el tipus de contingut que es publica.
@@ -52,26 +30,22 @@ Per optimitzar els recursos, es proposen dos tipus de canals de promoció:
 
 	Aquesta coordinació institucional comporta un estalvi econòmic a la Generalitat i alhora reforça el missatge corporatiu. Un exemple seria la campanya Garantia Juvenil que aprofita la pàgina de Facebook de Joventut per fer arribar el seu missatge a un públic amb una franja d'edat concreta.
 
-![ Institucionals]({{ site.baseurl }}/img/7_1_institucional.png)
+![ Institucionals](/assets/img/7_1_institucional.png)
 
 - **De pagament**. Les plataformes també ofereixen l'opció de pagar per fer arribar la publicació a més gent. Es pot fer directament des del mateix entorn de gestió de cada eina. És important informar-ne la DGACD perquè coordini la campanya i així evitar coincidències de campanyes institucionals en el mateix moment.
 
-![ De pagament]({{ site.baseurl }}/img/7_2_pagament.png)
+![ De pagament](/assets/img/7_2_pagament.png)
 
-
-<a name="75-continguts"></a>
 ## 7.5. Continguts
 
 Finalment s'elaboren els continguts. Cal tenir present que bona part de la gent que segueix perfils a les xarxes socials ho fa  a través d'un dispositiu mòbil. Per això, els continguts han d'estar pensats des de bon començament perquè es puguin adaptar a qualsevol dimensió de pantalla. De la mateixa manera, es recomana elaborar missatges curts, senzills i visuals. Per a més recomanacions sobre l'elaboració de continguts, es pot llegir el capítol de la Guia "Generar continguts rellevants".
 
-
-<a name="76-com-difondre-els-perfils-corporatius"></a>
 ## 7.6. Com difondre els perfils corporatius
 
 A més de les promocions als espais socials, també es recomana fer difusió dels perfils oficials en altres suports. És bo enllaçar els perfils al web i al blog i també fer-ne difusió en els continguts informatius que s'editin, com poden ser fulls de mà, díptics o presentacions.
 
 En tots els casos les icones que s'han d'utilitzar són les que estableix el [Programa d'identificació visual de la Generalitat](http://www.gencat.cat/web/guies/estil/#estils1_1_9). Quan se'n faci difusió en suports on no sigui possible enllaçar el perfil, s'ha de fer servir la icona seguida del nom d'usuari: d'aquesta forma: *icona de la plataforma + @nomusuari*.
 
-![ Com difondre els perfils corporatius]({{ site.baseurl }}/img/7_3_promocions.jpg)
+![ Com difondre els perfils corporatius](/assets/img/7_3_promocions.jpg)
 
 
