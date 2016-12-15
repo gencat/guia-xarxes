@@ -1,0 +1,9 @@
+DGACD / @gencat / xarxes@gencat.cat
+---
+Jordi Graells / @jordigraells / jgraells@gencat.cat
+Dúnia Riera / @duniariera / driera@gencat.cat
+Miquel Àngel Simón / masimon@gencat.cat
+Sergi Xaudiera / @SergiXaudiera / sxaudiera@gencat.cat
+
+/* TOOLS */
+Made with: Jekyll, Sass

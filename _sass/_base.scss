@@ -1,0 +1,94 @@
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.container {
+    width: 860px;
+    @include media-query($on-palm) {
+        width: 95%;
+        text-align: justify;
+    }
+}
+
+.post img {
+    width: 90%;
+    text-align: center;
+}
+
+nav {
+    padding: 0;
+    margin-left: 0;
+}
+
+.top_bar {
+    background-color: #333;
+    min-height: 60px;
+    padding-top: 10px;
+    padding-left: 30px;
+}
+
+.subheader {
+    text-align: center;
+    min-height: 60px;
+    padding-top: 20px;
+}
+
+h1 {
+    //text-align: left;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    border-top: $border;
+}
+
+h1, h2, h4, h3 a{
+    color: $brand-color;
+}
+
+.main {
+    border-top: 2px solid #eee;
+    min-height: 80px;
+    margin-right: 20px;
+    padding-top: 30px;
+    line-height: 2em;
+}
+
+.post {
+    a {
+        color: $brand-color;
+    }
+    ul {
+        list-style: disc;
+    }
+}
+
+.sidebar {
+    border-top: 6px solid #eee;
+    min-height: 80px;
+    padding-top: 30px;
+}
+.bordejat {
+    margin-top: 40px;
+    border-top: 6px solid #eee;
+    min-height: 80px;
+}
+
+
+.peu {
+    margin-top: 40px;
+    background: #efefef;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-bottom: 70px;
+    border-top: 2px solid #ccc;
+
+}
+
+
+.avis {
+ display: table;
+    //padding-left: 40px;
+    font-size: .688em;
+    color: #999;
+    width: 75%;
+  }

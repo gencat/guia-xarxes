@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<section class="menu">
+	{% for post in site.posts reversed %}
+		<h3>{{ forloop.index }}. <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h3>
+  {% endfor %}
+</section>
+<hr>
+<section class="about"
+<p>La <b>Guia de xarxes socials de la Generalitat de Catalunya</b> estableix unes pautes comunes per a la presència homogènia de la Generalitat a les xarxes socials.
+
+<h3>Avís legal</h3>
+<p>La Generalitat de Catalunya permet la reutilització dels continguts i de les dades sempre que se citi la font i la data d'actualització, que no es desnaturalitzi la informació i que no es contradigui amb una llicència específica.</p>
+
+<h3>Propostes</h3>
+<p>La Guia és un instrument dinàmic i obert en el que tothom hi pot participar des de la seva experiència. Actualment el projecte està publicat a <a href="https://github.com/gencat/">github</a> des d'aquest espai es poden fer totes les aportacions. També ens podeu escriure a <a href="mailto:xarxes@gencat">xarxes@gencat.cat</a> i a <a href="http://twitter.com/gencat">@gencat</a></p>
+
+<h3>Canvis</h3>
+<p>Si vols consultar els canvis de cada revisió consulta <a href="/changelog">change log</a>  per a més informació.</p>
+</section>
+
