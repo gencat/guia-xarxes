@@ -2,14 +2,14 @@ Guia de xarxes socials de la Generalitat de Catalunya
 ---
 La [Guia de xarxes socials de la Generalitat de Catalunya](http://github.com/gencat/guia-xarxes) estableix unes pautes comunes per a la presència homogènia dels canals oficials en aquests espais.
 
-1 [Introducció](introduccio.md)  
-2 [La Generalitat a les xarxes](generalitat-xarxes.md)  
-3 [Primeres passes](primeres-passes.md)  
-4 [Eines](eines.md)  
-5 [Gestió de la comunitat](comunitat.md)  
-6 [Continguts rellevants](continguts.md)  
-7 [Promocions](promocions.md)  
-8 [Seguiment i avaluació](seguiment.md)  
+1. [Introducció](introduccio.md)  
+2. [La Generalitat a les xarxes](generalitat-xarxes.md)  
+3. [Primeres passes](primeres-passes.md)  
+4. [Eines](eines.md)  
+5. [Gestió de la comunitat](comunitat.md)  
+6. [Continguts rellevants](continguts.md)  
+7. [Promocions](promocions.md)  
+8. [Seguiment i avaluació](seguiment.md)  
 
 ## Contribueix
 Tens alguna suggerència o vols que parlem sobre la guia? Siusplau crear un *issue* a Github.  
