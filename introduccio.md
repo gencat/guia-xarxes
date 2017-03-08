@@ -10,11 +10,9 @@ L'accés a les xarxes socials mitjançant dispositius mòbils garanteix la parti
 
 Les xarxes socials:
 
-- Proporcionen respostes immediates al ciutadà, però aquí la informació oferta és útil també a altres persones amb la mateixa situació (es guanya temps i recursos). Tot això d'una manera més propera, ja que estem en un entorn habitual del ciutadà.
-
-- Per ampliar la informació oficial redirigeixen la gent cap al web corporatiu, o cap a un recurs acordat que tingui tant crèdit com la informació generada pels canals oficials.
-
-- Faciliten la creació de xarxes temàtiques d'usuaris que, al seu torn, produeixen coneixement fonamental i complementari perquè l'organització conegui els interessos i la informació que generen aquestes xarxes i els pugui tenir en compte per millorar els seus serveis.
+- Proporcionen respostes immediates al ciutadà, però aquí la informació oferta és útil també a altres persones amb la mateixa situació (es guanya temps i recursos). Tot això d'una manera més propera, ja que estem en un entorn habitual del ciutadà.  
+- Per ampliar la informació oficial redirigeixen la gent cap al web corporatiu, o cap a un recurs acordat que tingui tant crèdit com la informació generada pels canals oficials.  
+- Faciliten la creació de xarxes temàtiques d'usuaris que, al seu torn, produeixen coneixement fonamental i complementari perquè l'organització conegui els interessos i la informació que generen aquestes xarxes i els pugui tenir en compte per millorar els seus serveis.  
 
 La Guia de xarxes socials de la [Generalitat de Catalunya](http://gencat.cat) estableix unes pautes comunes per a la presència homogènia de la Generalitat a les xarxes socials.
 

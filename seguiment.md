@@ -12,15 +12,15 @@ Aquesta recollida centralitzada serveix per estandarditzar els valors i assegura
 
 ## 8.3. Informes
 
-La DGAC facilita regularment informes de seguiment a la persona responsable de cada perfil corporatiu. Aquests informes personalitzats s'envien a través d'una carpeta compartida. La persona responsable és l'encarregada de fer arribar l'informe a la resta d'editors del perfil per millorar-ne l'activitat.
+Els informes de seguiment de cada perfil són públics i oberts a tots els editors i a la ciutadania a través del web [http://activitat.serveisdigitals.gencat.cat](http://activitat.serveisdigitals.gencat.cat).
 
 La finalitat és agrupar les dades i presentar-les en diferents informes perquè sigui fàcil de rendir comptes amb els màxims responsables de la unitat.
 
-A més d'aquests informes, cada mes també es faciliten les dades en cru perquè totes les unitats que ho vulguin puguin elaborar els seus indicadors i informes.
+A més d'aquests informes, també es faciliten les dades en cru a través d'una API perquè totes les unitats i ciutadans que ho vulguin puguin elaborar els seus indicadors i informes.
 
-### 8.3.1. Fitxa mensual
+### 8.3.1. Fitxa inidividual
 
-Cada mes s'envia la fitxa resum de l'activitat a Twitter i una altra per a Facebook. En aquesta fitxa hi ha un resum de l'activitat durant el mes anterior i una evolució dels principals indicadors per cada una de les xarxes socials.
+Cada perfil té la fitxa resum de l'activitat dels seus canals. En aquesta fitxa hi ha un resum de l'activitat durant el mes anterior i una evolució dels principals indicadors per cada una de les xarxes socials.
 
 Pel que fa als continguts, hi apareixen els que més s'han compartit durant els darrers mesos. Això ajuda a veure en perspectiva quins funcionen millor per a cada una de les xarxes.
 
@@ -30,12 +30,6 @@ Pel que fa als continguts, hi apareixen els que més s'han compartit durant els 
 També es capturen dades de perfils similars a cada un dels que formen part de la solució coporativa per poder contextualitzar-ne els indicadors. Aquests perfils els proposa la persona responsable de cada compte a la DGAC a l'inici de tot el procés.
 
 La comparació de les dades ajuda a valorar l'activitat i alhora obliga a estar atents a l'activitat d'altres perfils i aprendre dels encerts.
-
-### 8.3.2. Informe d'audiència detallat
-
-![ Informe detallat](/assets/img/8_2_detallat.png)
-
-L'objectiu d'aquest document és facilitar una perspectiva del perfil als seus responsables. Aquest informe s'envia cada tres mesos per oferir un resum de la situació més ampli.
 
 Es divideix en tres apartats:
 

@@ -10,13 +10,31 @@ Una bona manera de seguir el que s'està dient sobre un tema d'interès és mitj
 
 ## 5.1. Consultes i altres aportacions dels usuaris
 
-Les mencions o al·lusions que ho requereixin s'han de respondre com més aviat millor. Es recomana que el temps de resposta sigui inferior a les dues hores. En el cas que la pregunta necessiti d'una recerca d'informació més avançada, cal informar el ciutadà que s'està treballant en la resposta.
-
 Les consultes es responen a través del canal on han estat formulades, sempre que no continguin informació sensible.
 
 En els casos en què calgui donar més informació, es pot remetre l'interlocutor a un perfil corporatiu més específic o a una bústia de correu electrònic.
 
 Les **respostes** han de ser comprensibles. Sempre que es pugui, la resposta ha de contenir el subjecte de la pregunta. Per exemple, si pregunten: "Quan s'obre el procés d'inscripcions universitàries?" S'ha de respondre: "El procés d'inscripcions universitàries s'obre el 25 de març". Amb aquest tipus de resposta s'incrementa la visibilitat del tuit i la contextualització en qualsevol espai.
+
+### Com interaccionar amb la ciutadania
+
+Les estratègies que utilitzin la plataforma com una via de comunicació unidireccional no quallaran, perquè ser a Twitter suposa evolucionar del monòleg al diàleg. I, en aquesta nova dinàmica que planteja la plataforma, tant emissor com receptor tenen les mateixes possibilitats d’interactuar. Qualsevol usuari pot dialogar amb influenciadors, polítics, famosos i personatges públics. Les institucions de govern, però, han d’aplicar a Twitter una política d’interacció sòlida, que tingui com a premissa que els perfils corporatius parlen en nom dels organismes que representen. En aquest sentit, és imprescindible disposar d’un protocol d’actuació a Twitter, que aclareixi els interrogants següents:  
+
+#### A qui seguir?
+
+Es recomana seguir sobretot perfils corporatius d’interès de l’àmbit o temàtica relacionada amb el departament, servei o marca en qüestió. És probable que aquests perfils retornin el seguiment i, d’aquesta manera, es començarà a crear una xarxa. Cal detectar també aquells usuaris o influenciadors que tenen més repercussió en les converses sobre la temàtica associada a cada perfil o sobre el govern i seguir aquells que, per la seva expertesa consolidada i contrastada, aporten informacions de qualitat. Si s’aconsegueix que es posicionin a favor de la institució, seran els millors divulgadors i prescriptors del compte de Twitter. Perquè el nivell de compromís és clau per incrementar els usuaris quantitativament però també perquè aquests usuaris fidelitzats siguin els millors prescriptors del compte (implicació qualitativa). El compromís implica guanyar i mantenir l’atenció del públic potencial d’una organització a través de la interacció entre aquesta institució i la seva comunitat.  
+
+#### A qui retuitejar?
+
+La prioritat dels comptes corporatius de governs i administracions públiques ha de ser generar continguts propis i, per tant, es recomana no abusar del retuit. No obstant això, es poden compartir els tuits d’altres comptes quan ho justifiqui l’interès de la informació o la seva vinculació directa amb l’àmbit temàtic del perfil corporatiu, i sempre que se n’hagi comprovat el rigor. En aquest sentit, es poden fer retuits dels missatges que emeten altres departaments governamentals, els actors públics relacionats (stakeholders) i organitzacions del tercer sector sense ànim de lucre. També de resultats d’investigacions i estadístiques de fonts oficials, esdeveniments de xarxes de negocis amb implicació governamental, informació sobre premis, esdeveniments d’interès general, dies internacionals, etc.  
+
+#### A qui mencionar?
+
+Les mencions només s’han d’utilitzar en casos justificats, com ara per respondre consultes d’usuaris concrets o per estalviar caràcters a l’hora de referir-se a algú en el cos del tuit. Cal evitar incloure sistemàticament mencions amb l’objectiu d’aconseguir retuits perquè es considera una mala pràctica. N’és una excepció la informació d’emergència, que justifica que es demani explícitament la màxima difusió i, per tant, el nombre més gran possible de retuits.  
+
+#### Com respondre?
+
+Si sabem que Twitter té molts avantatges en la comunicació institucional, també és cert que la insatisfacció de la ciutadania envers els poders públics se sol vehicular de manera molt evident per mitjà d’aquesta xarxa. Una de les característiques de Twitter és que amplifica emocions perquè el pretès anonimat a la xarxa fa que les persones l’utilitzin amb més llibertat, sense restriccions en el que manifesten. Quan, a través de tuits es formulen queixes o es qüestiona una decisió, sempre cal oferir una resposta. Si s’ignoren les interpel•lacions, es pot contribuir a incrementar el descontentament. La resposta a les consultes, queixes o suggeriments s’ha d’oferir en el termini més breu possible: es recomana que no sigui superior a dues hores. Sempre que sigui possible, la resposta ha de contenir el subjecte de la pregunta per incrementar la visibilitat del tuit i la seva contextualització en qualsevol espai. Per exemple, si la pregunta d’un usuari és “Quan s’obre el procés d’inscripcions universitàries?”, cal respondre “El procés d’inscripcions universitàries s’obre el 25 de març”.  
 
 ![ Gestionar la comunitat](/assets/img/5_gestionar_tuit_1.png)
 
@@ -37,25 +55,20 @@ Per norma general, s’han d’escriure amb el format següent:
 
 ## 5.2. Normes de participació
 
-Per a la bona comunicació en totes les eines socials de la Generalitat de Catalunya, s’estableixen unes normes mínimes de participació, de manera que es pugui dur a terme una conversa respectuosa, tolerant i fructífera amb la ciutadania.
+Per a la bona comunicació en totes les xarxes socials de la Generalitat de Catalunya, s'estableixen unes normes mínimes de participació, de manera que es pugui dur a terme una conversa respectuosa, tolerant i fructífera amb la ciutadania.  
 
-En totes les eines socials en què la Generalitat té presència hi ha la possibilitat que la ciutadania hi faci comentaris, que es publiquen si compleixen aquests requisits:
+La ciutadania hi pot fer comentaris si compleixen aquests requisits:  
 
-- Que siguin pertinents, és a dir, que no s’allunyin del tema tractat.
+- Són pertinents, és a dir, no s'allunyen del tema tractat.  
+- Mantenen el respecte i no ofenen ni atempten contra la dignitat d'altres persones.  
+- No contenen dades de caràcter personal.  
+- No tenen com a objectiu enganyar, desorientar o estafar la ciutadania.  
+- No violen cap llei de drets d'autoria i propietat intel·lectual.  
+- No és contingut promocional o brossa (spam).  
 
-- Que mantinguin el respecte i el bon clima i no ofenguin ni atemptin contra la dignitat d’altres persones.
+Els comentaris que no compleixin aquests requisits no seran publicats i els usuaris podran ser bloquejats.
 
-- Que no continguin dades de caràcter personal ni informació publicitària.
-
-- Que no tinguin com a objectiu enganyar, desorientar o estafar la ciutadania.
-
-- Que no violi qualsevol llei de drets d'autoria i propietat intel·lectual.
-
-- Que el contingut del missatge no sigui promocional o contingut brossa (*spam*).
-
-La Generalitat només es responsabilitza dels continguts que emet a través dels seus canals. Els responsables dels perfils de la Generalitat es reserven el dret de no publicar qualsevol aportació que no observi aquestes indicacions mínimes.
-
-Si un usuari incompleix reiteradament les normes de participació, pot ser bloquejat.
+La Generalitat només es responsabilitza dels continguts que emet a través dels seus canals.
 
 ## 5.3. Creació de xarxa
 

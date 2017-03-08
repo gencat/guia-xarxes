@@ -4,19 +4,18 @@ Les xarxes socials i els repositoris són eines dinàmiques que ajuden a millora
 
 Els perfils corporatius de la Generalitat a les xarxes socials són un actiu públic. La titularitat és de la Generalitat i, per aquesta raó, no hi figura el nom de la persona que té la responsabilitat d'editar els continguts del perfil. Per assegurar la perdurabilitat en el temps, els perfils s'obren a partir de correu electrònics genèrics de gencat. Pel mateix motiu, els editors del perfil publiquen els continguts fent ús d'eines que afegeixen seguretat i professionalitat al procés de gestió.
 
-El nom d'usuari en aquestes eines es forma a partir del nom propi de l'àmbit, servei o marca i afengint-hi el sufix **cat**. Per exemple @empresacat per al Departament d'Empresa i Ocupació o @salutcat pel Departament de Salut. Si el nom d'usuari ja es troba en ús, la Direcció General d'Atenció Ciutadana (DGAC) en decidirà un altre de més adient conjuntament amb la unitat responsable.
+El *nom d'usuari* en aquestes eines es forma a partir del nom propi de l'àmbit, servei o marca i afengint-hi el sufix **cat**. Per exemple @empresacat per al Departament d'Empresa i Coneixement o @salutcat pel Departament de Salut. Si el nom d'usuari ja es troba en ús, la Direcció General d'Atenció Ciutadana (DGAC) en decidirà un altre de més adient conjuntament amb la unitat responsable.
 
-L'avatar dels perfils el facilita la DGAC seguint les pautes del [Programa d'identificació visual](http://gen.cat/pivxarxes). L'avatar és una aproximació visual ràpida a un canal oficial de la Generalitat i, per això, la ciutadania ha de poder identificar fàcilment que aquell compte és d'un canal oficial. Per als organismes de la Generalitat, l'avatar està compost d'un fons gris i tipografia en vermell corporatiu. En els perfils de Govern i de les delegacions a l'exterior, el fons és blau corporatiu i les lletres en blanc.
+L'*avatar* dels perfils el facilita la DGAC seguint les pautes del [Programa d'identificació visual](http://identitatcorporativa.gencat.cat/ca/aplicacions/xarxes-socials/). L'avatar és una aproximació visual ràpida a un canal oficial de la Generalitat i, per això, la ciutadania ha de poder identificar fàcilment que aquell compte és d'un canal oficial. Per als organismes de la Generalitat, l'avatar està compost d'un fons gris i tipografia en vermell corporatiu. En els perfils de Govern i de les delegacions a l'exterior, el fons és blau corporatiu i les lletres en blanc.
 
 Per implementar les pautes d’identitat corporativa als comptes de Twitter de la Generalitat, la DGAC defineix els camps següents:
 
-- *El nom del compte amb l’estructura: nom del departament, servei o marca.Generalitat.* Per exemple 'Justícia. Generalitat'.
-
-- *El web de referència*, que ha de ser l'adreça (URL) de comunicació pròpia del departament, servei o marca. Preferiblament s'utilitzen els subdominis *gencat.cat*.
-
-- La *localització*: Catalunya per als organismes centrals. I la localització específica per a cada organisme extern.
-
-- Una *descripció breu* per a l’apartat Bio, que ha de constar de [nom del departament, servei o marca. Generalitat de Catalunya] i no ha de tenir més de 160 caràcters. Si no s’ha arribat al límit total de caràcters, cal posar el nom del departament, servei o marca també en anglès.
+- *Avatar*: el corporatiu seguint el programa d'identificació visual.
+- *Nom d'usuari*: nom del servei més el sufix "cat", màxim 15 caràcters.
+- *El nom d'usuari* del compte: nom del servei, primera lletra en majúscula.
+- *El web de referència*, que ha de ser l'adreça (URL) de comunicació pròpia del departament, servei o marca. Preferiblament s'utilitzen els subdominis *gencat.cat*.  
+- La *localització*: Catalunya per als organismes centrals. I la localització específica per a cada organisme extern.  
+- Una *descripció breu* per a l’apartat Bio, que ha de constar de [nom del departament, servei o marca. Generalitat de Catalunya] i no ha de tenir més de 160 caràcters. Si no s’ha arribat al límit total de caràcters, cal posar el nom del departament, servei o marca també en anglès.  Si s'escau també informarem de l'horari d'atenció del canal.
 
 ## 4.1 Twitter
 
@@ -28,11 +27,18 @@ Twitter és una plataforma de micromissatgeria per publicar missatges de text cu
 
 És una eina idònia per informar de nous serveis, referenciar informacions diverses (d’agenda, emergències, noves publicacions...) i  retransmetre esdeveniments. Però també és una eina per dialogar i col·laborar. En aquest sentit, els perfils de Twitter de la Generalitat de Catalunya han d’afavorir la conversa i interaccionar amb els usuaris.
 
+#### De què parlem a Twitter
+- Informació de servei i actualitat de l'organisme.  
+- Agenda i recordatoris de tràmits de la Generalitat i altres administracions públiques que puguin ser d'interès ciutadà.  
+- Difusió de continguts d'altres comptes corporatius de la Generalitat relacionats amb el nostre àmbit.  
+
 ### 4.1.2. Gestió dels comptes
 
 Els comptes es gestionen des de l’aplicació Tweetdeck. La DGAC obre els comptes de Twiter i designa un usuari que administra els editors del perfil. Aquest administrador és l'encarregat de donar permisos d'edició a les persones que gestionen el compte. Per accedir a Tweetdeck es fa a partir del perfil personal de Twitter de cada editor.
 
 En els dispositius mòbils es gestionen les publicacions des de l’aplicació oficial de Twitter aprofitant l’opció multicompte. La DGAC és l’encarregada de configurar-ne l’accés en el dispositiu mòbil a les persones editores dels comptes.
+
+Per millorar les prestacions que ofereix Tweetdeck en la seva versió d'escriptori es pot instal·lar l'extensió [Better Tweetdeck](https://github.com/eramdam/BetterTweetDeck) que integra la publicació directe d'emoticones i permet editar aspectes de presentació de Tweetdeck.
 
 ### 4.1.3. Aspectes de presentació
 
@@ -168,9 +174,13 @@ La pàgina és la solució corporativa escollida per als diferents departaments 
 
 La creació d'un perfil per a un departament o servei està fora de tot plantejament, ja que incompleix les normes d'ús de Facebook.
 
+#### De què parlem a Facebook.
+- Informació de servei i actualitat de l'organisme.
+- Continguts amb gran impacte visual, imatges, infografies i vídeos.
+
 ### 4.2.2. Gestió dels comptes
 
-Les pàgines de Facebook dels diferents departaments de la Generalitat són corporatives i les autoritza i configura la Direcció General d’Atenció Ciutadana i Difusió (DGAC). Els responsables dels departaments s’hi han de posar en contacte per obtenir una pàgina de Facebook amb l’avatar corresponent i les indicacions pel que fa a la pàgina i a la imatge corporativa.
+Les pàgines de Facebook dels diferents departaments de la Generalitat són corporatives i les autoritza i configura la Direcció General d’Atenció Ciutadana (DGAC). Els responsables dels departaments s’hi han de posar en contacte per obtenir una pàgina de Facebook amb l’avatar corresponent i les indicacions pel que fa a la pàgina i a la imatge corporativa.
 
 Facebook incorpora rols d’administrador de pàgines. La DGAC, que és l’òrgan encarregat d’obrir les pàgines, hi ha de constar com a administrador principal, mentre que els gestors de la pàgina són els autors de contingut. La tasca diària de publicació de continguts és a càrrec dels editors de cada pàgina.
 
@@ -232,19 +242,21 @@ Es pot trobar més informació a la [documentació oficial de Facebook](http://d
 
 La Generalitat de Catalunya disposa d’una plataforma de blogs corporativa que segueixen una mateixa plantilla i un mateix disseny que s’ajusten a les necessitats dels departaments.
 
-Cal tenir clar que el blog és una eina corporativa al servei del departament, per això, el perfil de redacció és corporatiu (és a dir, que l'usuari que genera els continguts ho fa des d'un perfil genèric). Amb tot, hi poden haver blogs en què els apunts vagin signats per nom i cognoms de persones (blogs de servei, de marca, etc.).
-
 L’objectiu del blog és difondre informació relacionada amb l’actualitat, sobre projectes dels departaments, sobre actes, etc. Els apunts es publiquen sovint per mantenir la conversa amb els lectors del blog. Per això resulta crucial planificar l'editorialització dels apunts, que han de ser textos interessants i dinàmics, que incentivin el debat i que estiguin relacionats amb l’activitat del departament, servei o marca.
 
 La intenció final, però, és que els apunts promoguin la participació de la gent. Per tant, serà necessari continuar la feina de redacció amb una bona difusió dels apunts mitjançant les eines de xarxa social de què es disposi. Posteriorment, es gestionaran els possibles comentaris. A continuació es detalla el procés de publicació d'apunts i de comentaris.
 
 ### 4.3.2. Gestió
 
-Els blogs es gestionen des de la plataforma de Wordpress, a la qual s'accedeix mitjançant una contrasenya.
+Els blogs dels diferents departaments de la Generalitat són corporatius i els autoritza i configura la Direcció General d’Atenció Ciutadana. Els responsables dels departaments s’hi han de posar en contacte per obtenir un blog i les indicacions pel que fa a la pàgina i a la imatge corporativa. Una vegada es notifica l'aprovació d'obertura del blog, el responsable d'aquest ha de facilitar a la DGAC l'informació dels editors del blog. Llavors serà la DGAC l'encarregada d'assignar el permisos d'edició a les persones responsables.
 
 ### 4.3.3. Aspectes de presentació
 
 Els blogs oficials de la Generalitat de Catalunya utilitzen la plantilla corporativa dissenyada expressament per Wordpress. Aquesta plantilla permet la personalització de la imatge de capçalera per a cada blog.
+
+En cas que s'opti per una imatge de capçalera aquesta ha de ser de 1500px d'amplada per 190px d'alt. Cal tenir en compte que la plantilla adaptativa del blog permet una millor visualització en qualsevol dispositiu, és per això que es recomana que la part principal de la imatge tingui un ampla màxim de 800px i estigui centrat a la imatge.
+
+![ Blog](/assets/img/4_3_2.png)
 
 ### 4.3.4. Continguts
 
@@ -256,29 +268,7 @@ Per exemple, els apunts del gencat blog informen sobre projectes de la Generalit
 
 La recomanació general és publicar un apunt per setmana o setmana i mitja (o més), ja que és la mesura justa per deixar temps per a lectura i possibles comentaris dels usuaris. En aquest sentit, és més important la qualitat que la quantitat.
 
-Així mateix, caldrà valorar quines hores i quins dies són més oportuns per a la publicació i difusió dels apunts segons el comportament de la xarxa que alimenti el blog en qüestió. D’aquesta manera, s’aconseguirà la màxima propagació de l’apunt a través de les diverses eines de xarxa social.
-
-#### Pautes d’estil
-
-El text ha de tenir unes 300 paraules i els paràgrafs han de ser breus i concisos, Es poden distribuir en dos nivells de lectura. En el primer nivell se sintetitza la informació principal i en el segon s’hi exposa la informació  addicional (ampliació i detalls). Però cada cop és més freqüent escriure un text curt i publicar-lo com un sol nivell, per facilitar-ne la lectura des d'aparells mòbils.
-
-#### Organització de la informació
-
-**Títols**
-
-Caldrà prioritzar els titulars informatius, és a dir, els que expliquen el contingut de l’apunt de manera sintètica. Han de ser atractius, però mai no s’han de desmarcar del registre formal.
-
-**Primer nivell de lectura**
-
-S’utilitzen estructures (preguntes retòriques, sentències, etc.) que convidin a reflexionar. Els paràgrafs han de ser més explicatius i cal tenir en compte que han de ser breus; és bàsic saber resumir la informació al màxim. Així mateix, s’aconsella acabar amb una frase que convidi a seguir llegint el segon nivell, si n'hi ha.
-
-**Segon nivell de lectura**
-
-S’hi recull la informació addicional, és a dir, els detalls que permeten ampliar el contingut inicial però que no són essencials per fer-se una idea general de l’apunt. No és necessari fer una conclusió final en forma de resum; cal recordar que es publica en l’entorn d’internet i, si no es prioritza la informació important al començament, l’usuari pot abandonar la pàgina i no seguir llegint. En altres paraules, si hi ha dos nivells de lectura, el resum o informació important ha d’anar al primer nivell i no al segon. Es tracta d’oferir a l’usuari les claus bàsiques del text als primers paràgrafs perquè pugui decidir si li interessa el tema o no. És interessant que quan se citi un concepte, nom propi o terme que pot ser desconegut pel lector s’enllaci a una font de confiança on poder ampliar informació (fonts pròpies de la Generalitat, diccionaris o llocs web amb garanties com la Viquipèdia [ca.wikipedia.org](http://ca.wikipedia.org)).
-
-**Imatges**
-
-Per fer els apunts més atractius, és recomanable il·lustrar-los amb imatges. Cal conèixer els drets de propietat intel·lectual de les imatges que s’utilitzen per il·lustrar els apunts, tant si són propietat de la Generalitat com si pertanyen a terceres persones. Si és així, és necessari aconseguir-ne la cessió dels drets. Podem obtenir imatges amb llicència Creative Commons [cat.creativecommons.org](http://cat.creativecommons.org) a diferents repositoris d’internet. Són imatges amb llicències que protegeixen els drets  d’autoria, però que autoritzen usos per part de terceres persones (còpia, distribució, comunicació, transformació). Tanmateix, poden resultar molt útils imatges de repositoris de domini públic com ara [pixabay.com](http://pixabay.com).
+Així mateix, caldrà valorar quines hores i quins dies són més oportuns per a la publicació i difusió dels apunts segons el comportament de la xarxa que alimenti el blog en qüestió. D’aquesta manera, s’aconseguirà la màxima propagació de l’apunt a través de les diverses eines de xarxa social. 
 
 #### Difusió
 
@@ -288,13 +278,37 @@ Quan es publica un apunt nou al blog, se’n fa difusió a Facebook i Twitter. P
 
 Es recomana enllaçar al blog des del web corporatiu, per tal de fer-lo visibile per a tots els usuaris.
 
-## 4.4 Repositoris
+## 4.4. Instagram
+
+![ Instagram](/assets/img/4_4.png)
+
+### 4.4.1. Descripció
+Instagram permet els usuaris publicar, veure i compartir imatges i vídeos. La seva facilitat d'ús ha permès que es consideri la principal plataforma on compartir imatges. Els joves són els principals usuaris d'aquesta eina.
+ 
+### 4.4.3. Gestió dels comptes
+ 
+Els canals d'Instagram de la Generalitat són corporatius i els autoritza i configura la Direcció General d’Atenció Ciutadana (DGAC). Els responsables dels organismes s’hi han de posar en contacte per obtenir un canal corporatiu.
+
+Els canals d'Instagram de la Generalitat de Catalunya es creen des de correus electrònics de gencat. Per gestionar-los, es configura (presencialment) els accessos al canal des  del dispositiu mòbil dels editors.
+
+### 4.4.3. Aspectes de presentació
+L'avatar del canal d'Instagram serà el definit en el programa d'identificació visual de la Generalitat de Catalunya.
+
+### 4.4.4. Continguts
+
+Les imatges publicades a Instagram poden ser d'actes, rodes de premsa, campanyes de difusió i del dia a dia del servei. Es recomana publicar imatges amb bona resolució acompanyades d'un comentari i etiquetes.
+
+Es recomana una publicació de continguts regular sense excedir-se en la publicació. S'hauria de reservar la publicació als dies en què realment hi hagi contingut interessant intentant, quan sigui possible, no publicar el mateix més d'una imatge.
+
+## 4.5 Repositoris
 
 A vegades la informació de les xarxes socials s'acompanya amb continguts més complexos que el text planer. Per integrar fàcilment aquests continguts amb les altres eines, cal publicar-los prèviament en els repositoris oficials: vídeos a Youtube, imatges a Flickr i documents o presentacions a Slideshare.
 
+La presència de la Generalitat en aquests entorns es centralitza en el canal @gencat, a menys que se n'autoritzi un d'específic per motius excepcionals. Amb aqueta presència centralitzada es potència la visibilitat dels continguts, agrupant en un sol espai, i aprofitant la major difusió dels principals canals corporatius.   
+
 Aquests repositoris oficials complementen les funcions del BIG (Banc Iconogràfic de la Generalitat), especialment pel que fa a la difusió i visibilitat dels continguts. En tots els casos cal fer servir el BIG com a arxiu documental audiovisual i publicar en els repositoris aquells continguts a què volem donar més difusió.
 
-### 4.4.1 Youtube
+### 4.5.1 Youtube
 
 ![ Youtube](/assets/img/4_4_1_youtube.png)
 
@@ -306,11 +320,13 @@ Youtube és una plataforma que permet als usuaris publicar, veure i compartir v�
 
 #### Gestió dels comptes
 
-Els canals de Youtube dels diferents departaments de la Generalitat són corporatius i els autoritza i configura la Direcció General d’Atenció Ciutadana i Difusió (DGAC). Els responsables dels departaments s’hi han de posar en contacte per obtenir un canal corporatiu.
+Els canals de Youtube dels diferents departaments de la Generalitat són corporatius i els autoritza i configura la Direcció General d’Atenció Ciutadana (DGAC). Els responsables dels departaments s’hi han de posar en contacte per obtenir un canal corporatiu.
 
-Els comptes de Youtube de la Generalitat de Catalunya es creen des de correus electrònics de gencat. Per gestionar-los, es deixa una sessió oberta del perfil de Youtube corresponent en una versió del Firefox portable. Cal, però, parar atenció per no tancar mai la sessió quan se surti del Firefox i així evitar perdre les claus d’accés.
+Els comptes de Youtube de la Generalitat de Catalunya es creen des de correus electrònics de gencat. Per publicar un nou vídeo, s'ha d'enviar un correu electrònic a **xarxes@gencat.cat** amb:
 
-No és recomanable vincular el compte de Youtube amb el de Facebook o Twitter. És preferible controlar manualment la difusió de vídeos a d’altres xarxes socials, de manera que el contingut relacionat amb el que s'hi publica s’adapti a cada xarxa.
+- El vídeo a publicar.  
+- Informació del vídeo: títol, descripció i etiquetes.  
+- Suggerir llistes on publicar el vídeo.  
 
 #### Aspectes de presentació
 
@@ -319,7 +335,7 @@ Pel que fa a la imatge de capçalera, cada departament, organisme o marca la pot
 #### Continguts
 El web de Youtube permet classificar els vídeos per llistes de reproducció i es pot escollir quina llista es vol que es reprodueixi o quin vídeo volem que aparegui com a destacat dins l'apartat *Vídeos i llistes de reproducció*.
 
-Quan es publica un vídeo, cal posar-li un títol i una descripció. A més, també s'ha d'emplenar el camp *Etiquetes* amb paraules clau que facin referència al vídeo en qüestió per facilitar-ne la cerca. És molt important no oblidar de completar adequadament tots aquests camps, ja que aquestes dades són les que utilitzen els cercadors per classificar els continguts. Una bona optimització per a cercadors és molt important per a la visibilitat dels continguts.
+Quan es publica un vídeo, cal posar-li un títol i una descripció. A més, també s'ha d'emplenar el camp *Etiquetes* amb paraules clau que facin referència al vídeo en qüestió per facilitar-ne la cerca. És molt important no oblidar de completar adequadament tots aquests camps, ja que aquestes dades són les que utilitzen els cercadors per classificar els continguts. Una bona optimització per a cercadors és molt important per a la visibilitat dels continguts.  
 
 També és important fixar-se amb la imatge en miniatura que queda com a presentació del vídeo. En cas que no agradi, Youtube permet editar-la i fins i tot canviar-la. La imatge de presentació dels vídeos és molt rellevant i un factor important per augmentar la visibilitat dels vídeos.
 
@@ -327,7 +343,7 @@ També és important fixar-se amb la imatge en miniatura que queda com a present
 
 La forma més habitual d'integrar Youtube en altres llocs serà a partir de la incrustació d'algun dels continguts en altres mitjans com webs o blogs. Això permet als lectors poder gaudir del recurs sense haver d'anar a un altre web, així s'evita que el lector es perdi i s'optimitza el nombre de clics.
 
-### 4.4.2 Flickr
+### 4.5.2 Flickr
 
 ![ Flickr](/assets/img/4_4_2_flickr.png)
 
@@ -339,9 +355,11 @@ Aquesta eina és especialment útil quan volem compartir imatges d'alta resoluci
 
 #### Gestió dels comptes
 
-Els canals de Flickr dels diferents departaments de la Generalitat són corporatius i els autoritza i configura la Direcció General d’Atenció Ciutadana i Difusió (DGAC). Els responsables dels departaments s’hi han de posar en contacte per obtenir un compte amb l’avatar corresponent i les indicacions pel que fa al canal i a la imatge corporativa. Per gestionar els comptes de Flickr de la Generalitat de Catalunya, es deixa una sessió oberta del perfil corresponent en una versió del Firefox portable.
+Els canals de Flickr dels diferents departaments de la Generalitat són corporatius i els autoritza i configura la Direcció General d’Atenció Ciutadana (DGAC). Els responsables dels departaments s’hi han de posar en contacte per obtenir un compte amb l’avatar corresponent i les indicacions pel que fa al canal i a la imatge corporativa. Per publicar imatges, s'ha d'enviar un correu electrònic a **xarxes@gencat.cat** amb:
 
-Això permet pujar fotos i afegir el títol, descripció, etiquetes i ordenar-les en àlbums que després seran visibles des del web de Flickr.
+- Les imatges publicar.  
+- Informació de les imatges: títol, descripció i etiquetes.  
+- Suggerència de l'àlbum on publicar les imatges.   
 
 #### Aspectes de presentació
 
@@ -359,7 +377,7 @@ La llicència Creative Commons referida al domini públic serà la llicència pe
 
 La forma més habitual d'integrar Flickr en altres llocs és a partir de la incrustació d'algun dels continguts en els blogs corporatius. Es pot incrustar com una part del contingut d'un apunt del blog, però també es poden activar ginys a la barra lateral que permeten accedir a la galeria de Flickr des del blog del departament, servei o marca.
 
-### 4.4.3 Slideshare
+### 4.5.3 Slideshare
 
 ![ Sliedshare](/assets/img/4_4_3_sl.png)
 
@@ -369,7 +387,10 @@ La forma més habitual d'integrar Flickr en altres llocs és a partir de la incr
 
 #### Gestió dels comptes
 
-Els comptes d’Slideshare de la Generalitat de Catalunya es creen des de correus electrònics de gencat. Per gestionar-los es deixarà una sessió oberta del perfil d’Slideshare corresponent en una versió de Firefox portable. Aquesta aplicació permet accedir als continguts d’Slideshare del nostre compte sense haver d’accedir al lloc web d’Slideshare; funciona d’una manera molt semblant a la lògica d’un client FTP. Permet pujar presentacions i afegir el títol, descripció i etiquetes, que després seran visibles des del web d’Slideshare.
+Els comptes d’Slideshare de la Generalitat de Catalunya es creen des de correus electrònics de gencat. Per publicar una nova presentació, s'ha d'enviar un correu electrònic a **xarxes@gencat.cat** amb:
+
+- La presentació publicar.  
+- Informació de la presentació: títol, descripció i etiquetes.   
 
 #### Aspectes de presentació
 
@@ -387,41 +408,16 @@ La forma més habitual d'integrar Slideshare en altres llocs és incrustant algu
 
 D'aquesta manera, s’evita que el lector es perdi i s’optimitza el nombre de clics necessaris.
 
-### 4.4.4 Wikiloc
+### 4.5.4 Wikiloc
 
 Wikiloc és una aplicació web i mòbil on es poden emmagatzemar i compartir rutes georeferencides (especialment en gps) i punts d'interès de tot el món.
 
+La presència oficial de la Generalitat de Catalunya a Wikiloc es vehicula mitjançant el compte ORG @gencat que gestiona la Direcció General d'Atenció Ciutadana. Tota unitat interessada en publicar-hi una nova ruta ha de contactar amb la DGAC.
+
 La gestió dels comptes d'aquesta eina la duu la mateixa plataforma, que hi posa l'avatar oficial establert per la Generalitat. El departament, servei o marca interessat a incorporar-hi una ruta pot editar l'apartat de *bio*, que no té límit d'extensió. Abans de publicar-les a Wikiloc, la Generalitat es compromet a obrir les dades d'aquestes rutes (com a mínim les pistes i, si se'n tenen els drets d'autoria, les imatges i el text) en el portal [dadesobertes.gencat.cat](http://dadesobertes.gencat.cat) perquè tothom que hi estigui interessat les pugui descarregar i reutilitzar.
 
-### 4.4.5 Altres repositoris
+### 4.5.5. Linkedin
 
-Per necessitats específiques del servei, algunes unitats fan servir altres eines com a repositoris oficials.
+LinkedIn és una xarxa social orientada als professionals i els negocis. La presència de la Generalitat a Linkedin es dur a terme a partir de la pàgina oficial de la Generalitat de Catalunya. Només en casos excepcionals, en què es valori que és imprescindible una presència independent a Linkedin, s'autoritzarà l'obertura d'una nova pàgina.
 
-L'obertura i gestió d'aquests canals correspon a cada departament. No es pot obrir un perfil sense notificar-ho prèviament a la DGAC. Una vegada obert el canal, s'ha d'informar la DGAC de les dades d'accés i de qualsevol canvi que hi pugui haver.
-
-Els responsables dels comptes han de demanar a la DGAC l’avatar oficial que els correspon i que ha d’il·lustrar el seu perfil.
-
-#### Instagram
-
-Aplicació mòbil de captura, retoc i publicació d'imatges. Molt popular entre el públic jove per la seva senzillesa i fàcil actualització.
-
-#### Linkedin
-
-Plataforma d’interacció de professionals que intercanvien experiències per millorar la seva praxi laboral.
-
-#### Diigo
-
-Similar a Delicious. És un servei de marcadors socials en línia que permet afegir enllaços i compartir-los, subratllar textos d’un web, guardar imatges i documents, etc.
-
-#### Issu
-
-Aplicació dinàmica gratuïta per publicar documents perquè puguin ser visualitzats. És una eina idònia per mostrar les publicacions d’una institució.
-
-#### Storify
-
-Permet crear històries o fils argumentals recuperant tuits, fotos o altres materials de la Xarxa mitjançant cerques.
-
-#### Soundcloud
-
-Aplicació que permet la publicació de continguts sonors, la reproducció i compartició a la Xarxa.
-
+Per publicar un contingut a la pàgina de la Generalitat s'haurà d'enviar a la DGAC una proposta dels continguts i data de publicació, i la DGAC serà l'encarregada de calendaritzar-ne la publicació i difusió.

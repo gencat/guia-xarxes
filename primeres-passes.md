@@ -1,6 +1,6 @@
 # 3. Primeres passes
 
-L'obertura d'un nou perfil oficial a les xarxes socials es duu a terme en paral·lel entre la Direcció General d'Atenció Ciutadana (DGAC) i la unitat que el demana. Cal que el nou perfil resolgui necessitats comunicatives de la unitat envers la ciutadania i que alhora encaixi dins l'estratègia comunicativa global de la Generalitat. És per això que es demana un procés previ de reflexió abans de sol·licitar-ne l'obertura.
+L'obertura d'un nou perfil oficial a les xarxes socials es duu a terme en paral·lel entre la Direcció General d'Atenció Ciutadana (DGAC) i el servei que el demana. Cal que el nou perfil resolgui necessitats comunicatives de la unitat envers la ciutadania i que alhora encaixi dins l'estratègia comunicativa global de la Generalitat. És per això que es demana un procés previ de reflexió abans de sol·licitar-ne l'obertura.
 
 ## 3.1. Tasques prèvies a la sol·licitud oficial
 
@@ -46,8 +46,6 @@ Abans d'obrir el perfil, cal que les persones editores elaborin una llista de 20
 
 S'ha d'enviar a la DGAC el [formulari](http://identitatcorporativa.gencat.cat/web/.content/Documentacio/pdf/autorit_web.pdf) de sol·lictud d'alta d'un nou perfil a les xarxes socials, que ha de signar el secretari general del departament corresponent.
 
-Si el departament decideix que el nou perfil no formi part de la primera anella i que formi part de la segona (tal com es descriu en el capítol "2.La Generalitat de Catalunya a les xarxes socials", no cal enviar el fomulari d'alta a la DGAC.
-
 Aquest requisit obliga la persona responsable de la unitat i la responsable de xarxes del departament a parlar amb anterioritat sobre la idoneitat del perfil dins l'estratègia comunicativa del departament.
 
 Un cop el formulari arriba a la DGAC, es convoca la persona responsable de la unitat i la responsable del departament a una reunió. Cal que la unitat sol·licitant tingui molt clars els aspectes previs a l'obertura del perfil.
@@ -60,17 +58,17 @@ La DGAC és l'encarregada de l'obertura, configuració i adaptació del perfil. 
 
 La unitat sol·licitant ha d'informar la DGAC de:
 
-- Les dades de la persona responsable del perfil (nom, cognom, correu, telèfon).
-- Les dades de tots els editors dels perfils (nom, cognom, correu, usuari de Twitter, correu amb què accedeix a Facebook).
-- El correu del compte de Dropbox amb què es compartirà la carpeta de mètriques.
-- Els cinc perfils similars amb què es poden comparar per als informes de seguiment.
-- La data prevista de publicació dels primers continguts.
+- Les dades de la persona responsable del perfil (nom, cognom, correu, telèfon).  
+- Les dades de tots els editors dels perfils (nom, cognom, correu, usuari de Twitter, correu amb què accedeix a Facebook).  
+- El correu del compte de Dropbox amb què es compartirà la carpeta de mètriques.  
+- Els cinc perfils similars amb què es poden comparar per als informes de seguiment.  
+- La data prevista de publicació dels primers continguts.  
 
 Per la seva banda, la DGAC:
 
-- Dóna permisos d'edició a les persones de qui el responsable ha informat.
-- Configura les eines intermèdies (Tweetdeck) per facilitar l'edició dels continguts.
-- Afegeix el responsable del perfil a la comunitat de professionals (CoP) de xarxes socials de la Generalitat.
-- Dóna d'alta totes les persones editores a la llista de distribució de continguts gencat.
-- Fa difusió del nou perfil als canals corporatius de la Generalitat.
+- Dóna permisos d'edició a les persones de qui el responsable ha informat.  
+- Configura les eines intermèdies (Tweetdeck) per facilitar l'edició dels continguts.  
+- Afegeix el responsable del perfil a la comunitat de professionals (CoP) de xarxes socials de la Generalitat.  
+- Dóna d'alta totes les persones editores a la llista de distribució de continguts gencat.  
+- Fa difusió del nou perfil als canals corporatius de la Generalitat.  
 

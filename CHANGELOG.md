@@ -6,6 +6,11 @@ permalink: /changelog/
 # Change log
 Tots els canvis que anem introduint a cada una de les noves revisions de la Guia.
 
+## [0.8] - 2017-03-08
+## Nou
+
+## Modificat
+
 ## [0.7] - 2015-06-19
 ## Nou
 - Nova organització dels capítols.
