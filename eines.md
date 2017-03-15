@@ -325,8 +325,8 @@ Els canals de Youtube dels diferents departaments de la Generalitat són corpora
 Els comptes de Youtube de la Generalitat de Catalunya es creen des de correus electrònics de gencat. Per publicar un nou vídeo, s'ha d'enviar un correu electrònic a **xarxes@gencat.cat** amb:
 
 - El vídeo a publicar.  
-- Informació del vídeo: títol, descripció i etiquetes.  
-- Suggerir llistes on publicar el vídeo.  
+- Informació del vídeo: títol, descripció, categoria i etiquetes.    
+- Suggerir llistes de reproducció on publicar el vídeo.  
 
 #### Aspectes de presentació
 
