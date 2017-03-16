@@ -1,6 +1,6 @@
 # 7. Promocions
 
-A vegades pot convenir que una publiació arribi més enllà de la seva comunitat mateixa. Per a aquests casos, la majoria d'eines socials ofereixen la possibilitat de promocionar una publicació. Aquesta opció, ben executada, és una manera més ràpida d'arribar a un major nombre de persones que no pas seguint les pautes d'edició habituals.
+A vegades pot convenir que una publicació arribi més enllà de la seva comunitat mateixa. Per a aquests casos, la majoria d'eines socials ofereixen la possibilitat de promocionar una publicació. Aquesta opció, ben executada, és una manera més ràpida d'arribar a un major nombre de persones que no pas seguint les pautes d'edició habituals.
 
 Cal que, quan es vulgui fer una promoció especial, es reflexioni sobre els principals aspectes de la campanya i se n'informi la Direcció General d'Atenció Ciutadana (DGAC), que s'encarrega de coordinar totes les campanyes que es duen a terme en el conjunt de la Generalitat. És poc recomanable que coincideixin en el temps i en l'espai diferents campanyes ja que es restarien visibilitat.
 

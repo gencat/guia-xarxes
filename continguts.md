@@ -2,7 +2,7 @@
 
 Les xarxes socials exigeixen continguts especials de qualitat. S'ha d'aportar un valor a la ciutadania i no limitar-se a publicar el titular i l'enllaç a les notes de premsa. Per generar continguts rellevants per a la ciutadania, cal dedicar-hi temps i recursos.
 
-El tipus de contingut rellevant és diferent per a cada departament, servei o marca i fins i tot serà diferent segons la temàtica del contingut. Per això, és dificil extrapolar unes pautes generals que funcionin a tots els perfils de la Generalitat. Es recomana provar diferents estratègies de continguts i mesurar-ne l'efectivitat.
+El tipus de contingut rellevant és diferent per a cada departament, servei o marca i fins i tot serà diferent segons la temàtica del contingut. Per això, és difícil extrapolar unes pautes generals que funcionin a tots els perfils de la Generalitat. Es recomana provar diferents estratègies de continguts i mesurar-ne l'efectivitat.
 
 El mòbil és el principal dispositiu des d'on la ciutadania consulta els continguts publicats a xarxes. Cal tenir en compte les singularitats del mitjà i adaptar-hi tots els continguts que es publiquin.
 
@@ -44,7 +44,7 @@ Pautes per redactar continguts:
 
 - Informació clara, concisa, persuasiva i creïble. També útil, urgent, única, ultraespecífica.
 
-- Fer ús del relat de marca (*storytelling*) en les publicacions, és a dir, recrear històries que il·lustrin la informació o el missatge que es vol transmetre per aconseguir l’atenció dels usuaris. Aquest estil de redacció s’ha de correspondre amb un rol més actiu de la persona seguidora de la pàgina, tendint a fer que se’n senti partícip en tot moment. Aquest nivell d’implicació amb l’usuari varia segons la xarxa social de què es tracti.
+- Fer ús del relat de marca (*storytelling*) en les publicacions, és a dir, recrear històries que il•lustrin la informació o el missatge que es vol transmetre per aconseguir l’atenció dels usuaris. Aquest estil de redacció s’ha de correspondre amb un rol més actiu de la persona seguidora de la pàgina, tendint a fer que se’n senti partícip en tot moment. Aquest nivell d’implicació amb l’usuari varia segons la xarxa social de què es tracti.
 
 ![ Continguts rellevants](/assets/img/6_cnt_8.png)
 
@@ -68,7 +68,7 @@ Aspectes a tenir en compte en l'editorialització de continguts:
 
 - Ús dels informes de seguiment que facilita la DGAC per conèixer els millors dies i hores per publicar. És important identificar les franges de màxim interès en la temàtica del perfil, ja que és diferent per a cada unitat. Hi ha franges de més interès per cada tipus de contingut. Per exemple, els continguts recurrents és important que sempre es publiquin a la mateixa hora.
 
-- La publicació programada és una bona eina però s'ha de tenir un control del que es publicarà i la possibilitat d'accedir a modifcar-la. Cal anar amb compte perquè un missatge programat en segons quin context pot ser l'origen d'una crisi.
+- La publicació programada és una bona eina però s'ha de tenir un control del que es publicarà i la possibilitat d'accedir a modificar-la. Cal anar amb compte perquè un missatge programat en segons quin context pot ser l'origen d'una crisi.
 
 ## 6.4. Freqüència de publicació
 
@@ -82,7 +82,7 @@ Com a recomanació general s'aconsella publicar mensualment uns 150 tuits i unes
 
 Actualment les emoticones i els emojis són de gran utilitat per comunicar de manera gràfica idees i conceptes. L'ús i acceptació ha incrementat amb l'augment dels dispositius mòbils com a principal eina de comunicació ciutadana. 
 
-Els missatges han de ser senzills, curts i visuals, adaptats al context d'ús. Convé evitar l'ús de fórmules pròpies d'un registre molt col·loquial, sense emfasitzar, ni escriure amb majúscules. És clau que el missatge sigui clar i atractiu, fent ús de recursos lingüístics, acompanyant-los d'imatges i, aprofitant la galeria que ofereix Telegram, incorporant emoticones que afegeixen un to desenfadat que connecta amb la part més emocional. Les emoticones actuen com a complement del text però no el substitueixen.  
+Els missatges han de ser senzills, curts i visuals, adaptats al context d'ús. Convé evitar l'ús de fórmules pròpies d'un registre molt col•loquial, sense emfasitzar, ni escriure amb majúscules. És clau que el missatge sigui clar i atractiu, fent ús de recursos lingüístics, acompanyant-los d'imatges i, aprofitant la galeria que ofereix Telegram, incorporant emoticones que afegeixen un to desenfadat que connecta amb la part més emocional. Les emoticones actuen com a complement del text però no el substitueixen.  
 
 ![ Continguts rellevants](/assets/img/6_cnt_10.png)
 
@@ -92,16 +92,16 @@ Hi ha diferents opcions per retransmetre vídeo en directe. Les xarxes socials i
 
 Abans de començar una retransmissió de vídeo en directe cal que l'anunciem i informem de l'enllaç des d'on seguir-la entre els nostres seguidors. A més es recomana fomentar l'ús d'etiquetes relacionades amb l'emissió per tal de fomentar la participació ciutadana i augmentar-ne la difusió.  
 
-### Les plataformes recomenades per emetre vídeo en directe són:
+### Les plataformes recomanades per emetre vídeo en directe són:
 
 - Youtube, permet emetre vídeos en directe i publicar-los al canal una vegada hem acata l'emissió.  
-- Periscope, per començar emetre només cal instal·lar l'aplicació en un dispositiu on hi hagi el perfil corporatiu de Twitter configurat. Una vegada accedim a l'aplicació emetre és tant senzill com clicar un botó.  
+- Periscope, per començar emetre només cal instal•lar l'aplicació en un dispositiu on hi hagi el perfil corporatiu de Twitter configurat. Una vegada accedim a l'aplicació emetre és tant senzill com clicar un botó.  
 - Facebook, aprofitant l'audiència de la pàgina podem publicar una nova publicació amb un vídeo en directe.  
 
 ### Consideracions a tenir en compte: 
 
-- Tot i que emetre vídeo en directe és tècnicament senzill, es recomana considerar els recuros i necessitats de l'emissió.  
-- La camara del dispositu d'enregistrament (principalment el mòbil) és rellevant per la qualitat del contingut audiovisual.  
+- Tot i que emetre vídeo en directe és tècnicament senzill, es recomana considerar els recursos i necessitats de l'emissió.  
+- La càmera del dispositiu d'enregistrament (principalment el mòbil) és rellevant per la qualitat del contingut audiovisual.  
 - Si l'emissió és llarga cal disposar d'un trípode.  
 - Si es desitja emetre de manera més professional o afegir efectes es recomana utilitzar OBS (programari de codi obert i gratuït) [OBS](https://obsproject.com).  
 

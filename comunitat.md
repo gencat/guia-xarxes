@@ -42,16 +42,16 @@ Les **mencions** a Twitter només s’han d’utilitzar en casos justificats, co
 
 ![ Gestionar la comunitat](/assets/img/5_gestionar_tuit_2.png)
 
-Els **retuits** són tuits d’altres persones usuàries que tornen a publicar per col·laborar a la conversa. Perquè els altres usuaris puguin retuitejar-los, els tuits han de tenir uns 125-130 caràcters com a màxim (segons la llargada del nom del perfil).
+Els **retuits** són tuits d’altres persones usuàries que tornen a publicar per col•laborar a la conversa. Perquè els altres usuaris puguin retuitejar-los, els tuits han de tenir uns 125-130 caràcters com a màxim (segons la llargada del nom del perfil).
 
 Per norma general, s’han d’escriure amb el format següent:
 
 ![ Gestionar la comunitat](/assets/img/5_gestionar_tuit_3.png)
 
 	RT + @nomdelperfilretuitejat + text + enllaç escurçat + #etiqueta
-	RT @tecnimap2010. Tota l’actualitat de l’esdeveniment a Facebook  bit.ly/9SBfzF #tecnimap)
+	RT @tecnimap2010. Tota l’actualitat de l’esdeveniment a Facebook  bit.ly/9SBfzF #tecnimap)
 
-És important que l’enllaç del primer tuit s’obri i es torni a escurçar amb l’aplicació de gestió de tuits adoptada perquè el tingui en compte a l’hora de comptabilitzar la mètrica del perfil.
+És important que l’enllaç del primer tuit s’obri i es torni a escurçar amb l’aplicació de gestió de tuits adoptada perquè el tingui en compte a l’hora de comptabilitzar la mètrica del perfil.
 
 ## 5.2. Normes de participació
 
@@ -63,7 +63,7 @@ La ciutadania hi pot fer comentaris si compleixen aquests requisits:
 - Mantenen el respecte i no ofenen ni atempten contra la dignitat d'altres persones.  
 - No contenen dades de caràcter personal.  
 - No tenen com a objectiu enganyar, desorientar o estafar la ciutadania.  
-- No violen cap llei de drets d'autoria i propietat intel·lectual.  
+- No violen cap llei de drets d'autoria i propietat intel•lectual.  
 - No és contingut promocional o brossa (spam).  
 
 Els comentaris que no compleixin aquests requisits no seran publicats i els usuaris podran ser bloquejats.
@@ -72,7 +72,7 @@ La Generalitat només es responsabilitza dels continguts que emet a través dels
 
 ## 5.3. Creació de xarxa
 
-Començar a formar part d'una comunitat és una tasca lenta. L'avantatge d'una institució oficial és el reconeixement i la credibilitat que s'atribueix a la informació que es proporciona. Tot i això, és sempre la ciutadania qui decidiex voluntàriament subscriure's als perfils de xarxes socials per rebre'n els continguts.
+Començar a formar part d'una comunitat és una tasca lenta. L'avantatge d'una institució oficial és el reconeixement i la credibilitat que s'atribueix a la informació que es proporciona. Tot i això, és sempre la ciutadania qui decideix voluntàriament subscriure's als perfils de xarxes socials per rebre'n els continguts.
 
 Es recomana seguir perfils d'interès de l'àmbit o temàtica relacionada amb el departament, servei o marca en qüestió. És probable que aquests perfils retornin el seguiment i, d'aquesta manera, s'iniciarà una xarxa.
 

@@ -18,7 +18,7 @@ La finalitat és agrupar les dades i presentar-les en diferents informes perquè
 
 A més d'aquests informes, també es faciliten les dades en cru a través d'una API perquè totes les unitats i ciutadans que ho vulguin puguin elaborar els seus indicadors i informes.
 
-### 8.3.1. Fitxa inidividual
+### 8.3.1. Fitxa individual
 
 Cada perfil té la fitxa resum de l'activitat dels seus canals. En aquesta fitxa hi ha un resum de l'activitat durant el mes anterior i una evolució dels principals indicadors per cada una de les xarxes socials.
 
@@ -27,7 +27,7 @@ Pel que fa als continguts, hi apareixen els que més s'han compartit durant els 
 ![ Fitxa de seguiment mensual](/assets/img/8_1_fitxa_mensual.png)
 
 
-També es capturen dades de perfils similars a cada un dels que formen part de la solució coporativa per poder contextualitzar-ne els indicadors. Aquests perfils els proposa la persona responsable de cada compte a la DGAC a l'inici de tot el procés.
+També es capturen dades de perfils similars a cada un dels que formen part de la solució corporativa per poder contextualitzar-ne els indicadors. Aquests perfils els proposa la persona responsable de cada compte a la DGAC a l'inici de tot el procés.
 
 La comparació de les dades ajuda a valorar l'activitat i alhora obliga a estar atents a l'activitat d'altres perfils i aprendre dels encerts.
 
@@ -51,7 +51,7 @@ Les dades que es capturen per a l'elaboració de l'informe són les que es poden
 
 ![ Etiquetes](/assets/img/8_4_etiquetes.png)
 
-L'informe ajuda a millorar la comunicació per a futures ocasions ja que és una eina que permet analitzar a posteriori algunes dades que passen desaparcebudes amb la voràgine del temps real. D'entre altres aspectes, mostra l'evolució temporal en la publicació de missatges, els tuits més retuitejats i les persones que més missatges han enviat amb l'etiqueta.
+L'informe ajuda a millorar la comunicació per a futures ocasions ja que és una eina que permet analitzar a posteriori algunes dades que passen desapercebudes amb el temps real. D'entre altres aspectes, mostra l'evolució temporal en la publicació de missatges, els tuits més retuitejats i les persones que més missatges han enviat amb l'etiqueta.
 
 També serveix per comparar el volum de missatges en diferents situacions, per exemple el nombre de missatges que s'han publicat amb l'etiqueta #SantJordi en els darrers anys.
 
