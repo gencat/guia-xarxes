@@ -19,22 +19,31 @@ Quan s’és a les xarxes socials, s’ha de tenir present que s’entra en un t
 Com a principi general, des dels perfils corporatius no es poden emetre opinions personals i la línia editorial ha de coincidir amb l'estratègia de comunicació. En la redacció de continguts a les xarxes socials, blogs i entorns web cal usar el to adequat a la institució pública que l’emet. Així mateix, la redacció ha de ser lingüísticament correcta, sense errors ortogràfics ni lèxics. S’han de revisar els textos que es volen publicar amb l’ajuda, si escau, de recursos lingüístics (diccionaris, manuals d’ortografia, llibres d’estil, etc.).
 
 
-## 2.2. Consells i recomanacions
+## 2.2.Consells i recomanacions d’ús per al personal de la Generalitat 
 
-Les xarxes socials ofereixen un nombre il•limitat de possibilitats de les quals les persones que treballen a la Generalitat poden gaudir de manera responsable. Fins i tot quan interaccionin des dels seus perfils personals a les xarxes socials, com que són membres de la institució, haurien de poder tenir en compte una sèrie de recomanacions per garantir-ne un bon ús.
 
-Les opinions que s’emetin en qualsevol perfil social són de caire personal i en cap cas extrapolables a l’organització. L’empleat o empleada té dret a expressar lliurement les seves opinions o punts de visita sobre qualsevol tema que cregui oportú.
- 
-Per evitar possibles conflictes amb el servei que s'ofereixen, es recomanen un seguit d’accions:
+Les xarxes socials ofereixen un nombre il•limitat de possibilitats de les quals les persones que treballen a la Generalitat poden gaudir de manera responsable. Fins i tot quan interaccionin des dels seus perfils personals a les xarxes socials, com que són membres de la institució, haurien de poder tenir en compte una sèrie de recomanacions per garantir-ne un bon ús. 
+
+Les opinions que s’emetin en qualsevol perfil social són de caire personal i en cap cas extrapolables a l’organització. L’empleat o empleada té dret a expressar lliurement les seves opinions o punts de visita sobre qualsevol tema que cregui oportú, **tenint present que qualsevol activitat a la Xarxa queda enregistrada indefinidament i és accessible per a tots els usuaris**. 
+
+Per evitar possibles conflictes amb el servei que s’ofereix, es recomanen un seguit d’accions:
 
 - Qualsevol treballador de la Generalitat, amb presència a les xarxes socials, pot expressar aquesta condició lliurement.  
 - Cal usar el correu electrònic no corporatiu per registrar comptes personals a qualsevol pàgina externa a la Generalitat, ja que aquesta informació podria ser mal interpretada o utilitzada per a fins no desitjats.  
-- S’hauria d’evitar participar en accions o moviments que puguin suscitar una degeneració de la reputació de la Generalitat i els serveis que ofereix.  
+- S’hauria d’evitar participar en accions o moviments que puguin suscitar una degeneració de la reputació de l’organisme de la Generalitat en el qual es presta serveis.  
 - Es recomana actuar de forma transparent i respectant la legislació. Per a aquelles actuacions personals vinculades amb l’àmbit professional, cal recordar que la normativa lingüística recalca la responsabilitat del funcionariat en la normalització lingüística del català en tots els seus àmbits d’actuació.  
 - No s’haurien de publicar comentaris despectius ni ofensius a internet.  
 - Si s’usen les xarxes socials durant la jornada laboral, cal fer-ne un bon ús i sempre orientat a aconseguir una millora del servei que s’ofereix.  
 
-Cal recordar que qualsevol activitat a la Xarxa queda enregistrada indefinidament i és accessible per a tots els usuaris.
+### Ús de comptes personals per a informacions, opinions i continguts relacionats amb l’activitat professional
+
+Cada cop és més habitual l’ús de comptes personals per difondre informacions i tot tipus de continguts relacionats amb l’activitat professional pròpia. Un ús correcte d’aquest recurs pot representar una bona oportunitat per bastir una estratègia d’enfortiment de la marca de l’organització reforçant i promovent la imatge pública de l’Administració de la Generalitat de Catalunya. 
+
+Per assolir aquest objectiu, cal que:
+
+- Els continguts rellevants de caire professional publicats des dels perfils personals hagin estat difosos originàriament des dels comptes institucionals pels professionals de la Generalitat que tenen assignada específicament aquesta tasca. D’aquesta manera, el compte institucional esdevé la font primera d’informacions d’una unitat o institució determinada, es potencia la marca institucional i es posa de relleu el bon nivell de compromís entre el professional i l’organització.  
+- Les persones que formen part de l’Administració de la Generalitat no difonguin informació ni documents als quals han tingut accés en virtut del lloc de treball que ocupen, complint el deure del secret professional. La comunicació d’informacions o continguts professionals des dels perfils personals es regeix pels mateixos criteris que són aplicables a la resta de la ciutadania. És a dir: o bé es compta amb l’autorització expressa de l’organització (Generalitat de Catalunya) o bé es tracta d’informació que ja ha publicat prèviament mitjançant qualsevol dels canals oficials de la Generalitat, respectant en tot cas les condicions indicades per la Generalitat.  
+- Els perfils personals que comuniquin informacions o documents procedents de repositoris o d’altres sistemes d’informació de la Generalitat de Catalunya respectin les condicions d'ús establertes d’origen. Especialment en tot el que fa referència a la protecció de la propietat intel•lectual, el dret a l'honor, la intimitat i la pròpia imatge i la protecció de les dades personals. I encara de manera més accentuada en el cas de continguts que facin referència als col•lectius més vulnerables.  
 
 ### Recomanacions per als alts càrrecs
 
