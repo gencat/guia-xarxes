@@ -21,7 +21,7 @@ Com a principi general, des dels perfils corporatius no es poden emetre opinions
 
 ## 2.2. Consells i recomanacions d’ús per al personal de la Generalitat 
 
-Les xarxes socials ofereixen un nombre il•limitat de possibilitats de les quals les persones que treballen a la Generalitat poden gaudir de manera responsable. Fins i tot quan interaccionen des dels seus perfils personals a les xarxes socials, com que són membres de la institució, han de tenir en compte una sèrie de recomanacions per garantir-ne un bon ús. 
+Les xarxes socials ofereixen un nombre il•limitat de possibilitats de les quals les persones que treballen a la Generalitat poden gaudir de manera responsable. Fins i tot quan interaccionen des dels seus perfils personals a les xarxes socials, com que són membres de la institució, han de tenir en compte una sèrie de recomanacions per garantir-ne un bon ús.  
 
 Les opinions que s’emeten en qualsevol perfil de xarxa social són de caire personal i en cap cas extrapolables a l’organització. L’empleat o empleada té dret a expressar lliurement les seves opinions o punts de vista sobre qualsevol tema que cregui oportú, tenint present que qualsevol activitat a la Xarxa queda enregistrada indefinidament i és accessible per a tots els usuaris.  
 
@@ -36,13 +36,13 @@ En general, per evitar possibles conflictes amb el servei que s’ofereix, es re
 
 ### Ús de comptes personals per a informacions, opinions i continguts relacionats amb l’activitat professional
 
-Cada cop és més habitual l’ús de comptes personals per difondre informacions i tot tipus de continguts relacionats amb l’activitat professional pròpia. Un ús correcte d’aquest recurs pot representar una bona oportunitat per bastir una estratègia d’enfortiment de la marca de l’organització reforçant i promovent la imatge pública de l’Administració de la Generalitat de Catalunya.  
+Cada cop és més habitual l’ús de comptes personals per difondre informacions i tot tipus de continguts relacionats amb l’activitat professional pròpia. Un ús correcte d’aquest recurs pot representar una bona oportunitat per bastir una estratègia d’enfortiment de la marca de l’organització reforçant i promovent la imatge pública de l’Administració de la Generalitat de Catalunya. 
 
-Per assolir aquest objectiu:  
+Per assolir aquest objectiu: 
 
 - Els continguts rellevants de caire professional publicats des dels perfils personals s’han de difondre originàriament des dels comptes institucionals pels professionals de la Generalitat que tenen assignada específicament aquesta tasca. D’aquesta manera, el compte institucional esdevé la font primera d’informacions d’una unitat o institució determinada, es potencia la marca institucional i es posa de relleu el bon nivell de compromís entre el professional i l’organització.  
 - Les persones que formen part de l’Administració de la Generalitat no han de fer difusió d’informació ni documents als quals han tingut accés en virtut del lloc de treball que ocupen. La publicació d’informacions o continguts de la Generalitat des de perfils personals de les persones que hi treballen es regeix pels mateixos criteris aplicables a la resta de la ciutadania. És a dir:  
-	- Es pot difondre informació obtinguda sol•licitada prèviament a la Generalitat de Catalunya en exercici del dret d’accés que la Llei reconeix a qualsevol ciutadà.  
+	- Es pot difondre informació sol•licitada prèviament a la Generalitat de Catalunya en exercici del dret d’accés que la Llei reconeix a qualsevol ciutadà.  
 	- Es pot difondre informació que la Generalitat ha publicat abans per mitjà de qualsevol dels seus canals o perfils oficials o en compliment de les obligacions de publicitat activa. En definitiva, ocupar un lloc de treball amb accés directe a informació, documents o dades no atorga un privilegi especial i no permet difondre’ls directament, encara que puguin ser de lliure accés per part de qualsevol ciutadà.  
 - Els perfils personals que comuniquin informacions o documents procedents de repositoris o d’altres sistemes d’informació de la Generalitat de Catalunya han de citar o fer d’alguna manera evident la font i han de respectar les condicions d'ús establertes d’origen. Especialment en tot el que fa referència al respecte als drets de propietat intel•lectual, el dret a l'honor, la intimitat i la pròpia imatge i la protecció de les dades personals. I encara de manera més accentuada en el cas de continguts que facin referència als col•lectius més vulnerables.  
 
