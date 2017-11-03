@@ -48,10 +48,9 @@ Per assolir aquest objectiu:
 
 ### Recomanacions per als alts càrrecs
 
-A més de les observacions referents a la resta de personal de la Generalitat, els alts càrrecs han de tenir en compte:  
+A més de les observacions generals per al personal de la Generalitat, els alts càrrecs han de tenir en compte:  
 
-- Mantenir una presència activa a les xarxes socials per mitja de canals personals. A la bio del perfil es pot informar del càrrec que s'ocupa i de l'organisme del que forma part.  
-- No publicar comentaris personals als perfils corporatius. Intentarem no personalitzar els perfils corporatius amb l'activitat dels representants.  
-- És una bona pràctica citar els perfils personals dels alts càrrecs (@nomusuari) des dels perfils corporatius quan sigui oportú.  
-- L’equilibri entre l’ús personal i el polític no es troba tant en assolir un 50% de les publicacions en cadascun dels àmbits sinó que moltes vegades és suficient en jugar amb el to, les opinions o les referències personals quan es parli d’una temàtica pública.  
+- Cal mantenir una presència activa a les xarxes socials per mitjà de canals personals, no corporatius. Ara bé, a la biografia del perfil, es pot informar del càrrec que s'ocupa i de l'organisme del qual es forma part.  
+- Als perfils corporatius no s'hi han de publicar comentaris personals, ja que els perfils corporatius responen a altres finalitats i no tenen per objectiu reflectir-hi l'activitat dels alts càrrecs.  
+- En canvi, quan es consideri oportú, és una bona pràctica citar els perfils personals dels alts càrrecs (@nomusuari) des dels perfils corporatius.  
 
