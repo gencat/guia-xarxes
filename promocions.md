@@ -6,6 +6,8 @@ Cal que, quan es vulgui fer una promoció especial, es reflexioni sobre els prin
 
 Des del moment que s'informa del llançament de la campanya, la DGAC fa un seguiment de les etiquetes de les campanyes a Twitter que en aquells moments estigui coordinant, així com aportacions sobre els missatges, els continguts i les etiquetes que es poden usar.
 
+Per a una campanya de promoció de curta durada no es recomana la creació d'un nou canal corporatiu perquè aconseguir audiència a les xarxes socials és una feina a llarg termini i els esforços de la campanya s'han de focalitzar en el missatge a comunicar.
+
 ## 7.1. Definició de l'estratègia
 
 ### Objectius
@@ -28,13 +30,11 @@ S'ha d'analitzar quins són els canals que millor s'ajusten a les necessitats de
 
 L’elecció d’uns indicadors de rendiment adequats ens permetrà avaluar l’impacte de la campanya i calcular el retorn sobre la inversió. Un cop finalitzada la campanya, per tant, és recomanable elaborar un informe de resultats que analitzi si s’han assolit els objectius inicials pel que fa a conversions, trànsit al web, augment de la comunitat, abast, etc.
 
-Per a una campanya de promoció de curta durada no es recomana la creació d'un nou canal corporatiu perquè aconseguir audiència a les xarxes socials és una feina a llarg termini i els esforços de la campanya s'han de focalitzar en el missatge a comunicar.
-
 ![ Institucionals](/assets/img/7_1_institucional.png)
 
 ## 7.2. Procediment
 
-En la promoció de campanyes, intervenen tres equips de treball:
+En la promoció de campanyes, intervenen quatre equips de treball:
 
 - Direcció General de Difusió. Informa els departaments i unitats del pressupost de què disposen per a les campanyes. A més a més, indica als responsables de les campanyes dels períodes en que és convenient iniciar-les per tal que no se solapin amb altres promocions de la Generalitat ja programades. 
 - Direcció General d'Atenció Ciutadana. Assigna els permisos d'anunciant a l'agència en els canals i període que l'informi la unitat titular de la campanya.
@@ -68,15 +68,7 @@ Si l’organisme encarregat de la campanya no disposa de perfils de xarxes socia
 
 Finalment s'elaboren els continguts. Cal tenir present que bona part de la gent que segueix perfils a les xarxes socials ho fa  a través d'un dispositiu mòbil. Per això, els continguts han d'estar pensats des de bon començament perquè es puguin adaptar a qualsevol dimensió de pantalla. De la mateixa manera, es recomana elaborar missatges curts, senzills i visuals. Per a més recomanacions sobre l'elaboració de continguts, es pot llegir el capítol de la Guia "Generar continguts rellevants".
 
-## 7.5. Com difondre els perfils corporatius
-
-A més de les promocions als espais socials, també es recomana fer difusió dels perfils oficials en altres suports. És bo enllaçar els perfils al web i al blog i també fer-ne difusió en els continguts informatius que s'editin, com poden ser fulls de mà, díptics o presentacions.
-
-En tots els casos les icones que s'han d'utilitzar són les que estableix el [Programa d'identificació visual de la Generalitat](http://www.gencat.cat/web/guies/estil/#estils1_1_9). Quan se'n faci difusió en suports on no sigui possible enllaçar el perfil, s'ha de fer servir la icona seguida del nom d'usuari: d'aquesta forma: *icona de la plataforma + @nomusuari*.
-
-![ Com difondre els perfils corporatius](/assets/img/7_3_promocions.jpg)
-
-## 7.6. Formats publicitaris
+## 7.5. Formats publicitaris
 
 Per més informació actualitzada sobre el suports publicitaris de cada plataforma es poden visitar les pàgines específiques:
 
@@ -84,3 +76,13 @@ Per més informació actualitzada sobre el suports publicitaris de cada platafor
 - [Facebook](https://www.facebook.com/business/ads-guide)
 - [Instagram](https://business.instagram.com/advertising)
 - [Youtube](https://support.google.com/youtube/answer/2467968?hl=es)
+
+## 7.6. Com difondre els perfils corporatius
+
+A més de les promocions als espais socials, també es recomana fer difusió dels perfils oficials en altres suports. És bo enllaçar els perfils al web i al blog i també fer-ne difusió en els continguts informatius que s'editin, com poden ser fulls de mà, díptics o presentacions.
+
+En tots els casos les icones que s'han d'utilitzar són les que estableix el [Programa d'identificació visual de la Generalitat](http://identitatcorporativa.gencat.cat/ca/aplicacions/xarxes-socials/). Quan se'n faci difusió en suports on no sigui possible enllaçar el perfil, s'ha de fer servir la icona seguida del nom d'usuari: d'aquesta forma: *icona de la plataforma + @nomusuari*.
+
+![ Com difondre els perfils corporatius](/assets/img/7_3_promocions.jpg)
+
+
