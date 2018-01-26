@@ -54,3 +54,15 @@ A més de les observacions generals per al personal de la Generalitat, els alts 
 - Als perfils corporatius no s'hi han de publicar comentaris personals, ja que els perfils corporatius responen a altres finalitats i no tenen per objectiu reflectir-hi l'activitat dels alts càrrecs.  
 - En canvi, quan es consideri oportú, és una bona pràctica citar els perfils personals dels alts càrrecs (@nomusuari) des dels perfils corporatius.  
 
+## 2.3. Consells i recomanacions de seguretat
+
+La ciberseguretat és un tema important, cal actuar amb responsabilitat per reduir el risc i practicar amb l'exemple. Recordem que l'error humà és la principal causa d'atacs.
+
+- Mantenir els sistemes operatius i programes actualitzats a la darrera versió.
+- Protegir els dispositius amb contrasenya i amb bloqueig automàtic. És recomanable xifrar la informació dels dispositius.
+- Utilitzar les aplicacions oficials descarregades directament dels mercats d'aplicacions.
+- Utilitzar contrasenyes complexes, renovar-les de manera periòdica i utilitzar una contrasenya única per a cada servei. Es recomana utilitzar gestors de contrasenyes com el [KeePass](https://keepass.info/). Activar el segon factor d'autenticació sempre que sigui possible.
+- Evitar vincular els perfils de xarxes socials a altres aplicacions que no siguin les oficials per editar els continguts.
+- Prioritzar la connexió pròpia (3G/4G) i evitar xarxes de tercers, especialment xarxes wifi desconegudes.
+
+
