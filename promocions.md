@@ -1,26 +1,26 @@
 # 7. Promocions
 
-A vegades pot convenir que una publicació arribi més enllà de la seva comunitat mateixa. Per a aquests casos, la majoria d'eines socials ofereixen la possibilitat de promocionar una publicació. Aquesta opció, ben executada, és una manera més ràpida d'arribar a un major nombre de persones que no pas seguint les pautes d'edició habituals.
+De vegades convé fer difusió d'una informació, d'una activitat o d'un esdeveniment més enllà de la comunitat a què ens adrecem normalment. En aquests casos, la majoria d'eines socials ofereixen la possibilitat de promocionar una publicació. És una opció que si s'executa correctament farà que el missatge arribi a un nombre més gran de persones i es propagui més ràpidament.
 
-Cal que, quan es vulgui fer una promoció especial, es reflexioni sobre els principals aspectes de la campanya i se n'informi la Direcció General d'Atenció Ciutadana (DGAC), que s'encarrega de coordinar totes les campanyes que es duen a terme en el conjunt de la Generalitat. És poc recomanable que coincideixin en el temps i en l'espai diferents campanyes ja que es restarien visibilitat.
+Abans d'iniciar una campanya de promoció, cal reflexionar sobre les idees força i els principals aspectes de la campanya. Així mateix, cal informar-ne la Direcció General d'Atenció Ciutadana (DGAC), que s'encarrega de coordinar totes les campanyes que es duen a terme a la Generalitat per evitar la coincidència en el temps o en l'espai de d'una xarxa de diferents campanyes, ja que això els resta visibilitat.
 
-Des del moment que s'informa del llançament de la campanya, la DGAC fa un seguiment de les etiquetes de les campanyes a Twitter que en aquells moments estigui coordinant, així com aportacions sobre els missatges, els continguts i les etiquetes que es poden usar.
+Quan s'informa del llançament de la campanya, la DGAC fa seguiment de les etiquetes de les campanyes a Twitter que en aquells moments estigui coordinant, i també de les aportacions sobre els missatges, els continguts i les etiquetes que es poden usar.
 
-Per a una campanya de promoció de curta durada no es recomana la creació d'un nou canal corporatiu perquè aconseguir audiència a les xarxes socials és una feina a llarg termini i els esforços de la campanya s'han de focalitzar en el missatge a comunicar.
+D'altra banda, es recomana no crear nous canals quan es tracta de campanyes de promoció de curta durada: aconseguir audiència a les xarxes socials és una feina a llarg termini i els esforços de la campanya s'han de focalitzar en el missatge a comunicar.
 
 ## 7.1. Definició de l'estratègia
 
 ### Objectius
 
-Convé tenir ben definit què es vol comunicar amb la promoció. Aquests objectius han d'anar alineats amb els del departament i amb l'estratègia integral de la unitat. Han de ser assumibles i que totes les persones de la unitat tinguin molt clara la finalitat de la campanya.
+Convé definir clarament l'objectiu de comunicació de la promoció. Aquests objectius han d'anar alineats amb els del departament i amb l'estratègia integral de la unitat. Han de ser assumibles i que totes les persones de la unitat tinguin molt clara la finalitat de la campanya.
 
 ### Públics
 
-Un cop s'han definit els objectius, és senzill de seleccionar el públic a qui s'adreça el perfil. És important delimitar-lo tant com es pugui. Hi ha diverses eines digitals que fan segmentacions molt minucioses.
+Un cop s'han definit els objectius, és senzill de seleccionar el públic a qui s'adreça el missatge. És important delimitar-lo tant com es pugui. Hi ha diverses eines digitals que fan segmentacions molt minucioses.
 
 ### Temps
 
-De la mateixa manera que es recomana segmentar el públic, també cal ser molt acurat amb la temporalitat de la campanya. És molt important llançar la campanya durant un període en què la ciutadania tingui més interès en els missatges que es volen promocionar.
+De la mateixa manera que es recomana segmentar el públic, també cal delimitar la durada de la campanya. És molt important llançar la campanya durant un període en què la ciutadania tingui més interès en els missatges que es volen promocionar.
 
 ### Canals
 
@@ -36,19 +36,19 @@ L’elecció d’uns indicadors de rendiment adequats ens permetrà avaluar l’
 
 En la promoció de campanyes, intervenen quatre equips de treball:
 
-- Direcció General de Difusió. Informa els departaments i unitats del pressupost de què disposen per a les campanyes. A més a més, indica als responsables de les campanyes dels períodes en que és convenient iniciar-les per tal que no se solapin amb altres promocions de la Generalitat ja programades. 
+- Direcció General de Difusió. Informa els departaments i unitats del pressupost de què disposen per a les campanyes. A més, indica als responsables de les campanyes dels períodes en què és convenient iniciar-les per tal que no se solapin amb altres promocions de la Generalitat ja programades. 
 - Direcció General d'Atenció Ciutadana. Assigna els permisos d'anunciant a l'agència en els canals i període que l'informi la unitat titular de la campanya.
-- Departament/unitat titular de la campanya. Ha de dissenyar tots els aspectes relacionats amb la campanya (missatge, elements multimèdia, canals de publicació, duració, target, etc.). Pot optar per encarregar el disseny de la creativitat a una agència externa especialitzada. Ha d’informar la Direcció General de Difusió sempre que programi una campanya.
+- Departament/unitat titular de la campanya. Ha de dissenyar tots els aspectes relacionats amb la campanya (missatge, elements multimèdia, canals de publicació, durada, públic objectiu, etc.). Pot optar per encarregar el disseny de la creativitat a una agència externa especialitzada. Ha d’informar la Direcció General de Difusió sempre que programi una campanya.
 - Agència de màrqueting i publicitat. És una empresa externa que s’ocupa de la gestió integral de la campanya:
 
-	- Assessorament i anàlisi previs. Estudi del target, audiència, afinitat, rendibilitat, objectius, etc.
+	- Assessorament i anàlisi prèvies. Estudi de públic objectiu, audiència, afinitat, rendibilitat, objectius, etc.
 	- Elaboració de l’estratègia comunicativa i del pla d’accions.
 	- Execució tècnica de les accions publicitàries.
-	- Seguiment diari de l’evolució de la campanya, amb reajustament/reconducció per tal d’assolir els objectius.
+	- Seguiment diari de l’evolució de la campanya, amb reajustament/reconducció per assolir els objectius.
 	- Tancament de la campanya comparatiu entre la proposta adjudicada i el pla executat.
 	- Servei de control de la inversió.
 	
-La Direcció General de Difusió facilitarà el contacte d’aquesta agència al departament o unitat responsable de la campanya.
+La Direcció General de Difusió facilita el contacte d’aquesta agència al departament o unitat responsable de la campanya.
 
 Si l’organisme encarregat de la campanya no disposa de perfils de xarxes socials propis, o necessita arribar a una audiència més extensa, pot fer servir els comptes de gencat. Cal fer la petició a la Direcció General de Difusió i enviar-hi un document amb les respostes a preguntes freqüents sobre la temàtica de la campanya. D’aquesta manera, l’equip de xarxes socials podrà respondre adequadament les preguntes que formulin els ciutadans.
 
@@ -56,7 +56,7 @@ Si l’organisme encarregat de la campanya no disposa de perfils de xarxes socia
 
 ## 7.3. Modalitats de campanyes
 
-*Missatge orgànic*. Es publica com un missatge propi del canal. L’agència pren l’URL del missatge publicat i el promociona per tal que el visualitzin com més usuaris millor. Es tracta de la forma de promoció més freqüent.
+*Missatge orgànic*. Es publica com un missatge propi del canal. L’agència pren l’URL del missatge publicat i el promociona per tal que el visualitzin el màxim nombre d'usuaris. Es tracta de la forma de promoció més freqüent.
 
 *Missatge ocult*. L’agència promociona el missatge sense que aquest hagi estat publicat prèviament a la cronologia del canal. En aquest cas, l’equip de xarxes no intervé en cap moment, però ha d’estar informat que s’està duent a terme la campanya.
 
@@ -84,5 +84,4 @@ A més de les promocions als espais socials, també es recomana fer difusió del
 En tots els casos les icones que s'han d'utilitzar són les que estableix el [Programa d'identificació visual de la Generalitat](http://identitatcorporativa.gencat.cat/ca/aplicacions/xarxes-socials/). Quan se'n faci difusió en suports on no sigui possible enllaçar el perfil, s'ha de fer servir la icona seguida del nom d'usuari: d'aquesta forma: *icona de la plataforma + @nomusuari*.
 
 ![ Com difondre els perfils corporatius](/assets/img/7_3_promocions.jpg)
-
 
