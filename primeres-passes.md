@@ -32,7 +32,7 @@ Com més bé es conegui la comunitat, millor servei se li podrà oferir.
 
 Una vegada s'hagin definit els objectius, s'hagi escoltat el que s'està dient i es conegui en profunditat la comunitat, ja hi ha els arguments necessaris per escollir a través de quins canals relacionar-se amb la ciutadania. S'ha de tenir en compte que cada eina té les seves particularitats i que necessita un període d'aprenentatge. Es desaconsella la publicació automàtica entre eines, i això vol dir que cada canal necessita un temps de dedicació.
 
-Quan es defineixin els canals en què hi haurà presència, caldrà pensar en el tipus de contingut i les persones que els elaboraran. Obrir un canal exigeix una regularitat en l'activitat. Cal ser capaços de mantenir-la mentre el perfil estigui obert. Tenir un sol perfil que funcioni és millor que tenir-ne cinc d'inactius.
+Quan es defineixin els canals en què hi haurà presència, caldrà pensar en el tipus de contingut i les persones que els elaboraran. Obrir un canal exigeix una regularitat en l'activitat. Cal ser capaços de mantenir-la mentre el perfil estigui obert. Tenir un sol perfil que funcioni és millor que tenir-ne cinc d'inactius. En el casos on sigui possible és millor publicar els continguts en un canal existent, diferenciant-los amb una etiqueta, que obrir nous perfils d'una temàtica molt estreta.
 
 ES pot consultar el capítol "[4. Eines](/04-eines/)" de la Guia per veure les plataformes que la Generalitat ofereix per a una presència institucional a les xarxes socials.
 
