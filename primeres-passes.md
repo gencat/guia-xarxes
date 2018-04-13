@@ -24,7 +24,7 @@ La DGAC demana, en el moment de l'obertura, cinc perfils de Twitter semblants pe
 
 Les publicacions dels perfils oficials són d'utilitat per a tota la ciutadania però cal definir quins seran els principals públics objectius. Quins continguts els interessa? A quins espais tenen presència? Com són aquestes persones? A partir d'aquí es pot començar a pensar com han de ser els continguts que es publicaran, a quines hores serà millor publicar o a quins espais cal tenir presència i a quins no.
 
-Aquesta observació de l'audiència ha de ser constant una vegada obert el perfil. Els informes de seguiment que elabora la DGAC són una eina que ajuda a conèixer com la ciutadania interactua amb els perfils oficials i han de servir per adaptar els continguts al que la ciutadania necessita en cada moment.
+Aquesta observació de l'audiència ha de ser constant una vegada obert el perfil. Els informes de seguiment que elabora la DGAC són una eina que ajuda a conèixer com la ciutadania interactua amb els perfils oficials i han de servir per adaptar els continguts al que la ciutadania requereix en cada moment.
 
 Com més bé es conegui la comunitat, millor servei se li podrà oferir.
 
@@ -66,9 +66,9 @@ La unitat sol•licitant ha d'informar la DGAC de:
 
 Per la seva banda, la DGAC:
 
-- Dóna permisos d'edició a les persones de qui el responsable ha informat.  
+- Dona permisos d'edició a les persones de qui el responsable ha informat.  
 - Configura les eines intermèdies (Tweetdeck) per facilitar l'edició dels continguts.  
 - Afegeix el responsable del perfil a la comunitat de professionals (CoP) de xarxes socials de la Generalitat.  
-- Dóna d'alta totes les persones editores a la llista de distribució de continguts gencat.  
+- Dona d'alta totes les persones editores a la llista de distribució de continguts gencat.  
 - Fa difusió del nou perfil als canals corporatius de la Generalitat.  
 

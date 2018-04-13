@@ -2,7 +2,7 @@
 
 De vegades convé fer difusió d'una informació, d'una activitat o d'un esdeveniment més enllà de la comunitat a què ens adrecem normalment. En aquests casos, la majoria d'eines socials ofereixen la possibilitat de promocionar una publicació. És una opció que si s'executa correctament farà que el missatge arribi a un nombre més gran de persones i es propagui més ràpidament.
 
-Abans d'iniciar una campanya de promoció, cal reflexionar sobre les idees força i els principals aspectes de la campanya. Així mateix, cal informar-ne la Direcció General d'Atenció Ciutadana (DGAC), que s'encarrega de coordinar totes les campanyes que es duen a terme a la Generalitat per evitar la coincidència en el temps o en l'espai de d'una xarxa de diferents campanyes, ja que això els resta visibilitat.
+Abans d'iniciar una campanya de promoció, cal reflexionar sobre les idees força i els principals aspectes de la campanya. Així mateix, cal informar-ne la DGAC, que s'encarrega de coordinar totes les campanyes que es duen a terme a la Generalitat per evitar la coincidència en el temps o en l'espai de d'una xarxa de diferents campanyes, ja que això els resta visibilitat.
 
 Quan s'informa del llançament de la campanya, la DGAC fa seguiment de les etiquetes de les campanyes a Twitter que en aquells moments estigui coordinant, i també de les aportacions sobre els missatges, els continguts i les etiquetes que es poden usar.
 
@@ -28,7 +28,7 @@ S'ha d'analitzar quins són els canals que millor s'ajusten a les necessitats de
 
 ### Analítica i seguiment
 
-L’elecció d’uns indicadors de rendiment adequats ens permetrà avaluar l’impacte de la campanya i calcular el retorn sobre la inversió. Un cop finalitzada la campanya, per tant, és recomanable elaborar un informe de resultats que analitzi si s’han assolit els objectius inicials pel que fa a conversions, trànsit al web, augment de la comunitat, abast, etc.
+Amb l’elecció d’uns indicadors de rendiment adequats es pot avaluar l’impacte de la campanya i calcular el retorn sobre la inversió. Un cop finalitzada la campanya, per tant, és recomanable elaborar un informe de resultats que analitzi si s’han assolit els objectius inicials pel que fa a conversions, trànsit al web, augment de la comunitat, abast, etc. 
 
 ![ Institucionals](/assets/img/7_1_institucional.png)
 

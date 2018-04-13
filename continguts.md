@@ -52,7 +52,7 @@ Pautes per redactar continguts:
 
 - Tenir molta cura de redactar sense faltes d'ortografia. És important que la Generalitat de Catalunya escrigui correctament els missatges que publica. En cas de cometre una errada ortogràfica no cal esborrar el missatge. Es pot publicar un nou missatge amb la redacció correcte i, si escau, explicar la causa de l'error.
 
-- Utilitzar l'opció de Twitter que permet enllaçar missatges a través de la resposta. És una tècnica molt útil si es volen publicar missatges de més de 140 caràcters o es vol fer referència a continguts que s'han publicat prèviament. El nou missatge sortirà a la cronologia sota el missatge al qual s'ha enllaçat en ordre cronològic.
+- Utilitzar l'opció de Twitter que enllaça missatges a través de la resposta, o citar tuits. És una tècnica molt útil si es vol fer referència a continguts que s'han publicat prèviament. El nou missatge sortirà a la cronologia sota el missatge al qual s'ha enllaçat en ordre cronològic. 
 
 ![ Continguts rellevants](/assets/img/6_cnt_9.png)
 
@@ -94,14 +94,14 @@ Abans de començar una retransmissió de vídeo en directe cal que l'anunciem i 
 
 ### Les plataformes recomanades per emetre vídeo en directe són:
 
-- Youtube, permet emetre vídeos en directe i publicar-los al canal una vegada hem acata l'emissió.  
+- Youtube, per emetre vídeos en directe i publicar-los al canal una vegada hem acabat l'emissió.  
 - Periscope, per començar emetre només cal instal•lar l'aplicació en un dispositiu on hi hagi el perfil corporatiu de Twitter configurat. Una vegada accedim a l'aplicació emetre és tant senzill com clicar un botó.  
 - Facebook, aprofitant l'audiència de la pàgina podem publicar una nova publicació amb un vídeo en directe.  
 
 ### Consideracions a tenir en compte: 
 
-- Tot i que emetre vídeo en directe és tècnicament senzill, es recomana considerar els recursos i necessitats de l'emissió.  
+- Tot i que emetre vídeos en directe és tècnicament senzill, es recomana considerar els recursos i necessitats de l'emissió.  
 - La càmera del dispositiu d'enregistrament (principalment el mòbil) és rellevant per la qualitat del contingut audiovisual.  
 - Si l'emissió és llarga cal disposar d'un trípode.  
-- Si es desitja emetre de manera més professional o afegir efectes es recomana utilitzar OBS (programari de codi obert i gratuït) [OBS](https://obsproject.com).  
+- Si es desitja emetre de manera més professional o afegir efectes es recomana utilitzar [OBS](https://obsproject.com) (programari de codi obert i gratuït).  
 

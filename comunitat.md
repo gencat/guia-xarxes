@@ -2,7 +2,7 @@
 
 Quan s'obre un perfil a les xarxes socials, s'entra en el terreny de la ciutadania. Aquest acostament és molt útil per fer difusió de les informacions de l'Administració, però alhora implica un compromís: el deure de participar en la conversa, especialment quan el ciutadà fa preguntes directament.
 
-Una bona manera de seguir el que s'està dient sobre un tema d'interès és mitjançant el monitoratge. Amb les columnes de l'aplicació Tweetdeck es poden configurar [cerques avançades](https://support.twitter.com/articles/71577-using-advanced-search) a Twitter, que permeten fer-ne un seguiment i aplicar-hi filtres.
+Una bona manera de seguir el que s'està dient sobre un tema d'interès és mitjançant el monitoratge. Amb les columnes de l'aplicació Tweetdeck es poden configurar [cerques avançades](https://support.twitter.com/articles/71577-using-advanced-search) a Twitter, per fer-ne un seguiment i aplicar-hi filtres. 
 
 ![ Gestionar la comunitat](/assets/img/5_gestionar_tweetdeck.png)
 

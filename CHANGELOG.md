@@ -8,6 +8,10 @@ Tots els canvis que anem introduint a cada una de les noves revisions de la Guia
 
 ## [0.8] - 2017-03-08
 ## Nou
+- Incorporació de l'apartat de consells de seguretat per als editors.
+- Noves recomanacions per a alts càrrecs.
+- Hem afegit Instagram com a eina corporativa de xarxes socials.
+- Consells per a la retransmissions en directe.
 
 ## Modificat
 

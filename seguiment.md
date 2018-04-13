@@ -6,7 +6,7 @@ Mesurar l’activitat que es duu a terme a la Xarxa és sempre important per con
 
 ## 8.2. Recollida de dades
 
-La  Direcció General d'Atenció Ciutadana (DGAC) és l’òrgan encarregat de recollir de forma centralitzada les mètriques de tots els comptes oficials de la Generalitat de Catalunya. Totes aquestes dades s’obtenen directament des de les diferents plataformes socials.
+La  DGAC és l’òrgan encarregat de recollir de forma centralitzada les mètriques de tots els comptes oficials de la Generalitat de Catalunya. Totes aquestes dades s’obtenen directament des de les diferents plataformes socials.
 
 Aquesta recollida centralitzada serveix per estandarditzar els valors i assegurar que siguin comuns a tots els comptes. Es procura, sempre que sigui possible, fer-ho de manera automatitzada mitjançant les interfícies de programació d’aplicacions (*application programming interface*, API) i els agregadors (*feeds*) de les diferents xarxes socials.
 
@@ -35,7 +35,7 @@ Es divideix en tres apartats:
 
 - **Continguts** (tuits, retuits i mencions). Hi ha els continguts que han tingut més acceptació. Conté un arxiu amb els principals continguts i l'evolució de la difusió dels continguts segons el dia de la setmana, l'hora i fins i tot el mes en què es publica el missatge. Aquests gràfics ajuden a elaborar la planificació trimestral de continguts i a revisar la dels darrers mesos.
 
-- **Audiència** (seguidors). Permet conèixer amb més detall informació dels usuaris que s'han subscrit al canal. Hi ha les llistes dels principals usuaris que s'han donat d'alta o de baixa en un perfil durant l'últim període. També l'evolució de la dimensió de l'audiència i algunes característiques, com per exemple el nombre d'usuaris actius, els que han publicat almenys cinc missatges o la distribució de seguidors en percentils.
+- **Audiència** (seguidors). Per conèixer amb més detall informació dels usuaris que s'han subscrit al canal. Hi ha les llistes dels principals usuaris que s'han donat d'alta o de baixa en un perfil durant l'últim període. També l'evolució de la dimensió de l'audiència i algunes característiques, com per exemple el nombre d'usuaris actius, els que han publicat almenys cinc missatges o la distribució de seguidors en percentils.
 
 - **Comunitat** (usuaris participatius). De la mateixa manera que no tots els usuaris que segueixen un perfil hi interactuen, tampoc no tots els usuaris que hi interactuen el segueixen. És per això que també és interessant conèixer quins són els usuaris amb qui més es conversa. També s'ordenen segons el nombre i tipus d'interaccions.
 
@@ -51,7 +51,7 @@ Les dades que es capturen per a l'elaboració de l'informe són les que es poden
 
 ![ Etiquetes](/assets/img/8_4_etiquetes.png)
 
-L'informe ajuda a millorar la comunicació per a futures ocasions ja que és una eina que permet analitzar a posteriori algunes dades que passen desapercebudes amb el temps real. D'entre altres aspectes, mostra l'evolució temporal en la publicació de missatges, els tuits més retuitejats i les persones que més missatges han enviat amb l'etiqueta.
+L'informe ajuda a millorar la comunicació per a futures ocasions ja que és una eina que analitza a posteriori algunes dades que passen desapercebudes amb el temps real. D'entre altres aspectes, mostra l'evolució temporal en la publicació de missatges, els tuits més retuitejats i les persones que més missatges han enviat amb l'etiqueta.
 
 També serveix per comparar el volum de missatges en diferents situacions, per exemple el nombre de missatges que s'han publicat amb l'etiqueta #SantJordi en els darrers anys.
 
@@ -59,7 +59,7 @@ També serveix per comparar el volum de missatges en diferents situacions, per e
 
 La DGAC fa un seguiment individualitzat de cada un dels perfils oficials de la Generalitat a les xarxes socials per garantir un servei de qualitat.
 
-Aquest control es du a terme a partir de dades d’activitat extretes directament de les API de les plataformes socials. Mitjançant el tractament objectiu d’aquetes dades s’estudia i es valora el servei que dóna cada un dels perfils actius a les xarxes socials.
+Aquest control es du a terme a partir de dades d’activitat extretes directament de les API de les plataformes socials. Mitjançant el tractament objectiu d’aquetes dades s’estudia i es valora el servei que dona cada un dels perfils actius a les xarxes socials.
 
 Quan la DGAC creu que l’activitat i qualitat del servei d’un compte és millorable, es reuneix amb els seus gestors per valorar conjuntament possibles accions a fer. Fins i tot, si es creu adient, tancar un compte.
 
