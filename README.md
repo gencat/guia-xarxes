@@ -12,7 +12,7 @@ La [Guia de xarxes socials de la Generalitat de Catalunya](http://github.com/gen
 8. [Seguiment i avaluació](seguiment.md)  
 
 ## Contribueix
-Tens alguna suggerència o vols que parlem sobre la guia? Siusplau crear un *issue* a Github.  
+Tens alguna suggeriment o vols que parlem sobre la guia? Siusplau crear un *issue* a Github.  
 
 https://github.com/gencat/guia-xarxes/issues
 
