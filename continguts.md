@@ -86,7 +86,16 @@ Els missatges han de ser senzills, curts i visuals, adaptats al context d'ús. C
 
 ![ Continguts rellevants](/assets/img/6_cnt_10.png)
 
-## 6.6.  Retransmissió de vídeo en directe
+## 6.6. Aspectes d'accessibilitat i usabilitat a tenir en compte
+
+- Intenta crear continguts curts, clars i simples.  
+- Escriu en llenguatge natural i evita utilitzar frases fetes o figures retòriques.  
+- Intenta no transmetre informació només en imatges, publica la informació en format text. Utilitza la descripció de les imatges sempre que siguis possible.  
+- Subtitula i transcriu els vídeos.  
+- Evita la utilització d’acrònims.  
+- Escriu les etiquetes al final del tuit quan sigui possible. Per construir una etiqueta amb més d'una paraula es recomana fer servir  les majúscules en el començament de cada paraula per facilitar-ne la comprensió, per exemple: #novaguiagencat #NovaGuiaGencat.    
+
+## 6.7.  Retransmissió de vídeo en directe
 
 Hi ha diferents opcions per retransmetre vídeo en directe. Les xarxes socials integren aquesta funció entre les seves funcionalitats, de manera senzilla i només amb un dispositiu mòbil es pot començar emetre vídeo en directe.  
 

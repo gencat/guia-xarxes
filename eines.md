@@ -160,6 +160,17 @@ Els comptes de Twitter, pel seu caràcter públic, es poden integrar a altres es
 
 Es pot trobar més informació a la [documentació oficial de Twitter](https://dev.twitter.com/web/overview).
 
+### 4.1.6. Accessibilitat 
+
+- Per assegurar-nos que les persones amb problemes de visió disposen de la descripció de la imatge que hem publicat en un tuit, cal tenir activada l’opció ‘Descripcions d’imatges’ al compte de Twitter.  
+- En el cas de les fotografies, abans de publicar-les, cal identificar quines persones hi apareixen.  
+- És important precedir els enllaços amb una etiqueta que ens indiqui de quin tipus es tracta [AUDIO], [PIC], o [VIDEO].  
+- És recomanable la utilització d’adreces URL curtes. Existeixen diferents pàgines web que ens permeten escurçar-les: https://bit.ly o http://gen.cat  
+- És recomanable escriure les mencions i les etiquetes (hashtags) al final del tuit.   
+- Utilitzem les majúscules en cada una de les paraules que formen una etiqueta: #CreusDeSantJordi.   
+- Cal evitar la utilització d’acrònims.   
+
+
 ## 4.2 Facebook
 
 ![ Facebook](/assets/img/4_2_fb.png)
@@ -234,6 +245,13 @@ La integració de Facebook a espais aliens es pot gestionar de diverses maneres:
 
 Es pot trobar més informació a la [documentació oficial de Facebook](http://developers.facebook.com/docs/plugins).
 
+### 4.2.6. Accessibilitat 
+
+- Es recomana afegir un text descriptiu quan es publica una fotografia. En el cas de no fer-se, Facebook inclourà la seva pròpia descripció genèrica amb el risc que es perdi la intencionalitat de la publicació.   
+- És imprescindible afegir subtítols en els vídeos que es publiquen. Actualment existeixen eines que ens ho permeten fer sense gaire complexitat.  
+- S’ha d’evitar la utilització d’acrònims.   
+
+
 ## 4.3 Blog
 
 ### 4.3.1. Descripció
@@ -277,6 +295,14 @@ Quan es publica un apunt nou al blog, se’n fa difusió a Facebook i Twitter. P
 ### 4.3.5. Integració web
 
 Es recomana enllaçar al blog des del web corporatiu, per tal de fer-lo visible per a tots els usuaris.
+
+### 4.3.6. Accessibilitat
+
+- És important precedir els enllaços amb una etiqueta que ens indiqui de quin tipus es tracta [AUDIO], [PIC], o [VIDEO].  
+- Es recomana afegir un text descriptiu quan es publica una fotografia.   
+- És imprescindible afegir subtítols en els vídeos que es publiquen. Actualment existeixen eines que ens ho permeten fer sense gaire complexitat.  
+- S’ha d’evitar la utilització d’acrònims.  
+
 
 ## 4.4. Instagram
 
@@ -343,6 +369,11 @@ També és important fixar-se amb la imatge en miniatura que queda com a present
 
 La forma més habitual d'integrar Youtube en altres llocs és la incrustació d'algun dels continguts en altres mitjans com webs o blogs. D'aquesta manera, els lectors poden gaudir del recurs sense haver d'anar a un altre web, i s'optimitza el nombre de clics. 
 
+#### Accessibilitat
+- Es recomana afegir un text que sigui descriptiu per acompanyar els vídeos que es publiquen.  
+- És imprescindible afegir subtítols en els vídeos que es publiquen. Actualment existeixen eines que ens ho permeten fer sense gaire complexitat.   
+
+
 ### 4.5.2 Flickr
 
 ![ Flickr](/assets/img/4_4_2_flickr.png)
@@ -377,6 +408,12 @@ La llicència Creative Commons referida al domini públic serà la llicència pe
 
 La forma més habitual d'integrar Flickr en altres llocs és a partir de la incrustació d'algun dels continguts en els blogs corporatius. Es pot incrustar com una part del contingut d'un apunt del blog, però també es poden activar ginys a la barra lateral que permeten accedir a la galeria de Flickr des del blog del departament, servei o marca.
 
+#### Accessibilitat 
+- Es recomana afegir un text que sigui descriptiu per acompanyar les fotografies que es publiquen. L’aplicació no permet afegir text alternatiu a les imatges, per tant, és molt útil afegir una descripció el més acurada possible.  
+- Cal canviar el nom de les fotos publicades. L’aplicació assigna un nom genèric basat en dades alfanumèriques i, d’aquesta manera, es perd una font important d’informació.  
+- En el moment d’etiquetar imatges, cal que introduïm espais entre les paraules que utilitzem per descriure-la.  
+
+
 ### 4.5.3 Slideshare
 
 ![ Sliedshare](/assets/img/4_4_3_sl.png)
@@ -407,6 +444,12 @@ Moltes vegades les presentacions s'exposen en auditoris grans. Per fomentar-ne l
 La forma més habitual d'integrar Slideshare en altres llocs és incrustant algun dels continguts en el web o blog corporatiu. Així els lectors poden gaudir del recurs sense haver d'anar a un altre web per poder consultar-ne el contingut. 
 
 D'aquesta manera, s’evita que el lector es perdi i s’optimitza el nombre de clics necessaris.
+
+#### Accessibilitat
+
+- És imprescindible afegir subtítols en els vídeos que es publiquen o una transcripció del contingut de la presentació.  
+- En el cas d’inserir enllaços a la transcripció, cal precedir-los amb una etiqueta que ens indiqui de quin tipus es tracta [AUDIO], [PIC], o [VIDEO].  
+
 
 ### 4.5.4 Wikiloc
 

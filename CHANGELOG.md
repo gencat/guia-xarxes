@@ -6,6 +6,11 @@ permalink: /changelog/
 # Change log
 Tots els canvis que anem introduint a cada una de les noves revisions de la Guia.
 
+## [0.8.1] - 2018-09-03
+## Nou
+- Incorporació d'accessibilitat com a principi de la presència a les xarxes socials.  
+- Consells d'accessibilitat en la publicació per cada eina.  
+
 ## [0.8] - 2017-03-08
 ## Nou
 - Incorporació de l'apartat de consells de seguretat per als editors.
