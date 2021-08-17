@@ -18,7 +18,7 @@ Estudiar el que s'està dient sobre el tema de què es vol tractar és una bona 
 
 Es recomana cercar el nom de la unitat i les paraules clau associades a l'activitat que desenvolupa al [cercador de Twitter](https://search.twitter.com) abans de sol•licitar un perfil nou perquè ajudarà a afinar la percepció de la ciutadania sobre el servei. Un cop s'hagi obert el perfil oficial, es poden utilitzar les cerques avançades de [Tweetdeck](https://tweetdeck.twitter.com) i definir-hi columnes per a les més recurrents. Cal recordar que no sempre que algú parli del perfil ho farà citant el nom d'usuari.
 
-La DGSEC demana, en el moment de l'obertura, cinc perfils de Twitter semblants per poder-s'hi comparar. També són útils per veure com actuen: quins recursos empren, a quina hora publiquen, amb quin tipus de continguts ho fan i, fins i tot, veure quin impacte aconsegueixen amb les publicacions.
+La DGSEC demana, en el moment de l'obertura, cinc perfils semblants per poder-s'hi comparar. També són útils per veure com actuen: quins recursos empren, a quina hora publiquen, amb quin tipus de continguts ho fan i, fins i tot, veure quin impacte aconsegueixen amb les publicacions.
 
 ### 3.1.3. Conèixer la ciutadania
 
@@ -40,7 +40,7 @@ ES pot consultar el capítol "[4. Eines](/04-eines/)" de la Guia per veure les p
 
 Es poden fer servir les dades d'analítica del web per esbrinar quins són els continguts que més interès desperten. Es recomana una estratègia de continguts flexible i viva, capaç d'adaptar-se als canvis i a les necessitats de la ciutadania.
 
-Abans d'obrir el perfil, cal que les persones editores elaborin una llista de 20 tuits i 10 publicacions de Facebook possibles.
+Abans d'obrir el perfil, cal que les persones editores elaborin una llista de 20 tuits i 10 publicacions possibles.
 
 ## 3.2. Sol•licitud oficial
 
@@ -67,7 +67,7 @@ La unitat sol•licitant ha d'informar la DGSEC de:
 Per la seva banda, la DGSEC:
 
 - Dona permisos d'edició a les persones de qui el responsable ha informat.  
-- Configura les eines intermèdies (Tweetdeck) per facilitar l'edició dels continguts.  
+- Configura les eines intermèdies (Hootsuite) per facilitar l'edició dels continguts.  
 - Afegeix el responsable del perfil a la comunitat de professionals (CoP) de xarxes socials de la Generalitat.  
 - Dona d'alta totes les persones editores a la llista de distribució de continguts gencat.  
 - Fa difusió del nou perfil als canals corporatius de la Generalitat.  

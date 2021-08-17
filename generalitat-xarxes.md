@@ -10,8 +10,8 @@ A l'hora d'interaccionar amb la ciutadania, cal fer-ho sempre amb un to d'acord 
 - **Obertura i transparència**: cal mostrar tal com és l’organització, amb naturalitat i amb voluntat de servei.  
 - **Interdependència (coresponsabilitat)**: saber qui es representa i cap a qui, com i on relacionar-se. S’han de tenir en compte les normes de netiqueta pròpies de cada un dels espais.  
 - **Compartir (coneixement obert)**: amb un nou enfocament de la propietat intel•lectual, per crear les condicions necessàries perquè ciutadania, empreses i altres organitzacions puguin generar riquesa amb les dades i els continguts elaborats per l’Administració.  
-- **Integritat (servei públic)**: la comunicació i atenció a través de les xarxes socials ha de ser tan eficaç o més del que ho és la presencial. Al mateix temps, ha de ser més eficient i donar més resultats procurant no créixer en recursos. Convé mostrar en tot moment una predisposició a escoltar i ajudar el ciutadà, en tot el que sigui possible, i oferir solucions als dubtes i consultes.  
-- **Accessibilitat**: vetllar per unes xarxes socials inclusives on les persones usuàries amb alguna discapacitat puguin accedir als missatges que es transmeten.  
+- **Integritat (servei públic)**: la comunicació i atenció a través de les xarxes socials ha de ser tan eficaç o més del que ho és la presencial. Al mateix temps, ha de ser més eficient i donar més resultats procurant no créixer en recursos. Convé mostrar en tot moment una predisposició a escoltar i ajudar a la ciutadania, en tot el que sigui possible, i oferir solucions als dubtes i consultes.  
+- **Accessibilitat**: vetllar per unes xarxes socials inclusives on les persones usuàries puguin accedir als missatges que es transmeten.  
 
 El to amb què es conversa ha de ser sempre proper i cordial. La comunicació en les diferents xarxes socials on la Generalitat és present sempre és cap a la ciutadania. Per tant, s’ha d’intentar escoltar les persones i donar respostes adequades a les seves necessitats, perquè els usuaris d’aquests espais sentin que la presència de la Generalitat no és intrusiva i que es participa en la seva conversa d’igual a igual.
 

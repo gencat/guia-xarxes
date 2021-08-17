@@ -16,7 +16,7 @@ Els informes de seguiment de cada perfil són públics i oberts a tots els edito
 
 La finalitat és agrupar les dades i presentar-les en diferents informes perquè sigui fàcil de rendir comptes amb els màxims responsables de la unitat.
 
-A més d'aquests informes, també es faciliten les dades en cru a través d'una API perquè totes les unitats i ciutadans que ho vulguin puguin elaborar els seus indicadors i informes.
+A més d'aquests informes, també es faciliten les dades en cru a través d'una API perquè totes les unitats i la ciutadania que ho vulguin puguin elaborar els seus indicadors i informes.
 
 ### 8.3.1. Fitxa individual
 

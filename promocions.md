@@ -50,7 +50,7 @@ En la promoció de campanyes, intervenen quatre equips de treball:
 	
 La Direcció General de Difusió facilita el contacte d’aquesta agència al departament o unitat responsable de la campanya.
 
-Si l’organisme encarregat de la campanya no disposa de perfils de xarxes socials propis, o necessita arribar a una audiència més extensa, pot fer servir els comptes de gencat. Cal fer la petició a la Direcció General de Difusió i enviar-hi un document amb les respostes a preguntes freqüents sobre la temàtica de la campanya. D’aquesta manera, l’equip de xarxes socials podrà respondre adequadament les preguntes que formulin els ciutadans.
+Si l’organisme encarregat de la campanya no disposa de perfils de xarxes socials propis, o necessita arribar a una audiència més extensa, pot fer servir els comptes de gencat. Cal fer la petició a la Direcció General de Difusió i enviar-hi un document amb les respostes a preguntes freqüents sobre la temàtica de la campanya. D’aquesta manera, l’equip de xarxes socials podrà respondre adequadament les preguntes que formuli la ciutadania.
 
 ![ De pagament](./assets/img/7_2_pagament.png)
 

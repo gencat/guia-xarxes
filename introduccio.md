@@ -1,8 +1,8 @@
 # 1. Introducció
 
-L'ús de les xarxes socials provoca canvis en les esferes personal, social i professional dels ciutadans. Centrant-nos en l'àmbit professional, l'actual escenari de gran connectivitat entre persones i la gestió de la informació generada afavoreix que s'avanci cap a formes d'intel·ligència col·lectiva que estan canviant les organitzacions.
+L'ús de les xarxes socials provoca canvis en les esferes personal, social i professional de la ciutadania. Centrant-nos en l'àmbit professional, l'actual escenari de gran connectivitat entre persones i la gestió de la informació generada afavoreix que s'avanci cap a formes d'intel·ligència col·lectiva que estan canviant les organitzacions.
 
-En els darrers temps, són moltes les iniciatives encaminades a incorporar als sistemes polítics democràtics els canvis substancials derivats d’un major accés als recursos d’informació, esdevinguts per l’ús massiu d’internet i les xarxes socials, principalment. En l’escenari de la gestió pública, ha irromput amb força un nou paradigma, anomenat govern obert, que posa en el centre el ciutadà, amb un rol més actiu i corresponsable amb els afers públics, més enllà de la possibilitat del vot puntual o d’estar representat en els òrgans de govern democràtics. Per aquest tipus de governança sorgeixen canals de comunicació i col·laboració entre l’Administració i la ciutadania que faciliten el coneixement i reconeixement de les dues parts i ajuden, per tant, a millorar les relacions entre els poders públics i la ciutadania.
+En els darrers temps, són moltes les iniciatives encaminades a incorporar als sistemes polítics democràtics els canvis substancials derivats d’un major accés als recursos d’informació, esdevinguts per l’ús massiu d’internet i les xarxes socials, principalment. En l’escenari de la gestió pública, ha irromput amb força un nou paradigma, anomenat govern obert, que posa en el centre la ciutadania, amb un rol més actiu i corresponsable amb els afers públics, més enllà de la possibilitat del vot puntual o d’estar representat en els òrgans de govern democràtics. Per aquest tipus de governança sorgeixen canals de comunicació i col·laboració entre l’Administració i la ciutadania que faciliten el coneixement i reconeixement de les dues parts i ajuden, per tant, a millorar les relacions entre els poders públics i la ciutadania.
 
 Les xarxes socials es consideren a la Generalitat de Catalunya una oportunitat única perquè les administracions públiques catalanes esdevinguin l’avantguarda de la innovació i siguin vehiculadores del coneixement i del valor que aporti el conjunt dels actors públics.
 
@@ -10,10 +10,10 @@ L'accés a les xarxes socials mitjançant dispositius mòbils garanteix la parti
 
 Les xarxes socials:
 
-- Proporcionen respostes immediates al ciutadà, però aquí la informació oferta és útil també a altres persones amb la mateixa situació (es guanya temps i recursos). Tot això d'una manera més propera, ja que estem en un entorn habitual del ciutadà.  
+- Proporcionen respostes immediates a la ciutadania, però aquí la informació oferta és útil també a altres persones en la mateixa situació (es guanya temps i recursos). Tot això d'una manera més propera, ja que estem en un entorn habitual de la ciutadania.  
 - Per ampliar la informació oficial redirigeixen la gent cap al web corporatiu, o cap a un recurs acordat que tingui tant crèdit com la informació generada pels canals oficials.  
 - Faciliten la creació de xarxes temàtiques d'usuaris que, al seu torn, produeixen coneixement fonamental i complementari perquè l'organització conegui els interessos i la informació que generen aquestes xarxes i els pugui tenir en compte per millorar els seus serveis.  
-
+- 
 La Guia de xarxes socials de la [Generalitat de Catalunya](https://gencat.cat) estableix unes pautes comunes per a la presència homogènia de la Generalitat a les xarxes socials.
 
 La Guia també conté el procediment que cal seguir per obrir perfils en aquests espais de relació i participació. Així mateix, enumera les diferents eines de xarxa social, els diversos usos i objectius de presència en cada una, les recomanacions per a una presència adequada i reexida i també els criteris d'estil comunicatiu més adequats en cada eina.

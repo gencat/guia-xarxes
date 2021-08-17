@@ -8,7 +8,7 @@ El *nom d'usuari* en aquestes eines es forma a partir del nom propi de l'àmbit,
 
 L'*avatar* dels perfils el facilita la DGSEC seguint les pautes del [Programa d'identificació visual](http://identitatcorporativa.gencat.cat/ca/aplicacions/xarxes-socials/). L'avatar és una aproximació visual ràpida a un canal oficial de la Generalitat i, per això, la ciutadania ha de poder identificar fàcilment que aquell compte és d'un canal oficial. Per als organismes de la Generalitat, l'avatar està compost d'un fons gris i tipografia en vermell corporatiu. En els perfils de Govern i de les delegacions a l'exterior, el fons és blau corporatiu i les lletres en blanc.
 
-Per implementar les pautes d’identitat corporativa als comptes de Twitter de la Generalitat, la DGSEC defineix els camps següents:
+Per implementar les pautes d’identitat corporativa la DGSEC defineix els camps següents:
 
 - *Avatar*: el corporatiu seguint el programa d'identificació visual.
 - *Nom d'usuari*: nom del servei més el sufix "cat", màxim 15 caràcters.
@@ -30,17 +30,15 @@ Twitter és una plataforma de micromissatgeria per publicar missatges de text cu
 
 ### 4.1.2. Gestió dels comptes
 
-Els comptes es gestionen des de l’aplicació Tweetdeck, a què s'accedeix amb el perfil personal de Twitter de cada editor. La DGSEC obre els comptes de Twiter i designa un usuari que administra els editors del perfil. Aquest administrador és l'encarregat de donar permisos d'edició a les persones que gestionen el compte. 
+Els comptes es gestionen des de l’aplicació Hootsuite, a què s'accedeix amb el perfil personal de Twitter de cada editor. La DGSEC obre els comptes de Twiter i designa un usuari que administra els editors del perfil. Aquest administrador és l'encarregat de donar permisos d'edició a les persones que gestionen el compte. 
 
 En els dispositius mòbils es gestionen les publicacions des de l’aplicació oficial de Twitter aprofitant l’opció multicompte. La DGSEC és l’encarregada de configurar-ne l’accés en el dispositiu mòbil a les persones editores dels comptes.
-
-Per millorar les prestacions que ofereix Tweetdeck en la seva versió d'escriptori es pot instal•lar l'extensió [Better Tweetdeck](https://github.com/eramdam/BetterTweetDeck).
 
 ### 4.1.3. Aspectes de presentació
 
 ![ Twitter header](./assets/img/4_1_tw_header.png)
 
-- **Colors de disseny**. El fons ha de ser blanc (#FFF) per a tots els perfils. El color de marca és el vermell corporatiu (#AC2115) a excepció dels perfils de Govern que utilitzen el blau corporatiu (#0B66AC).
+- **Colors de disseny**. El fons ha de ser blanc (#FFFFFF) per a tots els perfils. El color de marca és el vermell corporatiu (#AC2115) a excepció dels perfils de Govern que utilitzen el blau corporatiu (#0B66AC).
 - **Imatge de capçalera**. Twitter es pot personalitzar el perfil amb una capçalera de 1500 x 500 px visible des del perfil. Cada departament, servei o marca pot triar la imatge de capçalera per al seu perfil d’acord amb la seva normativa gràfica. Es recomana que aquesta imatge sigui conceptual, relacionada amb l’àmbit d’actuació i sense missatges publicitaris. Quan es vol canviar la imatge, cal enviar-la per correu a la DGSEC (xarxes@gencat.cat), especificant el nom del compte de Twittter a l’assumpte. Es recomana provar la imatge en un perfil personal abans d’enviar-la per estar segurs de quina es vol escollir.
 - **Tuit destacat**. Twitter ofereix la possibilitat de destacar continguts al capdamunt del perfil amb l’opció Fixa’l al teu perfil.
 
@@ -108,22 +106,30 @@ Per a una presència òptima a Twitter, hi ha d’haver activitat de manera cont
 
 **Altres fonts**
 
-- Nous apunts (*posts*) al blog corporatiu.
 - Retransmissions en directe d’actes.
 - Publicació de nous vídeos, fotos, presentacions, etc. als repositoris d’internet.
 - Convocatòries públiques de processos de selecció.
 - Novetats del web, noves seccions, publicacions.
 - Notes de premsa publicades al web. Quan es tuitegi una nota de premsa, cal redactar de nou el titular per a aquest mitjà i afegir-hi l’enllaç cap al web.
+- Butlletins corporatius.
+- Nous apunts (posts) al blog corporatiu.
 
 
 **Continguts generats a Twitter**
 
+- Informació de servei i actualitat de l’organisme.
+- Agenda i recordatoris de tràmits que puguin ser d’interès ciutadà.
 - Anunci i invitacions a actes.
 - Incidents, emergències i comunicacions de crisi.
-- Continguts elaborats exclusivament per a Twitter a partir d’informacions contrastades de la Xarxa que afegeixin valor al perfil de la Generalitat.
-- Això afavoreix que el perfil es posicioni com a filtre de confiança de continguts d’alta qualitat.
+- Continguts d’altres comptes corporatius de la Generalitat relacionats amb el nostre àmbit.
+- Enquestes per conèixer l’opinió de l’audiència i fomentar la interacció.
+- Fils de tuits per proporcionar més context, retransmetre actes, ampliar informació o crear relats.
 
-És recomanable llegir sempre el contingut abans de retuitejar-lo. El volum de retuits no ha de superar el de tuits de producció pròpia. Inicialment, es pot considerar acceptable un equilibri entre les dues modalitats de publicació, sobretot per l’objectiu inicial de construir xarxa. Si el text supera els 140 caràcters, cal escurçar-lo de manera que sigui intel•ligible; fins i tot, si hi ha més d’una etiqueta, se’n pot esborrar alguna. En el cas que el text sigui poc entenedor o amb errades lingüístiques, o bé hi vulguem afegir contingut, es pot modificar per millorar-lo sempre que al final s’afegeixi la fórmula:
+El volum de retuits no ha de superar el de tuits de producció pròpia. Inicialment,
+es pot considerar acceptable un equilibri entre les dues modalitats de publicació,
+sobretot per l’objectiu inicial de construir xarxa. En el cas que el text sigui poc
+entenedor o amb errades lingüístiques, o bé hi vulguem afegir contingut, es pot
+modificar per millorar-lo sempre que al final s’afegeixi la fórmula:
 
 ![ Text + enllaç + #etiqueta + /via @nomdelperfilretuitejat](./assets/img/4_1_tw_tuit_4.png)
 
@@ -139,9 +145,7 @@ Un cop consolidada l’activitat a Twitter, es pot automatitzar la publicació d
 Els comptes de Twitter, pel seu caràcter públic, es poden integrar a altres espais mitjançant ginys (*widgets*), petites aplicacions per integrar en una pàgina web informació externa, per fer-ne promoció. Es poden integrar a:
 
 - Espais propis: blogs corporatius, web de gencat.cat, webs de departaments o webs especials. En aquest cas s’ha d’utilitzar el giny oficial de la Generalitat.
-
 - Espais propis externs: pàgina de Facebook de gencat, pàgines de Facebook d’altres departaments, etc. a través d’una pestanya, un giny lateral.
-
 - Espais aliens: oferint la possibilitat d’integrar el giny perquè qualsevol persona el pugui afegir a la seva pàgina, blog, etc.
 
 Es pot trobar més informació a la [documentació oficial de Twitter](https://dev.twitter.com/web/overview).
@@ -228,7 +232,9 @@ Es pot trobar més informació a la [documentació oficial de Facebook](http://d
 
 - Es recomana afegir un text descriptiu quan es publica una fotografia. En el cas de no fer-se, Facebook inclourà la seva pròpia descripció genèrica amb el risc que es perdi la intencionalitat de la publicació.   
 - És imprescindible afegir subtítols en els vídeos que es publiquen. Actualment existeixen eines que ens ho permeten fer sense gaire complexitat.  
-- S’ha d’evitar la utilització d’acrònims.   
+- S’ha d’evitar la utilització d’acrònims i abreviatures.   
+- Limitar l'ús dels gifs perquè els lectors de pantalla els interpreten com una imatge simple.
+- Limitar l'ús d'emojis, els lectors de pantalla els converteixen en text (cara somrient, cara somrient, núvol...)
 
 
 ## 4.3 Blog
@@ -279,7 +285,7 @@ Es recomana enllaçar al blog des del web corporatiu, per tal de fer-lo visible 
 
 - Es recomana afegir un text descriptiu quan es publica una fotografia.   
 - És imprescindible afegir subtítols en els vídeos que es publiquen. Actualment existeixen eines que ens ho permeten fer sense gaire complexitat.  
-- S’ha d’evitar la utilització d’acrònims.  
+- S’ha d’evitar la utilització d’acrònims i abreviatures.  
 
 
 ## 4.4. Instagram
@@ -332,7 +338,7 @@ Els canals de Youtube dels diferents departaments de la Generalitat són corpora
 Els comptes de Youtube de la Generalitat de Catalunya es creen des de correus electrònics de gencat. Per publicar un nou vídeo, s'ha d'enviar un correu electrònic a **xarxes@gencat.cat** amb:
 
 - El vídeo a publicar.  
-- Informació del vídeo: títol, descripció, categoria i etiquetes.    
+- Informació del vídeo: títol, descripció, categoria, etiquetes i subtítols.    
 - Suggerir llistes de reproducció on publicar el vídeo.  
 
 #### Aspectes de presentació
@@ -384,7 +390,7 @@ Les fotografies es poden agrupar en àlbums segons la temàtica. I els àlbums e
 
 Es recomana publicar les imatges en una bona resolució. Així, es poden compartir les imatges en alta resolució i reutilitzar-les en qualsevol canal.
 
-La llicència Creative Commons CC0 1.0 Universal serà la llicència per defecte de les imatges dels canals corporatius de la Generalitat. Això vol dir que la imatge es pot copiar, modificar, distribuir i fer-ne comunicació pública, fins i tot amb finalitat comercial.
+La llicència Creative Commons CC0 1.0 Universal és la llicència per defecte de les imatges dels canals corporatius de la Generalitat. Això vol dir que la imatge es pot copiar, modificar, distribuir i fer-ne comunicació pública, fins i tot amb finalitat comercial.
 
 #### Integració web
 
