@@ -2,9 +2,9 @@
 
 De vegades convé fer difusió d'una informació, d'una activitat o d'un esdeveniment més enllà de la comunitat a què ens adrecem normalment. En aquests casos, la majoria d'eines socials ofereixen la possibilitat de promocionar una publicació. És una opció que si s'executa correctament farà que el missatge arribi a un nombre més gran de persones i es propagui més ràpidament.
 
-Abans d'iniciar una campanya de promoció, cal reflexionar sobre les idees força i els principals aspectes de la campanya. Així mateix, cal informar-ne la DGAC, que s'encarrega de coordinar totes les campanyes que es duen a terme a la Generalitat per evitar la coincidència en el temps o en l'espai de d'una xarxa de diferents campanyes, ja que això els resta visibilitat.
+Abans d'iniciar una campanya de promoció, cal reflexionar sobre les idees força i els principals aspectes de la campanya. Així mateix, cal informar-ne la DGSEC, que s'encarrega de coordinar totes les campanyes que es duen a terme a la Generalitat per evitar la coincidència en el temps o en l'espai de d'una xarxa de diferents campanyes, ja que això els resta visibilitat.
 
-Quan s'informa del llançament de la campanya, la DGAC fa seguiment de les etiquetes de les campanyes a Twitter que en aquells moments estigui coordinant, i també de les aportacions sobre els missatges, els continguts i les etiquetes que es poden usar.
+Quan s'informa del llançament de la campanya, la DGSEC fa seguiment de les etiquetes de les campanyes a Twitter que en aquells moments estigui coordinant, i també de les aportacions sobre els missatges, els continguts i les etiquetes que es poden usar.
 
 D'altra banda, es recomana no crear nous canals quan es tracta de campanyes de promoció de curta durada: aconseguir audiència a les xarxes socials és una feina a llarg termini i els esforços de la campanya s'han de focalitzar en el missatge a comunicar.
 
@@ -37,7 +37,7 @@ Amb l’elecció d’uns indicadors de rendiment adequats es pot avaluar l’imp
 En la promoció de campanyes, intervenen quatre equips de treball:
 
 - Direcció General de Difusió. Informa els departaments i unitats del pressupost de què disposen per a les campanyes. A més, indica als responsables de les campanyes dels períodes en què és convenient iniciar-les per tal que no se solapin amb altres promocions de la Generalitat ja programades. 
-- Direcció General d'Atenció Ciutadana. Assigna els permisos d'anunciant a l'agència en els canals i període que l'informi la unitat titular de la campanya.
+- Direcció General de Serveis Digitals i Experiència Ciutadana. Assigna els permisos d'anunciant a l'agència en els canals i període que l'informi la unitat titular de la campanya.
 - Departament/unitat titular de la campanya. Ha de dissenyar tots els aspectes relacionats amb la campanya (missatge, elements multimèdia, canals de publicació, durada, públic objectiu, etc.). Pot optar per encarregar el disseny de la creativitat a una agència externa especialitzada. Ha d’informar la Direcció General de Difusió sempre que programi una campanya.
 - Agència de màrqueting i publicitat. És una empresa externa que s’ocupa de la gestió integral de la campanya:
 

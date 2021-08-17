@@ -6,6 +6,10 @@ permalink: /changelog/
 # Change log
 Tots els canvis que anem introduint a cada una de les noves revisions de la Guia.
 
+## [0.9.1] - 2021 -08
+### Modificat
+- Canvi de denominació: Direcció General d'Atenció Ciutadana (DGAC) a Direcció General de Serveis Digitals i Experiència Ciutadana (DGSEC).
+
 ## [0.9] - 2019-04
 ### Nou
 

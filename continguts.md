@@ -63,7 +63,7 @@ Aspectes a tenir en compte en l’editorialització de continguts:
 - Planificació dels continguts que es publicaran als diferents canals. En aquesta planificació han de participar totes les persones que gestionaran els perfils.
 - Canals interns d’informació perquè qualsevol persona de la unitat pugui suggerir continguts de publicació. Els gestors del perfil seran els encarregats de validar i publicar els continguts si ho troben convenient.
 - Creació d’un arxiu amb continguts atemporals per publicar quan no hi hagi continguts d’actualitat.
-- Ús dels informes de seguiment que facilita la DGAC per conèixer els millors dies i hores per publicar. És important identificar les franges de màxim interès en la temàtica del perfil, ja que és diferent per a cada unitat. Hi ha franges de més interès per cada tipus de contingut. Per exemple, els continguts recurrents és important que sempre es publiquin a la mateixa hora.
+- Ús dels informes de seguiment que facilita la DGSEC per conèixer els millors dies i hores per publicar. És important identificar les franges de màxim interès en la temàtica del perfil, ja que és diferent per a cada unitat. Hi ha franges de més interès per cada tipus de contingut. Per exemple, els continguts recurrents és important que sempre es publiquin a la mateixa hora.
 - La publicació programada és una bona eina però s’ha de tenir un control del que es publicarà i la possibilitat d’accedir a modificar-la. Cal anar amb compte perquè un missatge programat en segons quin context pot ser l’origen d’una crisi.
 
 ## 6.4. Freqüència de publicació

@@ -4,11 +4,11 @@ Les xarxes socials i els repositoris són eines dinàmiques que ajuden a millora
 
 Els perfils corporatius de la Generalitat a les xarxes socials són un actiu públic. La titularitat és de la Generalitat i, per aquesta raó, no hi figura el nom de la persona que té la responsabilitat d'editar els continguts del perfil. Per assegurar la perdurabilitat en el temps, els perfils s'obren a partir de correu electrònics genèrics de gencat. Pel mateix motiu, els editors del perfil publiquen els continguts fent ús d'eines que afegeixen seguretat i professionalitat al procés de gestió.
 
-El *nom d'usuari* en aquestes eines es forma a partir del nom propi de l'àmbit, servei o marca i afengint-hi el sufix **cat**. Per exemple @empresacat per al Departament d'Empresa i Coneixement o @salutcat pel Departament de Salut. Si el nom d'usuari ja es troba en ús, la DGAC en decidirà un altre de més adient conjuntament amb la unitat responsable.
+El *nom d'usuari* en aquestes eines es forma a partir del nom propi de l'àmbit, servei o marca i afengint-hi el sufix **cat**. Per exemple @empresacat per al Departament d'Empresa i Coneixement o @salutcat pel Departament de Salut. Si el nom d'usuari ja es troba en ús, la DGSEC en decidirà un altre de més adient conjuntament amb la unitat responsable.
 
-L'*avatar* dels perfils el facilita la DGAC seguint les pautes del [Programa d'identificació visual](http://identitatcorporativa.gencat.cat/ca/aplicacions/xarxes-socials/). L'avatar és una aproximació visual ràpida a un canal oficial de la Generalitat i, per això, la ciutadania ha de poder identificar fàcilment que aquell compte és d'un canal oficial. Per als organismes de la Generalitat, l'avatar està compost d'un fons gris i tipografia en vermell corporatiu. En els perfils de Govern i de les delegacions a l'exterior, el fons és blau corporatiu i les lletres en blanc.
+L'*avatar* dels perfils el facilita la DGSEC seguint les pautes del [Programa d'identificació visual](http://identitatcorporativa.gencat.cat/ca/aplicacions/xarxes-socials/). L'avatar és una aproximació visual ràpida a un canal oficial de la Generalitat i, per això, la ciutadania ha de poder identificar fàcilment que aquell compte és d'un canal oficial. Per als organismes de la Generalitat, l'avatar està compost d'un fons gris i tipografia en vermell corporatiu. En els perfils de Govern i de les delegacions a l'exterior, el fons és blau corporatiu i les lletres en blanc.
 
-Per implementar les pautes d’identitat corporativa als comptes de Twitter de la Generalitat, la DGAC defineix els camps següents:
+Per implementar les pautes d’identitat corporativa als comptes de Twitter de la Generalitat, la DGSEC defineix els camps següents:
 
 - *Avatar*: el corporatiu seguint el programa d'identificació visual.
 - *Nom d'usuari*: nom del servei més el sufix "cat", màxim 15 caràcters.
@@ -30,9 +30,9 @@ Twitter és una plataforma de micromissatgeria per publicar missatges de text cu
 
 ### 4.1.2. Gestió dels comptes
 
-Els comptes es gestionen des de l’aplicació Tweetdeck, a què s'accedeix amb el perfil personal de Twitter de cada editor. La DGAC obre els comptes de Twiter i designa un usuari que administra els editors del perfil. Aquest administrador és l'encarregat de donar permisos d'edició a les persones que gestionen el compte. 
+Els comptes es gestionen des de l’aplicació Tweetdeck, a què s'accedeix amb el perfil personal de Twitter de cada editor. La DGSEC obre els comptes de Twiter i designa un usuari que administra els editors del perfil. Aquest administrador és l'encarregat de donar permisos d'edició a les persones que gestionen el compte. 
 
-En els dispositius mòbils es gestionen les publicacions des de l’aplicació oficial de Twitter aprofitant l’opció multicompte. La DGAC és l’encarregada de configurar-ne l’accés en el dispositiu mòbil a les persones editores dels comptes.
+En els dispositius mòbils es gestionen les publicacions des de l’aplicació oficial de Twitter aprofitant l’opció multicompte. La DGSEC és l’encarregada de configurar-ne l’accés en el dispositiu mòbil a les persones editores dels comptes.
 
 Per millorar les prestacions que ofereix Tweetdeck en la seva versió d'escriptori es pot instal•lar l'extensió [Better Tweetdeck](https://github.com/eramdam/BetterTweetDeck).
 
@@ -41,7 +41,7 @@ Per millorar les prestacions que ofereix Tweetdeck en la seva versió d'escripto
 ![ Twitter header](./assets/img/4_1_tw_header.png)
 
 - **Colors de disseny**. El fons ha de ser blanc (#FFF) per a tots els perfils. El color de marca és el vermell corporatiu (#AC2115) a excepció dels perfils de Govern que utilitzen el blau corporatiu (#0B66AC).
-- **Imatge de capçalera**. Twitter es pot personalitzar el perfil amb una capçalera de 1500 x 500 px visible des del perfil. Cada departament, servei o marca pot triar la imatge de capçalera per al seu perfil d’acord amb la seva normativa gràfica. Es recomana que aquesta imatge sigui conceptual, relacionada amb l’àmbit d’actuació i sense missatges publicitaris. Quan es vol canviar la imatge, cal enviar-la per correu a la DGAC (xarxes@gencat.cat), especificant el nom del compte de Twittter a l’assumpte. Es recomana provar la imatge en un perfil personal abans d’enviar-la per estar segurs de quina es vol escollir.
+- **Imatge de capçalera**. Twitter es pot personalitzar el perfil amb una capçalera de 1500 x 500 px visible des del perfil. Cada departament, servei o marca pot triar la imatge de capçalera per al seu perfil d’acord amb la seva normativa gràfica. Es recomana que aquesta imatge sigui conceptual, relacionada amb l’àmbit d’actuació i sense missatges publicitaris. Quan es vol canviar la imatge, cal enviar-la per correu a la DGSEC (xarxes@gencat.cat), especificant el nom del compte de Twittter a l’assumpte. Es recomana provar la imatge en un perfil personal abans d’enviar-la per estar segurs de quina es vol escollir.
 - **Tuit destacat**. Twitter ofereix la possibilitat de destacar continguts al capdamunt del perfil amb l’opció Fixa’l al teu perfil.
 
 ### 4.1.4. Continguts
@@ -132,7 +132,7 @@ Per a una presència òptima a Twitter, hi ha d’haver activitat de manera cont
 	<img src=""> Captura tuit amb imatge
 	//Tota l’actualitat de l’esdeveniment a Facebook bit.ly/9SBfzF #tecnimap /via @tecnimap2010
 
-Un cop consolidada l’activitat a Twitter, es pot automatitzar la publicació d’alguns tuits mitjançant una assignació RSS pel que fa a certs continguts (convocatòries públiques, subvencions, diaris oficials, etc. i sempre que no generin un volum excessiu de tuits). En aquest cas, serà la DGAC qui gestionarà la sincronització de les publicacions.
+Un cop consolidada l’activitat a Twitter, es pot automatitzar la publicació d’alguns tuits mitjançant una assignació RSS pel que fa a certs continguts (convocatòries públiques, subvencions, diaris oficials, etc. i sempre que no generin un volum excessiu de tuits). En aquest cas, serà la DGSEC qui gestionarà la sincronització de les publicacions.
 
 ### 4.1.5. Integració web
 
@@ -172,9 +172,9 @@ La creació d'un perfil per a un departament o servei està fora de tot planteja
 
 ### 4.2.2. Gestió dels comptes
 
-Les pàgines de Facebook dels diferents departaments de la Generalitat són corporatives i les autoritza i configura la DGAC. Els responsables dels departaments s’hi han de posar en contacte per obtenir una pàgina de Facebook amb l’avatar corresponent i les indicacions pel que fa a la pàgina i a la imatge corporativa.
+Les pàgines de Facebook dels diferents departaments de la Generalitat són corporatives i les autoritza i configura la DGSEC. Els responsables dels departaments s’hi han de posar en contacte per obtenir una pàgina de Facebook amb l’avatar corresponent i les indicacions pel que fa a la pàgina i a la imatge corporativa.
 
-Facebook incorpora rols d’administrador de pàgines. La DGAC hi ha de constar com a administrador principal, mentre que els gestors de la pàgina són els autors de contingut. La tasca diària de publicació de continguts és a càrrec dels editors de cada pàgina.
+Facebook incorpora rols d’administrador de pàgines. La DGSEC hi ha de constar com a administrador principal, mentre que els gestors de la pàgina són els autors de contingut. La tasca diària de publicació de continguts és a càrrec dels editors de cada pàgina.
 
 Les pàgines de Facebook es gestionen mitjançant els perfils personals dels editors. La relació entre la pàgina i les persones editores no és pública i no hi ha cap informació visible que pugui associar el perfil personal dels editors amb la pàgina que editen.
 
@@ -245,7 +245,7 @@ La intenció final, però, és que els apunts promoguin la participació de la g
 
 ### 4.3.2. Gestió
 
-Els blogs dels diferents departaments de la Generalitat són corporatius i els autoritza i configura la Direcció General d’Atenció Ciutadana. Els responsables dels departaments s’hi han de posar en contacte per obtenir un blog i les indicacions pel que fa a la pàgina i a la imatge corporativa. Una vegada es notifica l'aprovació d'obertura del blog, el responsable d'aquest ha de facilitar a la DGAC la informació dels editors del blog. Llavors serà la DGAC l'encarregada d'assignar el permisos d'edició a les persones responsables.
+Els blogs dels diferents departaments de la Generalitat són corporatius i els autoritza i configura la Direcció General d’Atenció Ciutadana. Els responsables dels departaments s’hi han de posar en contacte per obtenir un blog i les indicacions pel que fa a la pàgina i a la imatge corporativa. Una vegada es notifica l'aprovació d'obertura del blog, el responsable d'aquest ha de facilitar a la DGSEC la informació dels editors del blog. Llavors serà la DGSEC l'encarregada d'assignar el permisos d'edició a les persones responsables.
 
 ### 4.3.3. Aspectes de presentació
 
@@ -296,9 +296,9 @@ En el cas de voler conservar el registre d’històries publicades, Instagram pe
 
 ### 4.4.3. Gestió dels comptes
  
-Els canals d'Instagram de la Generalitat són corporatius i els autoritza i configura la DGAC. Els responsables dels organismes s’hi han de posar en contacte per obtenir un canal corporatiu.
+Els canals d'Instagram de la Generalitat són corporatius i els autoritza i configura la DGSEC. Els responsables dels organismes s’hi han de posar en contacte per obtenir un canal corporatiu.
 
-Els canals d'Instagram de la Generalitat de Catalunya es creen des de correus electrònics de gencat. Per gestionar-los, es configuren (presencialment a la DGAC) els accessos al canal des  del dispositiu mòbil dels editors.
+Els canals d'Instagram de la Generalitat de Catalunya es creen des de correus electrònics de gencat. Per gestionar-los, es configuren (presencialment a la DGSEC) els accessos al canal des  del dispositiu mòbil dels editors.
 
 ### 4.4.3. Aspectes de presentació
 L'avatar del canal d'Instagram serà el definit en el programa d'identificació visual de la Generalitat de Catalunya.
@@ -327,7 +327,7 @@ Youtube és una plataforma per publicar, veure i compartir vídeos.
 
 #### Gestió dels comptes
 
-Els canals de Youtube dels diferents departaments de la Generalitat són corporatius i els autoritza i configura la DGAC. Els responsables dels departaments s’hi han de posar en contacte per obtenir un canal corporatiu.
+Els canals de Youtube dels diferents departaments de la Generalitat són corporatius i els autoritza i configura la DGSEC. Els responsables dels departaments s’hi han de posar en contacte per obtenir un canal corporatiu.
 
 Els comptes de Youtube de la Generalitat de Catalunya es creen des de correus electrònics de gencat. Per publicar un nou vídeo, s'ha d'enviar un correu electrònic a **xarxes@gencat.cat** amb:
 
@@ -414,7 +414,7 @@ Els comptes d’Slideshare de la Generalitat de Catalunya es creen des de correu
 
 #### Aspectes de presentació
 
-Actualment Slideshare no permet cap tipus de personalització del perfil, més enllà dels paràmetres que estableix la DGAC en el moment d'obrir el canal.
+Actualment Slideshare no permet cap tipus de personalització del perfil, més enllà dels paràmetres que estableix la DGSEC en el moment d'obrir el canal.
 
 #### Continguts
 
@@ -440,7 +440,7 @@ D'aquesta manera, s’evita que el lector es perdi i s’optimitza el nombre de 
 
 Wikiloc és una aplicació web i mòbil on es poden emmagatzemar i compartir rutes georeferencides (especialment en gps) i punts d'interès de tot el món.
 
-La presència oficial de la Generalitat de Catalunya a Wikiloc es vehicula mitjançant el compte ORG @gencat que gestiona la DGAC. Tota unitat interessada en publicar-hi una nova ruta ha de contactar amb la DGAC.
+La presència oficial de la Generalitat de Catalunya a Wikiloc es vehicula mitjançant el compte ORG @gencat que gestiona la DGSEC. Tota unitat interessada en publicar-hi una nova ruta ha de contactar amb la DGSEC.
 
 La gestió dels comptes d'aquesta eina la duu la mateixa plataforma, que hi posa l'avatar oficial establert per la Generalitat. El departament, servei o marca interessat a incorporar-hi una ruta pot editar l'apartat de *bio*, que no té límit d'extensió. Abans de publicar-les a Wikiloc, la Generalitat es compromet a obrir les dades d'aquestes rutes (com a mínim les pistes i, si se'n tenen els drets d'autoria, les imatges i el text) en el portal [dadesobertes.gencat.cat](https://dadesobertes.gencat.cat) perquè tothom que hi estigui interessat les pugui descarregar i reutilitzar.
 
@@ -448,4 +448,4 @@ La gestió dels comptes d'aquesta eina la duu la mateixa plataforma, que hi posa
 
 LinkedIn és una xarxa social orientada als professionals i els negocis. La presència de la Generalitat a Linkedin es duu a terme a partir de la pàgina oficial de la Generalitat de Catalunya. Només en casos excepcionals, en què es valori que és imprescindible una presència independent a Linkedin, s'autoritzarà l'obertura d'una nova pàgina.
 
-Per publicar un contingut a la pàgina de la Generalitat s'haurà d'enviar a la DGAC una proposta dels continguts i data de publicació, i la DGAC serà l'encarregada de calendaritzar-ne la publicació i difusió.
+Per publicar un contingut a la pàgina de la Generalitat s'haurà d'enviar a la DGSEC una proposta dels continguts i data de publicació, i la DGSEC serà l'encarregada de calendaritzar-ne la publicació i difusió.
