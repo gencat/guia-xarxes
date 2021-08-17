@@ -30,7 +30,7 @@ S'ha d'analitzar quins són els canals que millor s'ajusten a les necessitats de
 
 Amb l’elecció d’uns indicadors de rendiment adequats es pot avaluar l’impacte de la campanya i calcular el retorn sobre la inversió. Un cop finalitzada la campanya, per tant, és recomanable elaborar un informe de resultats que analitzi si s’han assolit els objectius inicials pel que fa a conversions, trànsit al web, augment de la comunitat, abast, etc. 
 
-![ Institucionals](/assets/img/7_1_institucional.png)
+![ Institucionals](./assets/img/7_1_institucional.png)
 
 ## 7.2. Procediment
 
@@ -52,7 +52,7 @@ La Direcció General de Difusió facilita el contacte d’aquesta agència al de
 
 Si l’organisme encarregat de la campanya no disposa de perfils de xarxes socials propis, o necessita arribar a una audiència més extensa, pot fer servir els comptes de gencat. Cal fer la petició a la Direcció General de Difusió i enviar-hi un document amb les respostes a preguntes freqüents sobre la temàtica de la campanya. D’aquesta manera, l’equip de xarxes socials podrà respondre adequadament les preguntes que formulin els ciutadans.
 
-![ De pagament](/assets/img/7_2_pagament.png)
+![ De pagament](./assets/img/7_2_pagament.png)
 
 ## 7.3. Modalitats de campanyes
 
@@ -83,5 +83,5 @@ A més de les promocions als espais socials, també es recomana fer difusió del
 
 En tots els casos les icones que s'han d'utilitzar són les que estableix el [Programa d'identificació visual de la Generalitat](http://identitatcorporativa.gencat.cat/ca/aplicacions/xarxes-socials/). Quan se'n faci difusió en suports on no sigui possible enllaçar el perfil, s'ha de fer servir la icona seguida del nom d'usuari: d'aquesta forma: *icona de la plataforma + @nomusuari*.
 
-![ Com difondre els perfils corporatius](/assets/img/7_3_promocions.jpg)
+![ Com difondre els perfils corporatius](./assets/img/7_3_promocions.jpg)
 

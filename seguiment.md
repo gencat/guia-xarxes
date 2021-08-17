@@ -12,7 +12,7 @@ Aquesta recollida centralitzada serveix per estandarditzar els valors i assegura
 
 ## 8.3. Informes
 
-Els informes de seguiment de cada perfil són públics i oberts a tots els editors i a la ciutadania a través del web [http://activitat.serveisdigitals.gencat.cat](http://activitat.serveisdigitals.gencat.cat).
+Els informes de seguiment de cada perfil són públics i oberts a tots els editors i a la ciutadania a través del web [http://activitat.atenciociutadana.gencat.cat/](http://activitat.atenciociutadana.gencat.cat/t).
 
 La finalitat és agrupar les dades i presentar-les en diferents informes perquè sigui fàcil de rendir comptes amb els màxims responsables de la unitat.
 

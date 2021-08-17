@@ -6,22 +6,28 @@ permalink: /changelog/
 # Change log
 Tots els canvis que anem introduint a cada una de les noves revisions de la Guia.
 
+## [0.9] - 2019-04
+### Nou
+
+### Modificat
+- Eina Instagram explicada amb més detall.
+- Canvi en la forma de gestió dels comptes de Flickr.
+- Actualització de captures.
+
 ## [0.8.1] - 2018-09-03
-## Nou
+### Nou
 - Incorporació d'accessibilitat com a principi de la presència a les xarxes socials.  
 - Consells d'accessibilitat en la publicació per cada eina.  
 
 ## [0.8] - 2017-03-08
-## Nou
+### Nou
 - Incorporació de l'apartat de consells de seguretat per als editors.
 - Noves recomanacions per a alts càrrecs.
 - Hem afegit Instagram com a eina corporativa de xarxes socials.
 - Consells per a la retransmissions en directe.
 
-## Modificat
-
 ## [0.7] - 2015-06-19
-## Nou
+### Nou
 - Nova organització dels capítols.
 - Capítol explicant solució corporativa.
 - Primeres passes per sol·licitar i començar a publicar en un perfil.
@@ -29,7 +35,7 @@ Tots els canvis que anem introduint a cada una de les noves revisions de la Guia
 - Generar continguts rellevants.
 - Promocions a les xarxes socials.
 
-## Modificat
+### Modificat
 - Actualitzacions a les eines.
 - PIV: nous avatars blaus pels perfils de govern.
 

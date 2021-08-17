@@ -4,19 +4,19 @@ L'obertura d'un nou perfil oficial a les xarxes socials es duu a terme en paral�
 
 ## 3.1. Tasques prèvies a la sol•licitud oficial
 
-![Primeres passes ](/assets/img/3_1_primeres_passes_1.jpg)
+![Primeres passes ](./assets/img/3_1_primeres_passes_1.jpg)
 
 ### 3.1.1. Definir objectius
 
 Poden canviar al llarg del temps, però els objectius defineixen l'estratègia  a les xarxes. És important que cada unitat dediqui el temps necessari en aquesta fase d'acord amb l'estratègia de comunicació integral. S'ha de trobar la manera de millorar l'atenció a la ciutadania fent ús de les xarxes.
 
-Una bona manera de començar és preguntar-se quin rol es vol que les xarxes socials juguin en la unitat. Cal saber la importància que té dins la unitat diferents aspectes com l'atenció al ciutadà, la informació d'activitats pròpies, el guany de visibilitat o l'assoliment de col•laboracions ciutadanes. Es poden agafar com a exemple els perfils de Twitter de [@gencat](http://twitter.com/gencat) i [@012](http://twitter.com/012).
+Una bona manera de començar és preguntar-se quin rol es vol que les xarxes socials juguin en la unitat. Cal saber la importància que té dins la unitat diferents aspectes com l'atenció al ciutadà, la informació d'activitats pròpies, el guany de visibilitat o l'assoliment de col•laboracions ciutadanes. Es poden agafar com a exemple els perfils de Twitter de [@gencat](https://twitter.com/gencat) i [@012](https://twitter.com/012).
 
 ### 3.1.2. Escoltar
 
 Estudiar el que s'està dient sobre el tema de què es vol tractar és una bona manera de començar a estar present a les xarxes i pot ajudar a afinar els objectius definits. Tot i que sembli un pas obvi, sovint s'oblida i això fa que no s'acabi de percebre el context més immediat. Ser present a les converses que es produeixen a les xarxes amb una actitud de predisposició al canvi i a la millora del servei és un dels aspectes bàsics dels perfils de més èxit.
 
-Es recomana cercar el nom de la unitat i les paraules clau associades a l'activitat que desenvolupa al [cercador de Twitter](http://search.twitter.com) abans de sol•licitar un perfil nou perquè ajudarà a afinar la percepció de la ciutadania sobre el servei. Un cop s'hagi obert el perfil oficial, es poden utilitzar les cerques avançades de [Tweetdeck](http://tweetdeck.twitter.com) i definir-hi columnes per a les més recurrents. Cal recordar que no sempre que algú parli del perfil ho farà citant el nom d'usuari.
+Es recomana cercar el nom de la unitat i les paraules clau associades a l'activitat que desenvolupa al [cercador de Twitter](https://search.twitter.com) abans de sol•licitar un perfil nou perquè ajudarà a afinar la percepció de la ciutadania sobre el servei. Un cop s'hagi obert el perfil oficial, es poden utilitzar les cerques avançades de [Tweetdeck](https://tweetdeck.twitter.com) i definir-hi columnes per a les més recurrents. Cal recordar que no sempre que algú parli del perfil ho farà citant el nom d'usuari.
 
 La DGAC demana, en el moment de l'obertura, cinc perfils de Twitter semblants per poder-s'hi comparar. També són útils per veure com actuen: quins recursos empren, a quina hora publiquen, amb quin tipus de continguts ho fan i, fins i tot, veure quin impacte aconsegueixen amb les publicacions.
 
@@ -44,7 +44,7 @@ Abans d'obrir el perfil, cal que les persones editores elaborin una llista de 20
 
 ## 3.2. Sol•licitud oficial
 
-S'ha d'enviar a la DGAC el [formulari](http://identitatcorporativa.gencat.cat/web/.content/Documentacio/pdf/autorit_web.pdf) de sol•licitud d'alta d'un nou perfil a les xarxes socials, que ha de signar el secretari general del departament corresponent.
+S'ha d'enviar a la DGAC el [formulari](http://atenciociutadana.gencat.cat/ca/serveis/xarxes-i-missatgeria-instantania/xarxes-socials/procediment/) de sol•licitud d'alta d'un nou perfil a les xarxes socials, que ha de signar el secretari general del departament corresponent.
 
 Aquest requisit obliga la persona responsable de la unitat i la responsable de xarxes del departament a parlar amb anterioritat sobre la idoneïtat del perfil dins l'estratègia comunicativa del departament.
 

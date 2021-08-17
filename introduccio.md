@@ -14,16 +14,16 @@ Les xarxes socials:
 - Per ampliar la informació oficial redirigeixen la gent cap al web corporatiu, o cap a un recurs acordat que tingui tant crèdit com la informació generada pels canals oficials.  
 - Faciliten la creació de xarxes temàtiques d'usuaris que, al seu torn, produeixen coneixement fonamental i complementari perquè l'organització conegui els interessos i la informació que generen aquestes xarxes i els pugui tenir en compte per millorar els seus serveis.  
 
-La Guia de xarxes socials de la [Generalitat de Catalunya](http://gencat.cat) estableix unes pautes comunes per a la presència homogènia de la Generalitat a les xarxes socials.
+La Guia de xarxes socials de la [Generalitat de Catalunya](https://gencat.cat) estableix unes pautes comunes per a la presència homogènia de la Generalitat a les xarxes socials.
 
 La Guia també conté el procediment que cal seguir per obrir perfils en aquests espais de relació i participació. Així mateix, enumera les diferents eines de xarxa social, els diversos usos i objectius de presència en cada una, les recomanacions per a una presència adequada i reexida i també els criteris d'estil comunicatiu més adequats en cada eina.
 
 ## Reutilització
 
-La [Generalitat de Catalunya](http://gencat.cat) permet la reutilització dels continguts i de les dades sempre que se citi la font i la data d'actualització, que no es desnaturalitzi la informació i que no es contradigui amb una llicència específica.
+La [Generalitat de Catalunya](https://gencat.cat) permet la reutilització dels continguts i de les dades sempre que se citi la font i la data d'actualització, que no es desnaturalitzi la informació i que no es contradigui amb una llicència específica.
 
 ## Com fer aportacions
 
-La Guia és un instrument dinàmic i obert en el qual tothom pot participar des de la seva experiència. Actualment el projecte està publicat a [Github](http://github.com/gencat) i des d'aquest espai es poden fer totes les aportacions.
+La Guia és un instrument dinàmic i obert en el qual tothom pot participar des de la seva experiència. Actualment el projecte està publicat a [Github gencat](httsp://github.com/gencat) i des d'aquest espai es poden fer totes les aportacions.
 
-També es poden fer suggeriments i altres propostes de millora al correu [xarxes@gencat.cat](mailto:xarxes@gencat.cat) i al perfil de Twitter [@gencat](http://twitter.com/gencat).
+També es poden fer suggeriments i altres propostes de millora al correu [xarxes@gencat.cat](mailto:xarxes@gencat.cat) i al perfil de Twitter [@gencat](https://twitter.com/gencat).

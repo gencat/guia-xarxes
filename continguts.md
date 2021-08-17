@@ -10,15 +10,15 @@ El mòbil és el principal dispositiu des d'on la ciutadania consulta els contin
 
 - Incorporar dinàmiques comunicatives a determinats perfils que hi escaiguin més, com ara la foto del dia o la previsió del temps, en perfils de caire més proactiu. Aquestes informacions poden anar acompanyades d’una etiqueta ideada per a l’ocasió. L'etiqueta no ha de tenir més de 12 caràcters i es pot anar repetint cada dia.
 
-![ Continguts rellevants](/assets/img/6_cnt_1.png)
+![ Continguts rellevants](./assets/img/6_cnt_1.png)
 
 - Acompanyar les publicacions d'imatges d'impacte. Cal que estiguin optimitzades a les dimensions de cada eina. A Twitter es recomanen imatges de 404 px x 220 px i per a Facebook de 403 px x 403 px.
 
-![ Continguts rellevants](/assets/img/6_cnt_2.png)
+![ Continguts rellevants](./assets/img/6_cnt_2.png)
 
 - Publicar prèviament en els repositoris corresponents (Youtube, Flickr, Slideshare) el material gràfic propi de les publicacions (vídeos, imatges, gràfics o presentacions).
 
-![ Continguts rellevants](/assets/img/6_cnt_3.png)
+![ Continguts rellevants](./assets/img/6_cnt_3.png)
 
 - Utilitzar un lector d'RSS per centralitzar de manera més eficient la lectura de nous continguts que puguin ser compartits.
 
@@ -28,7 +28,7 @@ El mòbil és el principal dispositiu des d'on la ciutadania consulta els contin
 
 - Aprofitar les tendències de l'actualitat per fer aflorar continguts propis d'arxiu que hi tinguin relació.
 
-![ Continguts rellevants](/assets/img/6_cnt_7.png)
+![ Continguts rellevants](./assets/img/6_cnt_7.png)
 
 ## 6.2. Redacció
 
@@ -40,13 +40,13 @@ Pautes per redactar continguts:
 
 - Cal seguir l’ordre natural de la frase i en format actiu a l’hora d’escriure a les xarxes socials.
 
-![ Continguts rellevants](/assets/img/6_cnt_4.png)
+![ Continguts rellevants](./assets/img/6_cnt_4.png)
 
 - Informació clara, concisa, persuasiva i creïble. També útil, urgent, única, ultraespecífica.
 
 - Fer ús del relat de marca (*storytelling*) en les publicacions, és a dir, recrear històries que il•lustrin la informació o el missatge que es vol transmetre per aconseguir l’atenció dels usuaris. Aquest estil de redacció s’ha de correspondre amb un rol més actiu de la persona seguidora de la pàgina, tendint a fer que se’n senti partícip en tot moment. Aquest nivell d’implicació amb l’usuari varia segons la xarxa social de què es tracti.
 
-![ Continguts rellevants](/assets/img/6_cnt_8.png)
+![ Continguts rellevants](./assets/img/6_cnt_8.png)
 
 - Usar etiquetes curtes i si és possible que ja s'estiguin utilitzant. Quan sigui imprescindible, usar noves etiquetes, com les emprades per a jornades específiques de certa transcendència o algun tipus de primícia. Han de tenir com a màxim 12 caràcters per fer més fàcil de recordar-la i d’encabir-la dins l’espai limitat d’un tuit.
 
@@ -54,29 +54,23 @@ Pautes per redactar continguts:
 
 - Utilitzar l'opció de Twitter que enllaça missatges a través de la resposta, o citar tuits. És una tècnica molt útil si es vol fer referència a continguts que s'han publicat prèviament. El nou missatge sortirà a la cronologia sota el missatge al qual s'ha enllaçat en ordre cronològic. 
 
-![ Continguts rellevants](/assets/img/6_cnt_9.png)
+![ Continguts rellevants](./assets/img/6_cnt_9.png)
 
 ## 6.3. Calendari editorial
 
-Aspectes a tenir en compte en l'editorialització de continguts:
+Aspectes a tenir en compte en l’editorialització de continguts:
 
-- Planificació a un mes vista dels continguts que es publicaran als diferents canals. En aquesta planificació han de participar totes les persones que gestionaran els perfils.
-
-- Canals interns d'informació perquè qualsevol persona de la unitat pugui suggerir continguts de publicació. Els gestors del perfil seran els encarregats de validar i publicar els continguts si ho troben convenient.
-
-- Creació d'un arxiu amb continguts atemporals per publicar quan no hi hagi continguts d'actualitat.
-
+- Planificació dels continguts que es publicaran als diferents canals. En aquesta planificació han de participar totes les persones que gestionaran els perfils.
+- Canals interns d’informació perquè qualsevol persona de la unitat pugui suggerir continguts de publicació. Els gestors del perfil seran els encarregats de validar i publicar els continguts si ho troben convenient.
+- Creació d’un arxiu amb continguts atemporals per publicar quan no hi hagi continguts d’actualitat.
 - Ús dels informes de seguiment que facilita la DGAC per conèixer els millors dies i hores per publicar. És important identificar les franges de màxim interès en la temàtica del perfil, ja que és diferent per a cada unitat. Hi ha franges de més interès per cada tipus de contingut. Per exemple, els continguts recurrents és important que sempre es publiquin a la mateixa hora.
-
-- La publicació programada és una bona eina però s'ha de tenir un control del que es publicarà i la possibilitat d'accedir a modificar-la. Cal anar amb compte perquè un missatge programat en segons quin context pot ser l'origen d'una crisi.
+- La publicació programada és una bona eina però s’ha de tenir un control del que es publicarà i la possibilitat d’accedir a modificar-la. Cal anar amb compte perquè un missatge programat en segons quin context pot ser l’origen d’una crisi.
 
 ## 6.4. Freqüència de publicació
 
-L'atenció de la ciutadania pren cada vegada més rellevància. La informació que arriba al llarg d'un dia creix any rere any, per això cal intentar racionalitzar els missatges a publicar.
+L’atenció de la ciutadania pren cada vegada més rellevància. La informació que arriba al llarg d’un dia creix any rere any, per això cal intentar racionalitzar els missatges a publicar.
 
-S'ha observat com un major espai temporal entre missatges publicats repercuteix positivament en la visibilitat. Es recomana espaiar els missatges a les diferents plataformes i publicar de manera pausada. La freqüència de publicació òptima per a cada xarxa depèn del tipus de contingut i, evidentment, en casos de directe i d'emergències, està justificat publicar missatges en intervals temporals més ajustats.
-
-Com a recomanació general s'aconsella publicar mensualment uns 150 tuits i unes 50 publicacions a Facebook. D'altra banda, també es recomana una publicació mínima regular.
+S’ha observat com un major espai temporal entre missatges publicats repercuteix positivament en la visibilitat. Es recomana espaiar els missatges a les diferents plataformes i publicar de manera pausada. La freqüència de publicació òptima per a cada xarxa depèn del tipus de contingut i, evidentment, en casos de directe i d’emergències, està justificat publicar missatges en intervals temporals més ajustats.
 
 ## 6.5. Ús d'emoticones i emojis
 
@@ -84,7 +78,7 @@ Actualment les emoticones i els emojis són de gran utilitat per comunicar de ma
 
 Els missatges han de ser senzills, curts i visuals, adaptats al context d'ús. Convé evitar l'ús de fórmules pròpies d'un registre molt col•loquial, sense emfasitzar, ni escriure amb majúscules. És clau que el missatge sigui clar i atractiu, fent ús de recursos lingüístics, acompanyant-los d'imatges i, aprofitant la galeria que ofereix Telegram, incorporant emoticones que afegeixen un to desenfadat que connecta amb la part més emocional. Les emoticones actuen com a complement del text però no el substitueixen.  
 
-![ Continguts rellevants](/assets/img/6_cnt_10.png)
+![ Continguts rellevants](./assets/img/6_cnt_10.png)
 
 ## 6.6. Aspectes d'accessibilitat i usabilitat a tenir en compte
 

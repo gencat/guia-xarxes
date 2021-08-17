@@ -4,7 +4,7 @@ Quan s'obre un perfil a les xarxes socials, s'entra en el terreny de la ciutadan
 
 Una bona manera de seguir el que s'està dient sobre un tema d'interès és mitjançant el monitoratge. Amb les columnes de l'aplicació Tweetdeck es poden configurar [cerques avançades](https://support.twitter.com/articles/71577-using-advanced-search) a Twitter, per fer-ne un seguiment i aplicar-hi filtres. 
 
-![ Gestionar la comunitat](/assets/img/5_gestionar_tweetdeck.png)
+![ Gestionar la comunitat](./assets/img/5_gestionar_tweetdeck.png)
 
 És important seguir la netiqueta de cada entorn en què s'és present. Per exemple, a Twitter no cal agrair els retuits dels usuaris o els nous seguidors. Tampoc no es recomana retuitejar els comentaris positius que faci la ciutadania, excepte els que puguin aportar un valor significatiu a la comunitat.
 
@@ -36,17 +36,17 @@ Les mencions només s’han d’utilitzar en casos justificats, com ara per resp
 
 Si sabem que Twitter té molts avantatges en la comunicació institucional, també és cert que la insatisfacció de la ciutadania envers els poders públics se sol vehicular de manera molt evident per mitjà d’aquesta xarxa. Una de les característiques de Twitter és que amplifica emocions perquè el pretès anonimat a la xarxa fa que les persones l’utilitzin amb més llibertat, sense restriccions en el que manifesten. Quan, a través de tuits es formulen queixes o es qüestiona una decisió, sempre cal oferir una resposta. Si s’ignoren les interpel•lacions, es pot contribuir a incrementar el descontentament. La resposta a les consultes, queixes o suggeriments s’ha d’oferir en el termini més breu possible: es recomana que no sigui superior a dues hores. Sempre que sigui possible, la resposta ha de contenir el subjecte de la pregunta per incrementar la visibilitat del tuit i la seva contextualització en qualsevol espai. Per exemple, si la pregunta d’un usuari és “Quan s’obre el procés d’inscripcions universitàries?”, cal respondre “El procés d’inscripcions universitàries s’obre el 25 de març”.  
 
-![ Gestionar la comunitat](/assets/img/5_gestionar_tuit_1.png)
+![ Gestionar la comunitat](./assets/img/5_gestionar_tuit_1.png)
 
 Les **mencions** a Twitter només s’han d’utilitzar en casos justificats, com ara per respondre consultes de la ciutadania o per estalviar caràcters a l’hora de referir-se a algú en el cos del tuit, tant en perfils relacionats amb la Generalitat (consellers, treballadors públics...) com amb altres institucions. Cal evitar incloure sistemàticament mencions al tuit amb l’objectiu d’aconseguir retuit (RT) ja que es considera una mala pràctica i, en tot cas, els perfils que estiguin interessats en els continguts d'un perfil determinat, ja es preocuparan de seguir-lo. N’és una excepció la informació d’emergència (la Generalitat té perfils específics sobre aquesta temàtica) que, com en el cas d’un incendi, està justificada ja que necessita la màxima difusió.
 
-![ Gestionar la comunitat](/assets/img/5_gestionar_tuit_2.png)
+![ Gestionar la comunitat](./assets/img/5_gestionar_tuit_2.png)
 
 Els **retuits** són tuits d’altres persones usuàries que tornen a publicar per col•laborar a la conversa. Perquè els altres usuaris puguin retuitejar-los, els tuits han de tenir uns 125-130 caràcters com a màxim (segons la llargada del nom del perfil).
 
 Per norma general, s’han d’escriure amb el format següent:
 
-![ Gestionar la comunitat](/assets/img/5_gestionar_tuit_3.png)
+![ Gestionar la comunitat](./assets/img/5_gestionar_tuit_3.png)
 
 	RT + @nomdelperfilretuitejat + text + enllaç escurçat + #etiqueta
 	RT @tecnimap2010. Tota l’actualitat de l’esdeveniment a Facebook  bit.ly/9SBfzF #tecnimap)
