@@ -25,7 +25,7 @@ https://github.com/gencat/guia-xarxes/issues
 6a edició: octubre 2013 	/ pdf: [cat](/assets/pdf/v06_guia_usos_xarxa_cat.pdf) · [es](/assets/pdf/v06_guia_usos_xarxa_es.pdf) · [en](/assets/pdf/v06_guia_usos_xarxa_en.pdf)  
 7a edició: juliol 2015		/ pdf: [cat](/assets/pdf/v07_guia_usos_xarxa_cat.pdf) · [es](/assets/pdf/v07_guia_usos_xarxa_es.pdf) · [en](/assets/pdf/v07_guia_usos_xarxa_en.pdf)  
 8a edició: abril 2018		/ pdf: [cat](/assets/pdf/v08_guia_usos_xarxa_cat.pdf)  
-9a edició: abril 2019       / pdf: [cat](/assets/pdf/v09_guia_usos_xarxa_cat.pdf)  
+9a edició: abril 2019       / pdf: [cat](/assets/pdf/v09_guia_usos_xarxa_cat.pdf) · [es](/assets/pdf/v09_guia_usos_xarxa_es.pdf) 
 
 
 Consulta [els canvis fets](CHANGELOG.md) a cada edició.  
